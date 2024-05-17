@@ -12,7 +12,7 @@ function Navbar() {
         <nav className='flex items-center justify-between bg-transparent w-full'>
             <div className=' bg-transparent flex items-center font-medium justify-between w-full'>
             <div className=' bg-transparent px-2 z-50 md:w-100% w-full flex justify-between'>
-                    <img className=' h-16 bg-transparent ' src='aotlogo.png'></img>
+                    <img className=' h-16 bg-transparent ' src='../assets/aotlogo.png'></img>
                     <div className=' bg-transparent md:hidden py-3' onClick={()=>off(!on)}>
                         <img src={`${on ? '../assets/close.png':'../assets/open.png'}`} className='bg-transparent h-8'></img>
                     </div>
