@@ -31,25 +31,25 @@ const items = [
   {
     title: "KPIT SPARKLE’23",
     description:"A dazzling showcase of creaticity by Team Magnifier.",
-    header: <img src="./src/assets/deptNews5.jpg" className=" w-full bg-auto bg-center object-cover overflow-hidden"/>,
+    header: <img src="../assets/deptNews5.jpg" className=" w-full bg-auto bg-center object-cover overflow-hidden"/>,
     
   },
   {
     title: "An overview of Code’tsav 1.0",
     description: "Coding event organised by Student’s Chapter EEE.",
-    header: <img src="./src/assets/deptNews6.png" className=" w-full bg-auto bg-center object-cover overflow-hidden"/>,
+    header: <img src="../assets/deptNews6.png" className=" w-full bg-auto bg-center object-cover overflow-hidden"/>,
     
   },
   {
     title: "Revolutionizing Communication",
     description: "A great innovation by Team Anonymous Hacker.",
-    header: <img src="./src/assets/deptNews7.webp" className=" w-full h-full bg-auto bg-center object-cover overflow-hidden"/>,
+    header: <img src="../assets/deptNews7.webp" className=" w-full h-full bg-auto bg-center object-cover overflow-hidden"/>,
     
   },
   {
     title: "Capture the flags",
     description: "Students of AOT making strides in competitions.",
-    header: <img src="./src/assets/deptNews8.png" className=" w-full bg-auto bg-center object-cover overflow-hidden"/>,
+    header: <img src="../assets/deptNews8.png" className=" w-full bg-auto bg-center object-cover overflow-hidden"/>,
 
   },
 
