@@ -32,38 +32,38 @@ const items = [
   {
     title: "The Dawn of Innovation",
     description: "Explore the birth of groundbreaking ideas and inventions.",
-    header: <img src="./news3.jpg" className=" w-full bg-auto bg-center object-cover overflow-hidden"/>,
+    header: <img src="../assets/news3.jpg" className=" w-full bg-auto bg-center object-cover overflow-hidden"/>,
     
   },
   {
     title: "StartUp Talks by two of our shining students.",
     description: "A valuable experience of their journey to build a startup given by Ronit and Subhrokamal.",
-    header: <img src="./news22.jpg" className=" w-full bg-auto bg-center object-cover overflow-hidden"/>,
+    header: <img src="../assets/news22.jpg" className=" w-full bg-auto bg-center object-cover overflow-hidden"/>,
     
   },
   {
     title: "SIH 2023",
     description: "A remarkable contribution by students.",
-    header: <img src="./news28.jpeg" className=" w-full bg-auto bg-center object-cover overflow-hidden"/>,
+    header: <img src="../assets/news28.jpeg" className=" w-full bg-auto bg-center object-cover overflow-hidden"/>,
     
   },
   {
     title: "AOT-Agile",
     description:
       "A great sports torunament organised in AOT.",
-    header: <img src="./news24.jpg" className=" w-full bg-auto bg-center object-cover overflow-hidden"/>,
+    header: <img src="../assets/news24.jpg" className=" w-full bg-auto bg-center object-cover overflow-hidden"/>,
     
   },
   {
     title: "The Pursuit of Knowledge",
     description: "Join the quest for understanding and enlightenment.",
-    header: <img src="./news17.jpg" className=" w-full bg-auto bg-center object-cover overflow-hidden"/>,
+    header: <img src="../assets/news17.jpg" className=" w-full bg-auto bg-center object-cover overflow-hidden"/>,
     
   },
   {
     title: "Techtrix",
     description: "Experience the thrill of bringing ideas to life.",
-    header: <img src="./news29.jpg" className=" w-full bg-auto bg-center object-cover overflow-hidden"/>,
+    header: <img src="../assets/news29.jpg" className=" w-full bg-auto bg-center object-cover overflow-hidden"/>,
 
   },
 
