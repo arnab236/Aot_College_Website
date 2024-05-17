@@ -210,12 +210,12 @@ function Head() {
           <img
             className="cloud w-full top-[65%] h-[30%] absolute md:h-[60%] md:top-[48%] "
             rel="preload"
-            src=" cloud.png"
+            src="../assets/cloud.png"
           ></img>
           <img
             className="clg w-full pt-[100%] h-full md:pt-[18%]"
             rel="preload"
-            src="aot_landing.png"
+            src="../assets/aot_landing.png"
           ></img>
           <h1 className="text-6xl text-center font-bold xl:mx-[18%] xl:text-9xl lg:text-8xl lg:mx-[10%] lg:top-[30%] md:mx-[20%] md:top-[20%] md:text-6xl sm:mx-[25%] xs:mx-[10%] mx-[5%] xl:top-[45%] top-[45%] break-words text-wrap absolute aotmain text-blue-950">Academy of Technology</h1>
 
