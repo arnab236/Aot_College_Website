@@ -5,6 +5,10 @@ import Search from './Search';
 import { NavLink } from 'react-router-dom';
 import Navlinks from './Navlinks';
 import "./Academics.css"
+import aotLogo from "../assets/aotlogo.png";
+import open from "../assets/open.png";
+import close from "../assets/close.png";
+import search from "../assets/search.png";
 function SecNav() {
     const [on,off] = useState(false)
     const [searchOn,searchOff] = useState(false)
@@ -13,9 +17,9 @@ function SecNav() {
         <nav className='flex items-center justify-between shadow-lg shadow-slate-600 static '>
             <div className=' bg-transparent flex items-center font-medium justify-between  w-full'>
             <div className=' bg-transparent px-2 z-50 md:w-100% w-full flex justify-between'>
-                    <img className=' h-16 bg-transparent ' src='../assets/aotlogo.png'></img>
+                    <img className=' h-16 bg-transparent ' src={aotLogo}></img>
                     <div className=' bg-transparent md:hidden py-3' onClick={()=>off(!on)}>
-                        <img src={`${on ? '../assets/close.png':'../assets/open.png'}`} className='bg-transparent h-8'></img>
+                        <img src={`${on ? `${close}`:`${open}`}`} className='bg-transparent h-8'></img>
                     </div>
             </div>
             </div>
@@ -49,7 +53,7 @@ function SecNav() {
             </ul>
             <div className='bg-transparent md:block hidden p-4 pl-20'>
             <button className=''onClick={()=>searchOff(!searchOn)}>
-            <img src={`${searchOn ? '../assets/close.png':'../assets/search.png'}`} className='bg-transparent h-10 w-16'></img>
+            <img src={`${searchOn ? `${close}`:`${search}`}`} className='bg-transparent h-10 w-16'></img>
             </button>
             
             </div>
