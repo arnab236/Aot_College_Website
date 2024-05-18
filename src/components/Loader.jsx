@@ -19,7 +19,7 @@ function Loader() {
                 {
                     load ? ( <div className='xyz h-screen flex justify-center items-center'>
                         <img className='abc h-[150px] bg-transparent
-                        drop-shadow-[0_15px_5px_rgba(0,0,0,0.35)] '  src='../assets/loading.svg' />
+                        drop-shadow-[0_15px_5px_rgba(0,0,0,0.35)] '  src='src/assets/loading.svg' />
                         </div>
                     ): (
                         <div>
