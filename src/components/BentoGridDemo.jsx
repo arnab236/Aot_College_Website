@@ -46,31 +46,31 @@ const items = [
   {
     title: "Arcadia ’23",
     description: " AOT unleashed its inner rhythm to witness an enthralling journey.",
-    header: <img src={news20} className=" w-full bg-auto bg-center object-cover overflow-hidden"/>,
+    header: <img src={news2} className=" w-full bg-auto bg-center object-cover overflow-hidden"/>,
     
   },
   {
     title: "Synapse",
     description: "A small quiz competition hosted by SC ECE.",
-    header: <img src={news2} className=" w-full bg-auto bg-center object-cover overflow-hidden"/>,
+    header: <img src={news3} className=" w-full bg-auto bg-center object-cover overflow-hidden"/>,
     
   },
   {
     title: "Techfiesta ’24",
     description:"All the tech,cultural and exciting events in one zone.",
-    header: <img src={news21} className=" w-full bg-auto bg-center object-cover overflow-hidden"/>,
+    header: <img src={news4} className=" w-full bg-auto bg-center object-cover overflow-hidden"/>,
     
   },
   {
     title: "Arcadia ’23",
     description: "One of the biggest cultural fest in West Bengal.",
-    header: <img src={news13} className=" w-full bg-auto bg-center object-cover overflow-hidden"/>,
+    header: <img src={news5} className=" w-full bg-auto bg-center object-cover overflow-hidden"/>,
     
   },
   {
     title: "The Joy of Creation",
     description: "Experience the thrill of bringing ideas to life.",
-    header: <img src={news4} className=" w-full bg-auto bg-center object-cover overflow-hidden"/>,
+    header: <img src={news6} className=" w-full bg-auto bg-center object-cover overflow-hidden"/>,
 
   },
 
