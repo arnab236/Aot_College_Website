@@ -54,9 +54,9 @@ THE DEVOLOPERS OF THE PROJECT
 [ARNAB SARKAR](https://github.com/arnab236)
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
 [SAMRAT GHOSH](https://github.com/Samratghosh2004)
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; 
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 [DHRUBAJYOTI GHOSH](https://github.com/Dhruba274) 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[GOURAB DASGUTA](https://github.com/gourabdg08) 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+&nbsp; &nbsp; &nbsp; &nbsp; 
+[GOURAB DASGUTA](https://github.com/gourabdg08) 
+&nbsp; &nbsp; 
 [DEBMALYA SADHUKHAN](https://github.com/deBmalooo)
