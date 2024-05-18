@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react'
 import Home from './Home'
 import '../index.css'
-
+import loaders from "../assets/loading.svg";
 function Loader() {
     const [home, setHome] = useState('')
     const [load, setLoad] = useState(true)
@@ -19,7 +19,7 @@ function Loader() {
                 {
                     load ? ( <div className='xyz h-screen flex justify-center items-center'>
                         <img className='abc h-[150px] bg-transparent
-                        drop-shadow-[0_15px_5px_rgba(0,0,0,0.35)] '  src='../assets/loading.svg' />
+                        drop-shadow-[0_15px_5px_rgba(0,0,0,0.35)] '  src={loaders} />
                         </div>
                     ): (
                         <div>
