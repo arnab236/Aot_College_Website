@@ -26,7 +26,7 @@ import slide_image_2 from "../assets/admin_campus.jpg";
 import slide_image_4 from "../assets/mech_block.jpg";
 import slide_image_5 from "../assets/canteen.jpg";
 import slide_image_3 from "../assets/hostelpic.jpg";
-import slide_image_6 from "../assets/clgcampus.jpg";
+import slide_image_6 from "../assets/classroom.jpg";
 import slide_image_7 from "../assets/campus2.jpg";
 import cloudImg from "../assets/cloud.png";
 import aotImg from "../assets/aot_landing.png";
@@ -365,7 +365,7 @@ function Head() {
                 </SwiperSlide>
                 <SwiperSlide>
                   <img src={slide_image_6} alt="slide_image" />
-                  <h1 className="absolute bottom-4 left-4 text-sm  md:bottom-20 md:left-32 md:text-4xl">College Campus</h1>
+                  <h1 className="absolute bottom-4 left-4 text-sm  md:bottom-20 md:left-32 md:text-4xl">Classrooms</h1>
                 </SwiperSlide>
                 <SwiperSlide>
                   <img src={slide_image_7} alt="slide_image" />
