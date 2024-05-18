@@ -9,7 +9,7 @@ import { EffectFade, Pagination, Navigation, Autoplay } from "swiper/modules";
 import slide_image_1 from "../assets/events8.jpg";
 import slide_image_2 from "../assets/events2.jpg";
 import slide_image_3 from "../assets/events5.jpg";
-import slide_image_4 from "../../news12.jpg";
+import slide_image_4 from "../assets/news12.jpg";
 import slide_image_5 from "../assets/events7.jpg";
 
 import { SlArrowLeft } from "react-icons/sl";
