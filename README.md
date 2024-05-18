@@ -58,5 +58,5 @@ THE DEVOLOPERS OF THE PROJECT
 [DHRUBAJYOTI GHOSH](https://github.com/Dhruba274) 
 &nbsp; &nbsp; &nbsp; &nbsp; 
 [GOURAB DASGUTA](https://github.com/gourabdg08) 
-&nbsp; &nbsp; 
+ 
 [DEBMALYA SADHUKHAN](https://github.com/deBmalooo)
