@@ -1,15 +1,16 @@
 import React from 'react';
 import { NavLink } from 'react-router-dom';
 import { GrInstagram, GrLinkedin, GrYoutube } from "react-icons/gr";
+import footerIcon from "../assets/AOT-Footer-Logo.png";
 const Footer = () => {
   return (
-    <footer className="bg-[linear-gradient(to_right_bottom,rgba(45,38,83,0.3),rgba(65,54,255,0.6)),url('../assets/footergbg.jpg')]  bg-center bg-cover font-['para'] " >
+    <footer className="bg-[linear-gradient(to_right_bottom,rgba(45,38,83,0.3),rgba(65,54,255,0.6)),url('src/assets/footergbg.jpg')]  bg-center bg-cover font-['para'] " >
     <div className="bg-[rgba(0,0,0,0.2)] py-12">
       <div className="container mx-auto flex justify-center">
         <div className="footer-content w-full md:w-1/3 text-center">
           
           <div className=' flex flex-col items-center ml-5'>
-            <div className="bg-[url('../assets/AOT-Footer-Logo.png')] h-full bg-cover bg-center mt-10 md:w-auto w-36"></div>
+            <img src={footerIcon} className='  mt-10 md:w-auto w-36'></img>
           <div className=' flex md:gap-8 gap-6 items-center'>
           <NavLink to={'https://www.instagram.com/'} target='_blank' className=' text-white text-3xl hover:-translate-y-1 hover:text-[#d73676] duration-200 '><GrInstagram/></NavLink>
           <NavLink to={'https://www.linkedin.com/'} target='_blank' className=' text-white text-3xl hover:-translate-y-1 hover:text-[#0072b1] duration-200'><GrLinkedin/></NavLink>
