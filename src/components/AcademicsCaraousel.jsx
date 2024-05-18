@@ -31,7 +31,7 @@ function AcademicsCaraousel() {
             <div className="relative flex flex-col w-full h-[90%] rounded-2xl container-box transition-all ease-in duration-200 m-2 border-4 border-solid border-[#f0eded]">
               <div className="w-full h-2/3 overflow-hidden rounded-t-2xl">
                 <img
-                  src="src/assets/deptEvent1.jpg"
+                  src="../assets/deptEvent1.jpg"
                   alt=""
                   className="h-auto w-full object-cover"
                 />
@@ -60,7 +60,7 @@ function AcademicsCaraousel() {
             <div className="relative flex flex-col w-full h-[90%] rounded-2xl container-box transition-all ease-in duration-200 m-2 border-4 border-solid border-[#f0eded]">
               <div className="w-full h-2/3 overflow-hidden rounded-t-2xl">
                 <img
-                  src="src/assets/deptEvent2.jpg"
+                  src="../assets/deptEvent2.jpg"
                   alt=""
                   className="h-auto w-full object-cover"
                 />
@@ -88,7 +88,7 @@ function AcademicsCaraousel() {
             <div className="relative flex flex-col w-full h-[90%] rounded-2xl container-box transition-all ease-in duration-200 m-2 border-4 border-solid border-[#f0eded]">
               <div className="w-full h-2/3 overflow-hidden rounded-t-2xl">
                 <img
-                  src="src/assets/deptEvent3.jpg"
+                  src="../assets/deptEvent3.jpg"
                   alt=""
                   className="h-auto w-full object-cover"
                 />
@@ -117,7 +117,7 @@ function AcademicsCaraousel() {
             <div className="relative flex flex-col w-full h-[90%] rounded-2xl container-box transition-all ease-in duration-200 m-2 border-4 border-solid border-[#f0eded]">
               <div className="w-full h-2/3 overflow-hidden rounded-t-2xl">
                 <img
-                  src="src/assets/deptEvent4.jpg"
+                  src="../assets/deptEvent4.jpg"
                   alt=""
                   className="h-auto w-full object-cover"
                 />
@@ -145,7 +145,7 @@ function AcademicsCaraousel() {
             <div className="relative flex flex-col w-full h-[90%] rounded-2xl container-box transition-all ease-in duration-200 m-2 border-4 border-solid border-[#f0eded]">
               <div className="w-full h-2/3 overflow-hidden rounded-t-2xl">
                 <img
-                  src="src/assets/deptEvent5.png"
+                  src="../assets/deptEvent5.png"
                   alt=""
                   className="h-auto w-full object-cover"
                 />
@@ -173,7 +173,7 @@ function AcademicsCaraousel() {
             <div className="relative flex flex-col w-full h-[90%] rounded-2xl container-box transition-all ease-in duration-200 m-2 border-4 border-solid border-[#f0eded]">
               <div className="w-full h-2/3 overflow-hidden rounded-t-2xl">
                 <img
-                  src="src/assets/deptEvent6.jpg"
+                  src="../assets/deptEvent6.jpg"
                   alt=""
                   className="h-auto w-full object-cover"
                 />
