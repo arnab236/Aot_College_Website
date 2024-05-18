@@ -16,7 +16,7 @@ const closenote = (e) => {
                 <div className=' mt-10 flex flex-col bg-slate-100 pb-5  md:w-1/3 rounded-lg'>
                     <button onClick={onClose} className='place-self-end'><X size={30}/></button>
                     <div>
-                        <img src='./notice.jpg' className=' w-full h-auto object-cover overflow-hidden' />
+                        <img src='src/assets/notice.jpg' className=' w-full h-auto object-cover overflow-hidden' />
                     </div>
                 </div>
             </div>
