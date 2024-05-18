@@ -4,6 +4,10 @@ import { FiSearch } from "react-icons/fi";
 import Navlinks from './Navlinks';
 import Search from './Search';
 import '../index.css';
+import close from "../assets/close.png";
+import open from "../assets/open.png";
+import aotLogo from "../assets/aotlogo.png";
+import search from "../assets/search.png";
 function Navbar() {
     const [on,off] = useState(false)
     const [searchOn,searchOff] = useState(false)
@@ -12,9 +16,9 @@ function Navbar() {
         <nav className='flex items-center justify-between bg-transparent w-full'>
             <div className=' bg-transparent flex items-center font-medium justify-between w-full'>
             <div className=' bg-transparent px-2 z-50 md:w-100% w-full flex justify-between'>
-                    <img className=' h-16 bg-transparent ' src='../assets/aotlogo.png'></img>
+                    <img className=' h-16 bg-transparent ' src={aotLogo}></img>
                     <div className=' bg-transparent md:hidden py-3' onClick={()=>off(!on)}>
-                        <img src={`${on ? '../assets/close.png':'../assets/open.png'}`} className='bg-transparent h-8'></img>
+                        <img src={`${on ? `${close}` : `${open}`}`} className='bg-transparent h-8'></img>
                     </div>
             </div>
             </div>
@@ -24,7 +28,7 @@ function Navbar() {
             </ul>
             <div className='bg-transparent md:block hidden p-4 pl-20'>
             <button className=''onClick={()=>searchOff(!searchOn)}>
-            <img src={`${searchOn ? '../assets/close.png':'../assets/search.png'}`} className='bg-transparent h-8 w-36 lg:h-8 lg:w-24 xl:h-10 xl:w-16'></img>
+            <img src={`${searchOn ? `${close}` : `${search}`}`} className='bg-transparent h-8 w-36 lg:h-8 lg:w-24 xl:h-10 xl:w-16'></img>
             </button>
             
             </div>
