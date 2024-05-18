@@ -11,6 +11,11 @@ import {
   IconTableColumn,
 } from "@tabler/icons-react";
 
+import deptnews5 from "../assets/deptNews5.jpg";
+import deptnews6 from "../assets/deptNews6.png";
+import deptnews7 from "../assets/deptNews7.webp";
+import deptnews8 from "../assets/deptNews8.png";
+
 export function BentoGridDemoAcademicsOne() {
   return (
     <BentoGrid className="max-w-3xl md:max-w-7xl mx-auto p-4" >
@@ -31,25 +36,25 @@ const items = [
   {
     title: "KPIT SPARKLE’23",
     description:"A dazzling showcase of creaticity by Team Magnifier.",
-    header: <img src="../assets/deptNews5.jpg" className=" w-full bg-auto bg-center object-cover overflow-hidden"/>,
+    header: <img src={deptnews5} className=" w-full bg-auto bg-center object-cover overflow-hidden"/>,
     
   },
   {
     title: "An overview of Code’tsav 1.0",
     description: "Coding event organised by Student’s Chapter EEE.",
-    header: <img src="../assets/deptNews6.png" className=" w-full bg-auto bg-center object-cover overflow-hidden"/>,
+    header: <img src={deptnews6} className=" w-full bg-auto bg-center object-cover overflow-hidden"/>,
     
   },
   {
     title: "Revolutionizing Communication",
     description: "A great innovation by Team Anonymous Hacker.",
-    header: <img src="../assets/deptNews7.webp" className=" w-full h-full bg-auto bg-center object-cover overflow-hidden"/>,
+    header: <img src={deptnews7} className=" w-full h-full bg-auto bg-center object-cover overflow-hidden"/>,
     
   },
   {
     title: "Capture the flags",
     description: "Students of AOT making strides in competitions.",
-    header: <img src="../assets/deptNews8.png" className=" w-full bg-auto bg-center object-cover overflow-hidden"/>,
+    header: <img src={deptnews8} className=" w-full bg-auto bg-center object-cover overflow-hidden"/>,
 
   },
 
