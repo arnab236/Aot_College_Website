@@ -9,7 +9,7 @@ const Footer = () => {
         <div className="footer-content w-full md:w-1/3 text-center">
           
           <div className=' flex flex-col items-center ml-5'>
-          <img src='../assets/AOT-Footer-Logo.png' className='  mt-10 md:w-auto w-36'></img>
+          <img src='src/assets/AOT-Footer-Logo.png' className='  mt-10 md:w-auto w-36'></img>
           <div className=' flex md:gap-8 gap-6 items-center'>
           <NavLink to={'https://www.instagram.com/'} target='_blank' className=' text-white text-3xl hover:-translate-y-1 hover:text-[#d73676] duration-200 '><GrInstagram/></NavLink>
           <NavLink to={'https://www.linkedin.com/'} target='_blank' className=' text-white text-3xl hover:-translate-y-1 hover:text-[#0072b1] duration-200'><GrLinkedin/></NavLink>
