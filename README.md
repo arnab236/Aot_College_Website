@@ -1,8 +1,8 @@
 
 # Project Title
 
-College Website designing
- This website made for college in inter college website desigining.
+College Website designing <br></br>
+This website made for college in inter college website desigining.
 
  PROJECT LINK-https://aot-college-website.vercel.app/
 
