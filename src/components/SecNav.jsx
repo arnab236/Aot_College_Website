@@ -13,9 +13,9 @@ function SecNav() {
         <nav className='flex items-center justify-between shadow-lg shadow-slate-600 static '>
             <div className=' bg-transparent flex items-center font-medium justify-between  w-full'>
             <div className=' bg-transparent px-2 z-50 md:w-100% w-full flex justify-between'>
-                    <img className=' h-16 bg-transparent ' src='src/assets/aotlogo.png'></img>
+                    <img className=' h-16 bg-transparent ' src='../assets/aotlogo.png'></img>
                     <div className=' bg-transparent md:hidden py-3' onClick={()=>off(!on)}>
-                        <img src={`${on ? 'src/assets/close.png':'src/assets/open.png'}`} className='bg-transparent h-8'></img>
+                        <img src={`${on ? '../assets/close.png':'../assets/open.png'}`} className='bg-transparent h-8'></img>
                     </div>
             </div>
             </div>
@@ -49,7 +49,7 @@ function SecNav() {
             </ul>
             <div className='bg-transparent md:block hidden p-4 pl-20'>
             <button className=''onClick={()=>searchOff(!searchOn)}>
-            <img src={`${searchOn ? 'src/assets/close.png':'src/assets/search.png'}`} className='bg-transparent h-10 w-16'></img>
+            <img src={`${searchOn ? '../assets/close.png':'../assets/search.png'}`} className='bg-transparent h-10 w-16'></img>
             </button>
             
             </div>
