@@ -16,8 +16,8 @@ import news1 from "../assets/news1.jpg";
 import news2 from "../assets/news20.jpg";
 import news3 from "../assets/news2.jpg";
 import news4 from "../assets/news21.jpg";
-import news7 from "../assets/news13.jpg";
-import news8 from "../assets/news4.jpg";
+import news5 from "../assets/news13.jpg";
+import news6 from "../assets/news4.jpg";
 
 export function BentoGridDemo() {
   return (
