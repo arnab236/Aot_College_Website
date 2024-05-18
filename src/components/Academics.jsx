@@ -23,7 +23,7 @@ function Academics() {
         </div>
         <section className="vid-con w-full h-screen  bg-center bg-no-repeat bg-cover">
           <div className="rounded-xl w-full h-full xl:flex xl:justify-center xl:items-center xl:mx-auto z-[-100] fixed">
-            <video autoPlay loop muted src="../assets/AOT_dept.mp4" className="vid w-full h-screen overflow-hidden object-cover filter brightness-[40%] contrast-125 "/>
+            <video autoPlay loop muted src="src/assets/AOT_dept.mp4" className="vid w-full h-screen overflow-hidden object-cover filter brightness-[40%] contrast-125 "/>
           <h1 class="Dept text-center md:text-7xl text-5xl font-bold absolute md:top-[50%] xl:mx-auto lg:mx-[30%] sm:mx-[25%] xs:mx-[10%] mx-[5%]  top-[40%]  text-white font-['headline']">
             DEPARTMENTS
           </h1>
