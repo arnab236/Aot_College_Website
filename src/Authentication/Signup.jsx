@@ -1,7 +1,7 @@
 import React from "react";
 import { NavLink, useNavigate } from "react-router-dom";
 import { useState } from "react";
-import axios from "axios";
+// import axios from "axios";
 import aotLogo from "../assets/aotlogo.png";
 
 function Signup() {
@@ -14,20 +14,20 @@ function Signup() {
     setVal((prev) => ({ ...prev, [event.target.name]: [event.target.value] }));
   };
   const navigate = useNavigate();
-  const handleSubmit = (event) => {
-    event.preventDefault();
-    axios
-      .post("http://localhost:8081/Signup", val)
-      .then((res) => {
-        if (res.data.Signup) {
-          navigate("/dashboard");
-        } else {
-          alert("ERROR: 404");
-        }
-        console.log(res);
-      })
-      .catch((err) => console.log(err));
-  };
+  // const handleSubmit = (event) => {
+  //   event.preventDefault();
+  //   axios
+  //     .post("http://localhost:8081/Signup", val)
+  //     .then((res) => {
+  //       if (res.data.Signup) {
+  //         navigate("/dashboard");
+  //       } else {
+  //         alert("ERROR: 404");
+  //       }
+  //       console.log(res);
+  //     })
+  //     .catch((err) => console.log(err));
+  // };
   return (
     <>
       <div className=" h-screen flex justify-center items-center flex-col">
