@@ -67,10 +67,10 @@ function Home() {
           path: '/register',
           element: <><Register/></>
         },
-        {
-          path: '/dashboard',
-          element: <><Dashboard/></>
-        }
+        // {
+        //   path: '/dashboard',
+        //   element: <><Dashboard/></>
+        // }
 
        
       ])
