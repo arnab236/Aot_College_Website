@@ -1,7 +1,7 @@
 import React from 'react'
 import { NavLink, useNavigate } from 'react-router-dom'
 import { useState } from 'react'
-import axios from 'axios'
+// import axios from 'axios'
 import aotLogo from "../assets/aotlogo.png";
 
 
@@ -25,17 +25,17 @@ function Register() {
     } 
     const navigate = useNavigate();
 
-    const handleSubmit = async(event) => {
-        event.preventDefault();
-        // console.log(val)
-        axios.post('http://localhost:8081/register', val)
-        .then(res => 
-            {
-                console.log(res);
-                navigate('/dashboard')
-            })
-        .catch(err => console.log(err));
-    }
+    // const handleSubmit = async(event) => {
+    //     event.preventDefault();
+    //     // console.log(val)
+    //     axios.post('http://localhost:8081/register', val)
+    //     .then(res => 
+    //         {
+    //             console.log(res);
+    //             navigate('/dashboard')
+    //         })
+    //     .catch(err => console.log(err));
+    // }
   return (
     <>
     <div className=' h-screen flex items-center justify-center flex-col'>
