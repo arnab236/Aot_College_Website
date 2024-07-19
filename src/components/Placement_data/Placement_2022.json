@@ -1,0 +1,8642 @@
+[
+  {
+    "id": "1",
+    "year": 2022,
+    "sname": "ARYA SARKAR",
+    "univ_roll": "16900718122",
+    "stream": "ME",
+    "company": "ACCENTURE"
+  },
+  {
+    "id": "2",
+    "year": 2022,
+    "sname": "ARNAB CHOUDHURY",
+    "univ_roll": "16901619103",
+    "stream": "EE",
+    "company": "A-1 FENCE PRODUCTS"
+  },
+  {
+    "id": "3",
+    "year": 2022,
+    "sname": "MAYUKH SADHU",
+    "univ_roll": "16901618100",
+    "stream": "EE",
+    "company": "A-1 FENCE PRODUCTS"
+  },
+  {
+    "id": "4",
+    "year": 2022,
+    "sname": "VIKASH SHARMA",
+    "univ_roll": "16901619099",
+    "stream": "EE",
+    "company": "A-1 FENCE PRODUCTS"
+  },
+  {
+    "id": "5",
+    "year": 2022,
+    "sname": "NITISH KUMAR JHA",
+    "univ_roll": "16900718090",
+    "stream": "ME",
+    "company": "A-1 Fence Products"
+  },
+  {
+    "id": "6",
+    "year": 2022,
+    "sname": "SAUMA MAITY",
+    "univ_roll": "16900718068",
+    "stream": "ME",
+    "company": "A-1 Fence Products"
+  },
+  {
+    "id": "7",
+    "year": 2022,
+    "sname": "SHIVAM MAZUMDER",
+    "univ_roll": "16900718063",
+    "stream": "ME",
+    "company": "A-1 Fence Products"
+  },
+  {
+    "id": "8",
+    "year": 2022,
+    "sname": "SHRINJOY MUKHERJEE",
+    "univ_roll": "16900718062",
+    "stream": "ME",
+    "company": "A-1 Fence Products"
+  },
+  {
+    "id": "9",
+    "year": 2022,
+    "sname": "SOUMI MITRA",
+    "univ_roll": "16900719013",
+    "stream": "ME",
+    "company": "A-1 Fence Products"
+  },
+  {
+    "id": "10",
+    "year": 2022,
+    "sname": "SOUMO SARKAR",
+    "univ_roll": "16900718054",
+    "stream": "ME",
+    "company": "A-1 Fence Products"
+  },
+  {
+    "id": "11",
+    "year": 2022,
+    "sname": "SREEJIT BAIDYA",
+    "univ_roll": "16900718048",
+    "stream": "ME",
+    "company": "A-1 Fence Products"
+  },
+  {
+    "id": "12",
+    "year": 2022,
+    "sname": "SOURISH KUMAR JANA",
+    "univ_roll": "16900118047",
+    "stream": "CSE",
+    "company": "ACCOLITE DIGITAL"
+  },
+  {
+    "id": "13",
+    "year": 2022,
+    "sname": "YOGESH YOGENDRA",
+    "univ_roll": "16900118025",
+    "stream": "CSE",
+    "company": "ACCOLITE DIGITAL"
+  },
+  {
+    "id": "14",
+    "year": 2022,
+    "sname": "ANKUSH FARMANIA",
+    "univ_roll": "16900318125",
+    "stream": "ECE",
+    "company": "ADF DATA SCIENCE"
+  },
+  {
+    "id": "15",
+    "year": 2022,
+    "sname": "SULAGNA PAL",
+    "univ_roll": "16905518004",
+    "stream": "AEIE",
+    "company": "AMAZON"
+  },
+  {
+    "id": "16",
+    "year": 2022,
+    "sname": "SHAURYABATTA GHOSH",
+    "univ_roll": "16900118063",
+    "stream": "CSE",
+    "company": "AMAZON"
+  },
+  {
+    "id": "17",
+    "year": 2022,
+    "sname": "MANAMI CHAKRABORTY",
+    "univ_roll": "16901618102",
+    "stream": "EE",
+    "company": "AMAZON"
+  },
+  {
+    "id": "18",
+    "year": 2022,
+    "sname": "SOUVIK MUKHERJEE",
+    "univ_roll": "16901618049",
+    "stream": "EE",
+    "company": "AMAZON"
+  },
+  {
+    "id": "19",
+    "year": 2022,
+    "sname": "SREEPARNA CHATTOPADHYAY",
+    "univ_roll": "16901618048",
+    "stream": "EE",
+    "company": "AMAZON"
+  },
+  {
+    "id": "20",
+    "year": 2022,
+    "sname": "AMARTYA SARKAR",
+    "univ_roll": "16900718138",
+    "stream": "ME",
+    "company": "AMAZON"
+  },
+  {
+    "id": "21",
+    "year": 2022,
+    "sname": "YOGESH YOGENDRA",
+    "univ_roll": "16900118025",
+    "stream": "CSE",
+    "company": "AMAZON"
+  },
+  {
+    "id": "22",
+    "year": 2022,
+    "sname": "NISHA SHAW",
+    "univ_roll": "16900119001",
+    "stream": "CSE",
+    "company": "APONAIR SOLUTION"
+  },
+  {
+    "id": "23",
+    "year": 2022,
+    "sname": "MADHUMITA MONDAL",
+    "univ_roll": "16901019008",
+    "stream": "MCA",
+    "company": "APONAIR SOLUTIONS"
+  },
+  {
+    "id": "24",
+    "year": 2022,
+    "sname": "MOULI DAS",
+    "univ_roll": "16901019021",
+    "stream": "MCA",
+    "company": "APONAIR SOLUTIONS"
+  },
+  {
+    "id": "25",
+    "year": 2022,
+    "sname": "NILMADHAV MUHURI",
+    "univ_roll": "16901019006",
+    "stream": "MCA",
+    "company": "APONAIR SOLUTIONS"
+  },
+  {
+    "id": "26",
+    "year": 2022,
+    "sname": "SOUVIK MUKHERJEE",
+    "univ_roll": "16901618049",
+    "stream": "EE",
+    "company": "ASHOK LEYLAND"
+  },
+  {
+    "id": "27",
+    "year": 2022,
+    "sname": "ANNAYASHA PAUL",
+    "univ_roll": "16905518051",
+    "stream": "AEIE",
+    "company": "BASSETTI GROUP"
+  },
+  {
+    "id": "28",
+    "year": 2022,
+    "sname": "MOMITA KUNDU",
+    "univ_roll": "16905518027",
+    "stream": "AEIE",
+    "company": "BASSETTI GROUP"
+  },
+  {
+    "id": "29",
+    "year": 2022,
+    "sname": "NAGHMA PARVEEN",
+    "univ_roll": "16905518024",
+    "stream": "AEIE",
+    "company": "BASSETTI GROUP"
+  },
+  {
+    "id": "30",
+    "year": 2022,
+    "sname": "NISHA SHAW",
+    "univ_roll": "16905518020",
+    "stream": "AEIE",
+    "company": "BASSETTI GROUP"
+  },
+  {
+    "id": "31",
+    "year": 2022,
+    "sname": "AKASH LAL DUTTA",
+    "univ_roll": "16900118136",
+    "stream": "CSE",
+    "company": "BASSETTI GROUP"
+  },
+  {
+    "id": "32",
+    "year": 2022,
+    "sname": "ANIRBAN SARKAR",
+    "univ_roll": "16900118131",
+    "stream": "CSE",
+    "company": "BASSETTI GROUP"
+  },
+  {
+    "id": "33",
+    "year": 2022,
+    "sname": "ABHIMANYU KUMAR ROY",
+    "univ_roll": "16900318142",
+    "stream": "ECE",
+    "company": "BASSETTI GROUP"
+  },
+  {
+    "id": "34",
+    "year": 2022,
+    "sname": "SUBHOJIT MONDAL",
+    "univ_roll": "16901618043",
+    "stream": "EE",
+    "company": "BASSETTI GROUP"
+  },
+  {
+    "id": "35",
+    "year": 2022,
+    "sname": "ARIT GHOSH",
+    "univ_roll": "16900718128",
+    "stream": "ME",
+    "company": "BASSETTI GROUP"
+  },
+  {
+    "id": "36",
+    "year": 2022,
+    "sname": "MOHANA CHAKRABORTY",
+    "univ_roll": "16900118098",
+    "stream": "CSE",
+    "company": "BNP PARIBAS"
+  },
+  {
+    "id": "37",
+    "year": 2022,
+    "sname": "SUBHAM MAITY",
+    "univ_roll": "16901019013",
+    "stream": "MCA",
+    "company": "BYTES & BITS INFORMATION TECHNOLOGY"
+  },
+  {
+    "id": "38",
+    "year": 2022,
+    "sname": "ARKADYUTI MUKHERJEE",
+    "univ_roll": "16900118125",
+    "stream": "CSE",
+    "company": "CAPGEMINI"
+  },
+  {
+    "id": "39",
+    "year": 2022,
+    "sname": "NABIN KUMAR BISWAS",
+    "univ_roll": "16900118097",
+    "stream": "CSE",
+    "company": "CAPGEMINI"
+  },
+  {
+    "id": "40",
+    "year": 2022,
+    "sname": "MEGHA BANERJEE",
+    "univ_roll": "16900318085",
+    "stream": "ECE",
+    "company": "CAPGEMINI"
+  },
+  {
+    "id": "41",
+    "year": 2022,
+    "sname": "MOUSAM MALLICK",
+    "univ_roll": "16900318083",
+    "stream": "ECE",
+    "company": "CAPGEMINI"
+  },
+  {
+    "id": "42",
+    "year": 2022,
+    "sname": "SOUMYADEEP MANDAL",
+    "univ_roll": "16901618055",
+    "stream": "EE",
+    "company": "CAPGEMINI"
+  },
+  {
+    "id": "43",
+    "year": 2022,
+    "sname": "SUVAM NAG BISWAS",
+    "univ_roll": "16901618035",
+    "stream": "EE",
+    "company": "CAPGEMINI"
+  },
+  {
+    "id": "44",
+    "year": 2022,
+    "sname": "SWAGATO PATRA",
+    "univ_roll": "16900218014",
+    "stream": "IT",
+    "company": "CAPGEMINI"
+  },
+  {
+    "id": "45",
+    "year": 2022,
+    "sname": "NILAJ CHAKRABORTY",
+    "univ_roll": "16901019007",
+    "stream": "MCA",
+    "company": "CAPGEMINI"
+  },
+  {
+    "id": "46",
+    "year": 2022,
+    "sname": "ARKA PATHAK",
+    "univ_roll": "16900718127",
+    "stream": "ME",
+    "company": "CAPGEMINI"
+  },
+  {
+    "id": "47",
+    "year": 2022,
+    "sname": "DEBARGHYA MAITY",
+    "univ_roll": "16900718111",
+    "stream": "ME",
+    "company": "CAPGEMINI"
+  },
+  {
+    "id": "48",
+    "year": 2022,
+    "sname": "DIPAYAN JANA",
+    "univ_roll": "16900718108",
+    "stream": "ME",
+    "company": "CAPGEMINI"
+  },
+  {
+    "id": "49",
+    "year": 2022,
+    "sname": "MANAMI CHAKRABORTY",
+    "univ_roll": "16901618102",
+    "stream": "EE",
+    "company": "CAPGEMINI"
+  },
+  {
+    "id": "50",
+    "year": 2022,
+    "sname": "SOUMAVA CHAKRABORTY",
+    "univ_roll": "16901618057",
+    "stream": "EE",
+    "company": "CAPGEMINI"
+  },
+  {
+    "id": "51",
+    "year": 2022,
+    "sname": "SHARMILI PAKIRA",
+    "univ_roll": "16900319001",
+    "stream": "ECE",
+    "company": "CAPGEMINI"
+  },
+  {
+    "id": "52",
+    "year": 2022,
+    "sname": "KUNTAL CHAKRABORTY",
+    "univ_roll": "16900718098",
+    "stream": "ME",
+    "company": "CAPGEMINI"
+  },
+  {
+    "id": "53",
+    "year": 2022,
+    "sname": "PROBAHA SINGHA ROY",
+    "univ_roll": "16901618089",
+    "stream": "EE",
+    "company": "CAPGEMINI"
+  },
+  {
+    "id": "54",
+    "year": 2022,
+    "sname": "MONALISA MONDAL",
+    "univ_roll": "16905518026",
+    "stream": "AEIE",
+    "company": "CAPGEMINI"
+  },
+  {
+    "id": "55",
+    "year": 2022,
+    "sname": "AMIT KUMAR CHAUDHARY",
+    "univ_roll": "16900118134",
+    "stream": "CSE",
+    "company": "CAPGEMINI"
+  },
+  {
+    "id": "56",
+    "year": 2022,
+    "sname": "ROHIT RAJ",
+    "univ_roll": "16900318062",
+    "stream": "ECE",
+    "company": "CAPGEMINI"
+  },
+  {
+    "id": "57",
+    "year": 2022,
+    "sname": "SAPRATIVO KUNDU",
+    "univ_roll": "16901618072",
+    "stream": "EE",
+    "company": "CAPGEMINI"
+  },
+  {
+    "id": "58",
+    "year": 2022,
+    "sname": "SAGNIK ROY",
+    "univ_roll": "16900718072",
+    "stream": "ME",
+    "company": "CAPGEMINI"
+  },
+  {
+    "id": "59",
+    "year": 2022,
+    "sname": "SUMAN DHALI",
+    "univ_roll": "16900718039",
+    "stream": "ME",
+    "company": "CAPGEMINI"
+  },
+  {
+    "id": "60",
+    "year": 2022,
+    "sname": "RUDRADEEP PAUL",
+    "univ_roll": "16901618079",
+    "stream": "EE",
+    "company": "CAPGEMINI"
+  },
+  {
+    "id": "61",
+    "year": 2022,
+    "sname": "GOVIND KUMAR CHOUDHARY",
+    "univ_roll": "16900218045",
+    "stream": "IT",
+    "company": "CAPGEMINI"
+  },
+  {
+    "id": "62",
+    "year": 2022,
+    "sname": "MASOOM PARWEZ",
+    "univ_roll": "16900218042",
+    "stream": "IT",
+    "company": "CAPGEMINI"
+  },
+  {
+    "id": "63",
+    "year": 2022,
+    "sname": "PRONAY GUHA",
+    "univ_roll": "16900218033",
+    "stream": "IT",
+    "company": "CBNITS"
+  },
+  {
+    "id": "64",
+    "year": 2022,
+    "sname": "BIJAY SHAW",
+    "univ_roll": "16900218051",
+    "stream": "IT",
+    "company": "CLOUDKAPTAN"
+  },
+  {
+    "id": "65",
+    "year": 2022,
+    "sname": "SHOUVIK BHATTACHARYA",
+    "univ_roll": "16900118061",
+    "stream": "CSE",
+    "company": "CODEZIN TECHNOLOGY SOLUTIONS"
+  },
+  {
+    "id": "66",
+    "year": 2022,
+    "sname": "ABHIT SINGH",
+    "univ_roll": "16905518058",
+    "stream": "AEIE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "67",
+    "year": 2022,
+    "sname": "ANIKET KUMAR",
+    "univ_roll": "16905518054",
+    "stream": "AEIE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "68",
+    "year": 2022,
+    "sname": "ANISH GHORUI",
+    "univ_roll": "16905518053",
+    "stream": "AEIE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "69",
+    "year": 2022,
+    "sname": "ANUSREE MUKHERJEE",
+    "univ_roll": "16905518050",
+    "stream": "AEIE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "70",
+    "year": 2022,
+    "sname": "ARATRIKA BISWAS",
+    "univ_roll": "16905518048",
+    "stream": "AEIE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "71",
+    "year": 2022,
+    "sname": "ARNAB SAHA",
+    "univ_roll": "16905518046",
+    "stream": "AEIE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "72",
+    "year": 2022,
+    "sname": "BRAJESH KUMAR JHA",
+    "univ_roll": "16905518044",
+    "stream": "AEIE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "73",
+    "year": 2022,
+    "sname": "BRATATI ROUT",
+    "univ_roll": "16905518043",
+    "stream": "AEIE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "74",
+    "year": 2022,
+    "sname": "DEBOLINA DHARA",
+    "univ_roll": "16905518039",
+    "stream": "AEIE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "75",
+    "year": 2022,
+    "sname": "DEBOSHREE GHOSH",
+    "univ_roll": "16905519050",
+    "stream": "AEIE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "76",
+    "year": 2022,
+    "sname": "HIRAK DAS",
+    "univ_roll": "16905518036",
+    "stream": "AEIE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "77",
+    "year": 2022,
+    "sname": "JEET KUMAR PAL",
+    "univ_roll": "16905518032",
+    "stream": "AEIE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "78",
+    "year": 2022,
+    "sname": "KHUSHBOO VERMA",
+    "univ_roll": "16905518031",
+    "stream": "AEIE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "79",
+    "year": 2022,
+    "sname": "MOUSUMI ADHIKARI",
+    "univ_roll": "16905518025",
+    "stream": "AEIE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "80",
+    "year": 2022,
+    "sname": "NILESH PRAMANIK",
+    "univ_roll": "16905518022",
+    "stream": "AEIE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "81",
+    "year": 2022,
+    "sname": "NIRMALYA MAITY",
+    "univ_roll": "16905518021",
+    "stream": "AEIE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "82",
+    "year": 2022,
+    "sname": "PADMANAVA PANDIT",
+    "univ_roll": "16905518019",
+    "stream": "AEIE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "83",
+    "year": 2022,
+    "sname": "POULAMI JASH",
+    "univ_roll": "16905518017",
+    "stream": "AEIE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "84",
+    "year": 2022,
+    "sname": "POUSHALI PARUI",
+    "univ_roll": "16905518016",
+    "stream": "AEIE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "85",
+    "year": 2022,
+    "sname": "PRITAMA DUTTA",
+    "univ_roll": "16905518015",
+    "stream": "AEIE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "86",
+    "year": 2022,
+    "sname": "PRIYANSHU BANDYOPADHYAY",
+    "univ_roll": "16905518014",
+    "stream": "AEIE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "87",
+    "year": 2022,
+    "sname": "SAYAN SENGUPTA",
+    "univ_roll": "16905518012",
+    "stream": "AEIE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "88",
+    "year": 2022,
+    "sname": "SNEHASISH MALIK",
+    "univ_roll": "16905518011",
+    "stream": "AEIE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "89",
+    "year": 2022,
+    "sname": "SOUMALYA SEN",
+    "univ_roll": "16905518010",
+    "stream": "AEIE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "90",
+    "year": 2022,
+    "sname": "SUBHADEEP DAS",
+    "univ_roll": "16905518007",
+    "stream": "AEIE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "91",
+    "year": 2022,
+    "sname": "SUBHAJIT DAS",
+    "univ_roll": "16905518006",
+    "stream": "AEIE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "92",
+    "year": 2022,
+    "sname": "SUBHRAJYOTI SEN GUPTA",
+    "univ_roll": "16905518005",
+    "stream": "AEIE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "93",
+    "year": 2022,
+    "sname": "TAMALIKA KARFA",
+    "univ_roll": "16905518003",
+    "stream": "AEIE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "94",
+    "year": 2022,
+    "sname": "AASHIS KUMAR GUPTA",
+    "univ_roll": "16900118148",
+    "stream": "CSE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "95",
+    "year": 2022,
+    "sname": "ABHILASH GHOSH",
+    "univ_roll": "16900118147",
+    "stream": "CSE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "96",
+    "year": 2022,
+    "sname": "ABHISHEK KUMAR",
+    "univ_roll": "16900118146",
+    "stream": "CSE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "97",
+    "year": 2022,
+    "sname": "ABHISHEK MISHRA",
+    "univ_roll": "16900118145",
+    "stream": "CSE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "98",
+    "year": 2022,
+    "sname": "ABHISHEK SHARMA",
+    "univ_roll": "16900118144",
+    "stream": "CSE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "99",
+    "year": 2022,
+    "sname": "ADITYA VERMA",
+    "univ_roll": "16900118142",
+    "stream": "CSE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "100",
+    "year": 2022,
+    "sname": "AISHIK GHOSH",
+    "univ_roll": "16900118140",
+    "stream": "CSE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "101",
+    "year": 2022,
+    "sname": "AKASH BHARGAV",
+    "univ_roll": "16900118139",
+    "stream": "CSE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "102",
+    "year": 2022,
+    "sname": "AKASH BOSE",
+    "univ_roll": "16900118138",
+    "stream": "CSE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "103",
+    "year": 2022,
+    "sname": "ANIKET MUKHERJEE",
+    "univ_roll": "16900118132",
+    "stream": "CSE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "104",
+    "year": 2022,
+    "sname": "ANKITA MAITRA",
+    "univ_roll": "16900118130",
+    "stream": "CSE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "105",
+    "year": 2022,
+    "sname": "ANKITA MONDAL",
+    "univ_roll": "16900118129",
+    "stream": "CSE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "106",
+    "year": 2022,
+    "sname": "ANKUSH KUNAL",
+    "univ_roll": "16900118128",
+    "stream": "CSE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "107",
+    "year": 2022,
+    "sname": "ARIK RAKSHIT",
+    "univ_roll": "16900118126",
+    "stream": "CSE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "108",
+    "year": 2022,
+    "sname": "ASHA JAISWAL",
+    "univ_roll": "16900118124",
+    "stream": "CSE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "109",
+    "year": 2022,
+    "sname": "ASHUTOSH KUMAR",
+    "univ_roll": "16900118123",
+    "stream": "CSE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "110",
+    "year": 2022,
+    "sname": "AVIRUPA CHAKRABORTY",
+    "univ_roll": "16900118122",
+    "stream": "CSE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "111",
+    "year": 2022,
+    "sname": "AYAN CHATTOPADHYAY",
+    "univ_roll": "16900118121",
+    "stream": "CSE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "112",
+    "year": 2022,
+    "sname": "AYAN ROY",
+    "univ_roll": "16900118120",
+    "stream": "CSE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "113",
+    "year": 2022,
+    "sname": "AYANTIKA DATTA",
+    "univ_roll": "16900118119",
+    "stream": "CSE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "114",
+    "year": 2022,
+    "sname": "AYUSH PANDEY",
+    "univ_roll": "16900118117",
+    "stream": "CSE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "115",
+    "year": 2022,
+    "sname": "BIJAYA SHALINI",
+    "univ_roll": "16900118116",
+    "stream": "CSE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "116",
+    "year": 2022,
+    "sname": "DEBDUT GOSWAMI",
+    "univ_roll": "16900118114",
+    "stream": "CSE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "117",
+    "year": 2022,
+    "sname": "DEBOJITA DEY",
+    "univ_roll": "16900118113",
+    "stream": "CSE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "118",
+    "year": 2022,
+    "sname": "DEEP MUKHERJEE",
+    "univ_roll": "16900118112",
+    "stream": "CSE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "119",
+    "year": 2022,
+    "sname": "DEEPIKA SINGH",
+    "univ_roll": "16900118111",
+    "stream": "CSE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "120",
+    "year": 2022,
+    "sname": "DILIP BASAK",
+    "univ_roll": "16900118110",
+    "stream": "CSE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "121",
+    "year": 2022,
+    "sname": "GOURAV SARKAR",
+    "univ_roll": "16900118108",
+    "stream": "CSE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "122",
+    "year": 2022,
+    "sname": "HIMANSHU GUPTA",
+    "univ_roll": "16900118107",
+    "stream": "CSE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "123",
+    "year": 2022,
+    "sname": "KRISHNENDU KUNDU",
+    "univ_roll": "16900118103",
+    "stream": "CSE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "124",
+    "year": 2022,
+    "sname": "KUMARI NISHITA",
+    "univ_roll": "16900118102",
+    "stream": "CSE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "125",
+    "year": 2022,
+    "sname": "MD ABRAR HUSSAIN",
+    "univ_roll": "16900118100",
+    "stream": "CSE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "126",
+    "year": 2022,
+    "sname": "MD MOZAMMIL HUSSAIN",
+    "univ_roll": "16900118099",
+    "stream": "CSE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "127",
+    "year": 2022,
+    "sname": "MOHANA CHAKRABORTY",
+    "univ_roll": "16900118098",
+    "stream": "CSE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "128",
+    "year": 2022,
+    "sname": "NEEL KAMAL",
+    "univ_roll": "16900118096",
+    "stream": "CSE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "129",
+    "year": 2022,
+    "sname": "NITISH KUMAR",
+    "univ_roll": "16900118095",
+    "stream": "CSE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "130",
+    "year": 2022,
+    "sname": "PALASH KUNDU",
+    "univ_roll": "16900718089",
+    "stream": "CSE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "131",
+    "year": 2022,
+    "sname": "PARAJ BHATTACHARJEE",
+    "univ_roll": "16900118093",
+    "stream": "CSE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "132",
+    "year": 2022,
+    "sname": "PARNA PRATIM MITRA",
+    "univ_roll": "16900118092",
+    "stream": "CSE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "133",
+    "year": 2022,
+    "sname": "POULAMI GHOSH",
+    "univ_roll": "16900118091",
+    "stream": "CSE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "134",
+    "year": 2022,
+    "sname": "PRABOR MUKHERJEE",
+    "univ_roll": "16900118090",
+    "stream": "CSE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "135",
+    "year": 2022,
+    "sname": "PRINCE KUMAR",
+    "univ_roll": "16900118088",
+    "stream": "CSE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "136",
+    "year": 2022,
+    "sname": "PRITHWISH SAMANTA",
+    "univ_roll": "16900118086",
+    "stream": "CSE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "137",
+    "year": 2022,
+    "sname": "PRIYANK DEY",
+    "univ_roll": "16900118085",
+    "stream": "CSE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "138",
+    "year": 2022,
+    "sname": "RAHUL KUMAR GUPTA",
+    "univ_roll": "16900118083",
+    "stream": "CSE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "139",
+    "year": 2022,
+    "sname": "RISHIKESH BHARTI",
+    "univ_roll": "16900118079",
+    "stream": "CSE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "140",
+    "year": 2022,
+    "sname": "SAGNIC DAS",
+    "univ_roll": "16900118077",
+    "stream": "CSE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "141",
+    "year": 2022,
+    "sname": "SAMADRITA GHOSH",
+    "univ_roll": "16900118075",
+    "stream": "CSE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "142",
+    "year": 2022,
+    "sname": "SANDIPAN DEY",
+    "univ_roll": "16900118073",
+    "stream": "CSE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "143",
+    "year": 2022,
+    "sname": "SARBAJOY CHATTERJEE",
+    "univ_roll": "16900118070",
+    "stream": "CSE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "144",
+    "year": 2022,
+    "sname": "SAYAN KUNDU",
+    "univ_roll": "16900118067",
+    "stream": "CSE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "145",
+    "year": 2022,
+    "sname": "SAYANTAN PAUL",
+    "univ_roll": "16900118066",
+    "stream": "CSE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "146",
+    "year": 2022,
+    "sname": "SHANKAR KUMAR KUSHWAHA",
+    "univ_roll": "16900118065",
+    "stream": "CSE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "147",
+    "year": 2022,
+    "sname": "SHIVAM KUMAR",
+    "univ_roll": "16900118062",
+    "stream": "CSE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "148",
+    "year": 2022,
+    "sname": "SHREYA RAI",
+    "univ_roll": "16900118059",
+    "stream": "CSE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "149",
+    "year": 2022,
+    "sname": "SHREYEE HALDER",
+    "univ_roll": "16900118058",
+    "stream": "CSE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "150",
+    "year": 2022,
+    "sname": "SHUBHAJIT SETH",
+    "univ_roll": "16900118057",
+    "stream": "CSE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "151",
+    "year": 2022,
+    "sname": "SHUBHENDU NATH",
+    "univ_roll": "16900118056",
+    "stream": "CSE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "152",
+    "year": 2022,
+    "sname": "SIDDHANT SHARMA",
+    "univ_roll": "16900118055",
+    "stream": "CSE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "153",
+    "year": 2022,
+    "sname": "SNEHASISH MALIK",
+    "univ_roll": "16900118049",
+    "stream": "CSE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "154",
+    "year": 2022,
+    "sname": "SOHINI RAY TALUKDAR",
+    "univ_roll": "16900118053",
+    "stream": "CSE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "155",
+    "year": 2022,
+    "sname": "SOUMYAJIT DAS",
+    "univ_roll": "16900118049",
+    "stream": "CSE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "156",
+    "year": 2022,
+    "sname": "SOURISH KUMAR JANA",
+    "univ_roll": "16900118047",
+    "stream": "CSE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "157",
+    "year": 2022,
+    "sname": "SUBHADIP GHOSH",
+    "univ_roll": "16900118046",
+    "stream": "CSE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "158",
+    "year": 2022,
+    "sname": "SUBHAJIT KAR",
+    "univ_roll": "16900118044",
+    "stream": "CSE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "159",
+    "year": 2022,
+    "sname": "SUBHAM SINGH",
+    "univ_roll": "16900118043",
+    "stream": "CSE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "160",
+    "year": 2022,
+    "sname": "SUDIP PAUL",
+    "univ_roll": "16900118041",
+    "stream": "CSE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "161",
+    "year": 2022,
+    "sname": "SUMEDHA MUKHERJEE",
+    "univ_roll": "16900118040",
+    "stream": "CSE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "162",
+    "year": 2022,
+    "sname": "SWETA PATRA",
+    "univ_roll": "16900118037",
+    "stream": "CSE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "163",
+    "year": 2022,
+    "sname": "TANISHA SINHA",
+    "univ_roll": "16900118035",
+    "stream": "CSE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "164",
+    "year": 2022,
+    "sname": "TISHANT KUMAR",
+    "univ_roll": "16900118034",
+    "stream": "CSE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "165",
+    "year": 2022,
+    "sname": "TRINANJAN NANDI",
+    "univ_roll": "16900118033",
+    "stream": "CSE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "166",
+    "year": 2022,
+    "sname": "TRIPARNA GANGULY",
+    "univ_roll": "16900118032",
+    "stream": "CSE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "167",
+    "year": 2022,
+    "sname": "TRISHA CHATTERJEE",
+    "univ_roll": "16900118031",
+    "stream": "CSE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "168",
+    "year": 2022,
+    "sname": "TUHIN BANERJEE",
+    "univ_roll": "16900118030",
+    "stream": "CSE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "169",
+    "year": 2022,
+    "sname": "TUHIN SAHA",
+    "univ_roll": "16900118029",
+    "stream": "CSE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "170",
+    "year": 2022,
+    "sname": "YOGESH YOGENDRA",
+    "univ_roll": "16900118025",
+    "stream": "CSE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "171",
+    "year": 2022,
+    "sname": "ABHIDIPTA DATTA",
+    "univ_roll": "16905518061",
+    "stream": "ECE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "172",
+    "year": 2022,
+    "sname": "ABHINABA DATTA",
+    "univ_roll": "16900318141",
+    "stream": "ECE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "173",
+    "year": 2022,
+    "sname": "ABHISEK DAS",
+    "univ_roll": "16901618147",
+    "stream": "ECE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "174",
+    "year": 2022,
+    "sname": "ADARSH KUMAR JHA",
+    "univ_roll": "16900318138",
+    "stream": "ECE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "175",
+    "year": 2022,
+    "sname": "ADRISH LAHIRI",
+    "univ_roll": "16900318137",
+    "stream": "ECE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "176",
+    "year": 2022,
+    "sname": "ANIRBAN DATTA",
+    "univ_roll": "16900318133",
+    "stream": "ECE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "177",
+    "year": 2022,
+    "sname": "ANISHA MUKHOPADHYAY",
+    "univ_roll": "16900318130",
+    "stream": "ECE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "178",
+    "year": 2022,
+    "sname": "ANJALI SHAW",
+    "univ_roll": "16900318129",
+    "stream": "ECE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "179",
+    "year": 2022,
+    "sname": "ANKITA DAS",
+    "univ_roll": "16900318127",
+    "stream": "ECE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "180",
+    "year": 2022,
+    "sname": "ANKUR GHOSH",
+    "univ_roll": "16900318126",
+    "stream": "ECE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "181",
+    "year": 2022,
+    "sname": "ANKUSH FARMANIA",
+    "univ_roll": "16900318125",
+    "stream": "ECE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "182",
+    "year": 2022,
+    "sname": "ANUPAM CHATTERJEE",
+    "univ_roll": "16900318124",
+    "stream": "ECE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "183",
+    "year": 2022,
+    "sname": "ANURUPA GHOSH",
+    "univ_roll": "16900318123",
+    "stream": "ECE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "184",
+    "year": 2022,
+    "sname": "ARNAB PAUL",
+    "univ_roll": "16900318121",
+    "stream": "ECE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "185",
+    "year": 2022,
+    "sname": "ARYADEEP SADHUKHAN",
+    "univ_roll": "16900318119",
+    "stream": "ECE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "186",
+    "year": 2022,
+    "sname": "AVIJIT GHOSH",
+    "univ_roll": "16900318118",
+    "stream": "ECE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "187",
+    "year": 2022,
+    "sname": "BISHAL HALDER",
+    "univ_roll": "16900318116",
+    "stream": "ECE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "188",
+    "year": 2022,
+    "sname": "CHAYAN LASKAR",
+    "univ_roll": "16900318115",
+    "stream": "ECE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "189",
+    "year": 2022,
+    "sname": "DEBARGHA CHOUDHURI",
+    "univ_roll": "16900318114",
+    "stream": "ECE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "190",
+    "year": 2022,
+    "sname": "DEBASMITA SEAL",
+    "univ_roll": "16901618117",
+    "stream": "ECE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "191",
+    "year": 2022,
+    "sname": "DEBAYAN GHOSH",
+    "univ_roll": "16900318112",
+    "stream": "ECE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "192",
+    "year": 2022,
+    "sname": "DEBDEEP PAUL",
+    "univ_roll": "16900318111",
+    "stream": "ECE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "193",
+    "year": 2022,
+    "sname": "DEBMALYA DUTTA",
+    "univ_roll": "16900318109",
+    "stream": "ECE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "194",
+    "year": 2022,
+    "sname": "DEVASHISH CHOUDHARY",
+    "univ_roll": "16900319011",
+    "stream": "ECE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "195",
+    "year": 2022,
+    "sname": "DIPANJAN DAS",
+    "univ_roll": "16900318105",
+    "stream": "ECE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "196",
+    "year": 2022,
+    "sname": "DIPESH PAL",
+    "univ_roll": "16900318104",
+    "stream": "ECE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "197",
+    "year": 2022,
+    "sname": "DIPTOPRAVA JANA",
+    "univ_roll": "16901618110",
+    "stream": "ECE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "198",
+    "year": 2022,
+    "sname": "ELLINA MUKHERJEE",
+    "univ_roll": "16900318102",
+    "stream": "ECE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "199",
+    "year": 2022,
+    "sname": "ENAKSHI GHOSH",
+    "univ_roll": "16900318101",
+    "stream": "ECE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "200",
+    "year": 2022,
+    "sname": "HIRANMOY GHOSH",
+    "univ_roll": "16900318100",
+    "stream": "ECE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "201",
+    "year": 2022,
+    "sname": "JAGRITI NAHATA",
+    "univ_roll": "16900318096",
+    "stream": "ECE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "202",
+    "year": 2022,
+    "sname": "JAHNABI GHOSH",
+    "univ_roll": "16900318095",
+    "stream": "ECE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "203",
+    "year": 2022,
+    "sname": "KAJAL KUMARI",
+    "univ_roll": "16900318094",
+    "stream": "ECE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "204",
+    "year": 2022,
+    "sname": "KANKANA DAS",
+    "univ_roll": "16900318093",
+    "stream": "ECE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "205",
+    "year": 2022,
+    "sname": "KARTICK BASAK",
+    "univ_roll": "16900318092",
+    "stream": "ECE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "206",
+    "year": 2022,
+    "sname": "KINSHUK KUMAR DUBEY",
+    "univ_roll": "16900318091",
+    "stream": "ECE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "207",
+    "year": 2022,
+    "sname": "KUSHAL KANTA GARAI",
+    "univ_roll": "16900318090",
+    "stream": "ECE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "208",
+    "year": 2022,
+    "sname": "KUSOL BANERJI",
+    "univ_roll": "16900318088",
+    "stream": "ECE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "209",
+    "year": 2022,
+    "sname": "LOKESWAR RAO",
+    "univ_roll": "16900318087",
+    "stream": "ECE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "210",
+    "year": 2022,
+    "sname": "MAINAK PURKAIT",
+    "univ_roll": "16900318086",
+    "stream": "ECE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "211",
+    "year": 2022,
+    "sname": "MEGHA SAHA",
+    "univ_roll": "16900318084",
+    "stream": "ECE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "212",
+    "year": 2022,
+    "sname": "NEHA CHOUDHARY",
+    "univ_roll": "16900318082",
+    "stream": "ECE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "213",
+    "year": 2022,
+    "sname": "NEHA TIWARI",
+    "univ_roll": "16900318081",
+    "stream": "ECE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "214",
+    "year": 2022,
+    "sname": "NIRAJ TIWARI",
+    "univ_roll": "16900319009",
+    "stream": "ECE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "215",
+    "year": 2022,
+    "sname": "PARAMITA DEY",
+    "univ_roll": "16900319006",
+    "stream": "ECE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "216",
+    "year": 2022,
+    "sname": "PARTHASARATHI BHUNIYA",
+    "univ_roll": "16900318079",
+    "stream": "ECE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "217",
+    "year": 2022,
+    "sname": "PIJUSH BASAK",
+    "univ_roll": "16900318078",
+    "stream": "ECE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "218",
+    "year": 2022,
+    "sname": "PINAKESH BISWAS",
+    "univ_roll": "16900318077",
+    "stream": "ECE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "219",
+    "year": 2022,
+    "sname": "PRAKASH MISHRA",
+    "univ_roll": "16900318075",
+    "stream": "ECE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "220",
+    "year": 2022,
+    "sname": "PRATYAY BANERJEE",
+    "univ_roll": "16900318074",
+    "stream": "ECE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "221",
+    "year": 2022,
+    "sname": "PRITAM KUMAR PAUL",
+    "univ_roll": "16900318072",
+    "stream": "ECE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "222",
+    "year": 2022,
+    "sname": "PROTYUSHA BISWAS",
+    "univ_roll": "16900318071",
+    "stream": "ECE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "223",
+    "year": 2022,
+    "sname": "PURBAYAN SARKAR",
+    "univ_roll": "16900318070",
+    "stream": "ECE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "224",
+    "year": 2022,
+    "sname": "RAHUL BANERJEE",
+    "univ_roll": "16900318069",
+    "stream": "ECE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "225",
+    "year": 2022,
+    "sname": "RAJDEEP BASAK",
+    "univ_roll": "16900318068",
+    "stream": "ECE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "226",
+    "year": 2022,
+    "sname": "RAKA BANERJEE",
+    "univ_roll": "16900319004",
+    "stream": "ECE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "227",
+    "year": 2022,
+    "sname": "RAKTIMA KARMAKAR",
+    "univ_roll": "16900318066",
+    "stream": "ECE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "228",
+    "year": 2022,
+    "sname": "REETADEEP DUTTA",
+    "univ_roll": "16900318065",
+    "stream": "ECE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "229",
+    "year": 2022,
+    "sname": "RISHAB SINHA",
+    "univ_roll": "16900318064",
+    "stream": "ECE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "230",
+    "year": 2022,
+    "sname": "RISHABH RAJ",
+    "univ_roll": "16900318063",
+    "stream": "ECE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "231",
+    "year": 2022,
+    "sname": "SAGNIK GANGULY",
+    "univ_roll": "16900318061",
+    "stream": "ECE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "232",
+    "year": 2022,
+    "sname": "SAIBAL MAITI",
+    "univ_roll": "16900318060",
+    "stream": "ECE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "233",
+    "year": 2022,
+    "sname": "SAIF ALI",
+    "univ_roll": "16900318059",
+    "stream": "ECE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "234",
+    "year": 2022,
+    "sname": "SANCHITA SIL",
+    "univ_roll": "16900318057",
+    "stream": "ECE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "235",
+    "year": 2022,
+    "sname": "SAPTARSHI BISWAS",
+    "univ_roll": "16900318056",
+    "stream": "ECE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "236",
+    "year": 2022,
+    "sname": "SAYAN MAJHI",
+    "univ_roll": "16900318054",
+    "stream": "ECE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "237",
+    "year": 2022,
+    "sname": "SAYANTAN DAS",
+    "univ_roll": "16900318052",
+    "stream": "ECE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "238",
+    "year": 2022,
+    "sname": "SENJUTI HALDER",
+    "univ_roll": "16900318051",
+    "stream": "ECE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "239",
+    "year": 2022,
+    "sname": "SHEETAL",
+    "univ_roll": "16900318050",
+    "stream": "ECE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "240",
+    "year": 2022,
+    "sname": "SHIVANI SINGH",
+    "univ_roll": "16900318049",
+    "stream": "ECE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "241",
+    "year": 2022,
+    "sname": "SHUBHAM SADHUKHAN",
+    "univ_roll": "16900318048",
+    "stream": "ECE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "242",
+    "year": 2022,
+    "sname": "SHUVANKAR BHOWMICK",
+    "univ_roll": "16900318047",
+    "stream": "ECE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "243",
+    "year": 2022,
+    "sname": "SOHAN SARKAR",
+    "univ_roll": "16900318042",
+    "stream": "ECE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "244",
+    "year": 2022,
+    "sname": "SOUBHANIK DUTTA",
+    "univ_roll": "16900318039",
+    "stream": "ECE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "245",
+    "year": 2022,
+    "sname": "SOUHARDYA SARKAR",
+    "univ_roll": "16900318038",
+    "stream": "ECE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "246",
+    "year": 2022,
+    "sname": "SOUMILI DE",
+    "univ_roll": "16900318036",
+    "stream": "ECE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "247",
+    "year": 2022,
+    "sname": "SOUMYAJIT DHANG",
+    "univ_roll": "16900318035",
+    "stream": "ECE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "248",
+    "year": 2022,
+    "sname": "SOUPARNA CHOWDHURY",
+    "univ_roll": "16900318034",
+    "stream": "ECE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "249",
+    "year": 2022,
+    "sname": "SRIJITA GHOSH",
+    "univ_roll": "16900318033",
+    "stream": "ECE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "250",
+    "year": 2022,
+    "sname": "SUBHAM CHAKRABORTY",
+    "univ_roll": "16900318030",
+    "stream": "ECE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "251",
+    "year": 2022,
+    "sname": "SUBHAM SARKAR",
+    "univ_roll": "16900318029",
+    "stream": "ECE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "252",
+    "year": 2022,
+    "sname": "SUBHANKAR DAS",
+    "univ_roll": "16900318028",
+    "stream": "ECE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "253",
+    "year": 2022,
+    "sname": "TANOY SAHA",
+    "univ_roll": "16900318024",
+    "stream": "ECE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "254",
+    "year": 2022,
+    "sname": "TATHAGATA NANDI",
+    "univ_roll": "16900318023",
+    "stream": "ECE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "255",
+    "year": 2022,
+    "sname": "TIASA DAS",
+    "univ_roll": "16900318022",
+    "stream": "ECE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "256",
+    "year": 2022,
+    "sname": "TIYASA GHOSAL",
+    "univ_roll": "16900319005",
+    "stream": "ECE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "257",
+    "year": 2022,
+    "sname": "YASHANK GUPTA",
+    "univ_roll": "16900318018",
+    "stream": "ECE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "258",
+    "year": 2022,
+    "sname": "ABHISHEK MAHASETH",
+    "univ_roll": "16901618145",
+    "stream": "EE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "259",
+    "year": 2022,
+    "sname": "AISHIK DEWANJI",
+    "univ_roll": "16901618144",
+    "stream": "EE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "260",
+    "year": 2022,
+    "sname": "ANIMESH MITRA",
+    "univ_roll": "16901618143",
+    "stream": "EE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "261",
+    "year": 2022,
+    "sname": "ANKUSH SEAL",
+    "univ_roll": "16901618142",
+    "stream": "EE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "262",
+    "year": 2022,
+    "sname": "ANUBHAB BISWAS",
+    "univ_roll": "16901618141",
+    "stream": "EE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "263",
+    "year": 2022,
+    "sname": "ANUPAM SAMUI",
+    "univ_roll": "16901618140",
+    "stream": "EE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "264",
+    "year": 2022,
+    "sname": "ARGHYA CHATTAPADHYAY",
+    "univ_roll": "16901618137",
+    "stream": "EE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "265",
+    "year": 2022,
+    "sname": "ARITRA KHAN",
+    "univ_roll": "16901618135",
+    "stream": "EE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "266",
+    "year": 2022,
+    "sname": "ARKAPRAVO RAY",
+    "univ_roll": "16901618134",
+    "stream": "EE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "267",
+    "year": 2022,
+    "sname": "ARNAB DAS",
+    "univ_roll": "16901618133",
+    "stream": "EE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "268",
+    "year": 2022,
+    "sname": "ARPA CHAKRABORTY",
+    "univ_roll": "16901618132",
+    "stream": "EE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "269",
+    "year": 2022,
+    "sname": "ARPAN SAMANTA",
+    "univ_roll": "16901618131",
+    "stream": "EE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "270",
+    "year": 2022,
+    "sname": "AVIK KUMAR CHAKRABORTY",
+    "univ_roll": "16901618128",
+    "stream": "EE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "271",
+    "year": 2022,
+    "sname": "AYANAVA KARMAKAR",
+    "univ_roll": "16901618126",
+    "stream": "EE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "272",
+    "year": 2022,
+    "sname": "BISWAMITRA PAL",
+    "univ_roll": "16901618121",
+    "stream": "EE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "273",
+    "year": 2022,
+    "sname": "CHANDAN BANERJEE",
+    "univ_roll": "16901618119",
+    "stream": "EE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "274",
+    "year": 2022,
+    "sname": "DEBMOY DUTTA",
+    "univ_roll": "16901618113",
+    "stream": "EE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "275",
+    "year": 2022,
+    "sname": "INJAMAUL SEKH",
+    "univ_roll": "16901618108",
+    "stream": "EE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "276",
+    "year": 2022,
+    "sname": "JOYDEEP RANA",
+    "univ_roll": "16901618106",
+    "stream": "EE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "277",
+    "year": 2022,
+    "sname": "KRISHNA GHOSH",
+    "univ_roll": "16901618104",
+    "stream": "EE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "278",
+    "year": 2022,
+    "sname": "PANKAJ KUMAR ROY",
+    "univ_roll": "16901618095",
+    "stream": "EE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "279",
+    "year": 2022,
+    "sname": "PARITOSH SINGH",
+    "univ_roll": "16901618094",
+    "stream": "EE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "280",
+    "year": 2022,
+    "sname": "PRITAM KARMAKAR",
+    "univ_roll": "16901618090",
+    "stream": "EE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "281",
+    "year": 2022,
+    "sname": "RAJDEEP DAS",
+    "univ_roll": "16901618088",
+    "stream": "EE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "282",
+    "year": 2022,
+    "sname": "RATUL GHOSH",
+    "univ_roll": "16901618084",
+    "stream": "EE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "283",
+    "year": 2022,
+    "sname": "RIMPA MUKHERJEE",
+    "univ_roll": "16901618083",
+    "stream": "EE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "284",
+    "year": 2022,
+    "sname": "RITURAJ SAHA",
+    "univ_roll": "16901618081",
+    "stream": "EE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "285",
+    "year": 2022,
+    "sname": "SANJOY PATHAK",
+    "univ_roll": "16901618074",
+    "stream": "EE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "286",
+    "year": 2022,
+    "sname": "SATYAKI MANDAL",
+    "univ_roll": "16901618071",
+    "stream": "EE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "287",
+    "year": 2022,
+    "sname": "SAYAN CHAKRABORTY",
+    "univ_roll": "16901618070",
+    "stream": "EE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "288",
+    "year": 2022,
+    "sname": "SAYANDEEP MAITRA",
+    "univ_roll": "16901618069",
+    "stream": "EE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "289",
+    "year": 2022,
+    "sname": "SAYANTAN GHOSH",
+    "univ_roll": "16901618067",
+    "stream": "EE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "290",
+    "year": 2022,
+    "sname": "SHANTANU DAS",
+    "univ_roll": "16901618066",
+    "stream": "EE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "291",
+    "year": 2022,
+    "sname": "SHREYAN BISWAS",
+    "univ_roll": "16901618065",
+    "stream": "EE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "292",
+    "year": 2022,
+    "sname": "SIMANTINI CHAKRABARTI",
+    "univ_roll": "16901618064",
+    "stream": "EE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "293",
+    "year": 2022,
+    "sname": "SIRSHAK DASGUPTA",
+    "univ_roll": "16901618063",
+    "stream": "EE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "294",
+    "year": 2022,
+    "sname": "SOHAM ROY",
+    "univ_roll": "16901618061",
+    "stream": "EE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "295",
+    "year": 2022,
+    "sname": "SOHINI BANDYOPADHYAY",
+    "univ_roll": "16901618060",
+    "stream": "EE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "296",
+    "year": 2022,
+    "sname": "SOHINI BHATTACHARYA",
+    "univ_roll": "16901618059",
+    "stream": "EE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "297",
+    "year": 2022,
+    "sname": "SOUMYAJYOTI KUMAR",
+    "univ_roll": "16901618053",
+    "stream": "EE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "298",
+    "year": 2022,
+    "sname": "SOURIN GHOSH",
+    "univ_roll": "16901618051",
+    "stream": "EE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "299",
+    "year": 2022,
+    "sname": "SOURYA SHOME",
+    "univ_roll": "16901618050",
+    "stream": "EE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "300",
+    "year": 2022,
+    "sname": "SOUVIK PANDEY",
+    "univ_roll": "16901619100",
+    "stream": "EE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "301",
+    "year": 2022,
+    "sname": "SRIJIT SARKAR",
+    "univ_roll": "16901618047",
+    "stream": "EE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "302",
+    "year": 2022,
+    "sname": "SRITIKANA MONDAL",
+    "univ_roll": "16901619092",
+    "stream": "EE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "303",
+    "year": 2022,
+    "sname": "SUBHAJIT BASAK",
+    "univ_roll": "16901618045",
+    "stream": "EE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "304",
+    "year": 2022,
+    "sname": "SUMIT KUMAR CHAKRABORTY",
+    "univ_roll": "16901618037",
+    "stream": "EE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "305",
+    "year": 2022,
+    "sname": "SWAGNIK CHAKRABORTY",
+    "univ_roll": "16901618033",
+    "stream": "EE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "306",
+    "year": 2022,
+    "sname": "SWARNAJIT GHOSH",
+    "univ_roll": "16901618032",
+    "stream": "EE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "307",
+    "year": 2022,
+    "sname": "SWARNAVA SARKAR",
+    "univ_roll": "16901618031",
+    "stream": "EE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "308",
+    "year": 2022,
+    "sname": "TANMOY TALAPATRA",
+    "univ_roll": "16901618030",
+    "stream": "EE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "309",
+    "year": 2022,
+    "sname": "TAPABRATA PAL",
+    "univ_roll": "16901618029",
+    "stream": "EE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "310",
+    "year": 2022,
+    "sname": "VARGAB GHOSH",
+    "univ_roll": "16901618026",
+    "stream": "EE",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "311",
+    "year": 2022,
+    "sname": "ABHISHEK PAL",
+    "univ_roll": "16900218066",
+    "stream": "IT",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "312",
+    "year": 2022,
+    "sname": "AMAN PRATAP SHEE",
+    "univ_roll": "16900218063",
+    "stream": "IT",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "313",
+    "year": 2022,
+    "sname": "ANAMIKA THAKUR",
+    "univ_roll": "16900218062",
+    "stream": "IT",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "314",
+    "year": 2022,
+    "sname": "ANIRUDDHA NAYEK",
+    "univ_roll": "16900218061",
+    "stream": "IT",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "315",
+    "year": 2022,
+    "sname": "ANJANI KUMAR RAY",
+    "univ_roll": "16900218060",
+    "stream": "IT",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "316",
+    "year": 2022,
+    "sname": "ATUL KUMAR SINHA",
+    "univ_roll": "16900218056",
+    "stream": "IT",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "317",
+    "year": 2022,
+    "sname": "AVISHAKE MAJI",
+    "univ_roll": "16900218054",
+    "stream": "IT",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "318",
+    "year": 2022,
+    "sname": "BIBARTAN PODDER",
+    "univ_roll": "16900218053",
+    "stream": "IT",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "319",
+    "year": 2022,
+    "sname": "BIHAN CHAKRABARTI",
+    "univ_roll": "16900218052",
+    "stream": "IT",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "320",
+    "year": 2022,
+    "sname": "DEBJIT CHATTERJEE",
+    "univ_roll": "16900218049",
+    "stream": "IT",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "321",
+    "year": 2022,
+    "sname": "DESHNA BERA",
+    "univ_roll": "16900218047",
+    "stream": "IT",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "322",
+    "year": 2022,
+    "sname": "GOVIND KUMAR CHOUDHARY",
+    "univ_roll": "16900218045",
+    "stream": "IT",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "323",
+    "year": 2022,
+    "sname": "ISHITA KUMARI",
+    "univ_roll": "16900218044",
+    "stream": "IT",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "324",
+    "year": 2022,
+    "sname": "MD FAIZ",
+    "univ_roll": "16900218040",
+    "stream": "IT",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "325",
+    "year": 2022,
+    "sname": "MONIKA",
+    "univ_roll": "16900218039",
+    "stream": "IT",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "326",
+    "year": 2022,
+    "sname": "MONIKA SINGH",
+    "univ_roll": "16900218038",
+    "stream": "IT",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "327",
+    "year": 2022,
+    "sname": "PALLAV PUSHPARAJ",
+    "univ_roll": "16900218036",
+    "stream": "IT",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "328",
+    "year": 2022,
+    "sname": "PRABHA SINGH",
+    "univ_roll": "16900218035",
+    "stream": "IT",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "329",
+    "year": 2022,
+    "sname": "PRONAY GUHA",
+    "univ_roll": "16900218033",
+    "stream": "IT",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "330",
+    "year": 2022,
+    "sname": "RAHUL DAS",
+    "univ_roll": "16900218032",
+    "stream": "IT",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "331",
+    "year": 2022,
+    "sname": "RAIHAN RAZA",
+    "univ_roll": "16900218029",
+    "stream": "IT",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "332",
+    "year": 2022,
+    "sname": "RAJDEEP GANGULY",
+    "univ_roll": "16900218028",
+    "stream": "IT",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "333",
+    "year": 2022,
+    "sname": "ROHIT ROY CHOWDHURY",
+    "univ_roll": "16900218024",
+    "stream": "IT",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "334",
+    "year": 2022,
+    "sname": "SANKALP",
+    "univ_roll": "16900218022",
+    "stream": "IT",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "335",
+    "year": 2022,
+    "sname": "SHAHZEB RIZWAN",
+    "univ_roll": "16900218021",
+    "stream": "IT",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "336",
+    "year": 2022,
+    "sname": "SUBHADIP CHOWDHURY",
+    "univ_roll": "16900218018",
+    "stream": "IT",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "337",
+    "year": 2022,
+    "sname": "SUCHETANA SHEET",
+    "univ_roll": "16900218016",
+    "stream": "IT",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "338",
+    "year": 2022,
+    "sname": "SUDHANSHU KUMAR BHAGAT",
+    "univ_roll": "16900218015",
+    "stream": "IT",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "339",
+    "year": 2022,
+    "sname": "SWANMOY NAG",
+    "univ_roll": "16900218013",
+    "stream": "IT",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "340",
+    "year": 2022,
+    "sname": "VIKASH SHAW",
+    "univ_roll": "16900218009",
+    "stream": "IT",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "341",
+    "year": 2022,
+    "sname": "VISHAL MUNDHRA",
+    "univ_roll": "16900218008",
+    "stream": "IT",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "342",
+    "year": 2022,
+    "sname": "YASHRAJ RATAWA",
+    "univ_roll": "16900218006",
+    "stream": "IT",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "343",
+    "year": 2022,
+    "sname": "JITENDRA NATH PARAMANICK",
+    "univ_roll": "16901019009",
+    "stream": "MCA",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "344",
+    "year": 2022,
+    "sname": "RAINA SHAW",
+    "univ_roll": "16901019018",
+    "stream": "MCA",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "345",
+    "year": 2022,
+    "sname": "SHIBASISH CHATTERJEE",
+    "univ_roll": "16901019016",
+    "stream": "MCA",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "346",
+    "year": 2022,
+    "sname": "SOUMARENDU MAL",
+    "univ_roll": "16901019014",
+    "stream": "MCA",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "347",
+    "year": 2022,
+    "sname": "ABINASH KUMAR",
+    "univ_roll": "16900718146",
+    "stream": "ME",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "348",
+    "year": 2022,
+    "sname": "ABIR DUTTA",
+    "univ_roll": "16900718145",
+    "stream": "ME",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "349",
+    "year": 2022,
+    "sname": "ACHINTYA KUMAR SIL",
+    "univ_roll": "16900718143",
+    "stream": "ME",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "350",
+    "year": 2022,
+    "sname": "AKASH DAS",
+    "univ_roll": "16900718142",
+    "stream": "ME",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "351",
+    "year": 2022,
+    "sname": "ALIK DEY",
+    "univ_roll": "16900718139",
+    "stream": "ME",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "352",
+    "year": 2022,
+    "sname": "ANIRBAN ROY",
+    "univ_roll": "16900718136",
+    "stream": "ME",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "353",
+    "year": 2022,
+    "sname": "ANIRUDHA PAUL",
+    "univ_roll": "16900718135",
+    "stream": "ME",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "354",
+    "year": 2022,
+    "sname": "ANUBHAB SANA",
+    "univ_roll": "16900718134",
+    "stream": "ME",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "355",
+    "year": 2022,
+    "sname": "ARIJIT SADHUKHAN",
+    "univ_roll": "16900718129",
+    "stream": "ME",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "356",
+    "year": 2022,
+    "sname": "ARKA PATHAK",
+    "univ_roll": "16900718127",
+    "stream": "ME",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "357",
+    "year": 2022,
+    "sname": "ARYA SARKAR",
+    "univ_roll": "16900718122",
+    "stream": "ME",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "358",
+    "year": 2022,
+    "sname": "AYON BAG",
+    "univ_roll": "16900718119",
+    "stream": "ME",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "359",
+    "year": 2022,
+    "sname": "AYUSH SHARMA",
+    "univ_roll": "16900718118",
+    "stream": "ME",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "360",
+    "year": 2022,
+    "sname": "BHASKAR CHATTERJEE",
+    "univ_roll": "16900718115",
+    "stream": "ME",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "361",
+    "year": 2022,
+    "sname": "BIPRODIP SADHUKHAN",
+    "univ_roll": "16900718114",
+    "stream": "ME",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "362",
+    "year": 2022,
+    "sname": "DEEPAK SHARMA",
+    "univ_roll": "16900718110",
+    "stream": "ME",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "363",
+    "year": 2022,
+    "sname": "HARSH JAISWAL",
+    "univ_roll": "16900718106",
+    "stream": "ME",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "364",
+    "year": 2022,
+    "sname": "HRIJU DATTA",
+    "univ_roll": "16900718104",
+    "stream": "ME",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "365",
+    "year": 2022,
+    "sname": "HRIKTIK KHAN",
+    "univ_roll": "16900718103",
+    "stream": "ME",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "366",
+    "year": 2022,
+    "sname": "KUNTAL BASU ROY CHAUDHURY",
+    "univ_roll": "16900718099",
+    "stream": "ME",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "367",
+    "year": 2022,
+    "sname": "MOHAMMAD SHAHKAR ALAM",
+    "univ_roll": "16900718093",
+    "stream": "ME",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "368",
+    "year": 2022,
+    "sname": "NILAVA SARKAR",
+    "univ_roll": "16900718091",
+    "stream": "ME",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "369",
+    "year": 2022,
+    "sname": "RAHUL SOO",
+    "univ_roll": "16900718081",
+    "stream": "ME",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "370",
+    "year": 2022,
+    "sname": "RITABAN MUKHERJEE",
+    "univ_roll": "16900718077",
+    "stream": "ME",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "371",
+    "year": 2022,
+    "sname": "RUPESH SANTRA",
+    "univ_roll": "16900718074",
+    "stream": "ME",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "372",
+    "year": 2022,
+    "sname": "SABARNA BOSE",
+    "univ_roll": "16900718073",
+    "stream": "ME",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "373",
+    "year": 2022,
+    "sname": "SANTANU BHATTACHARYAY",
+    "univ_roll": "16900718070",
+    "stream": "ME",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "374",
+    "year": 2022,
+    "sname": "SAYAN DEEP KAR",
+    "univ_roll": "16900718066",
+    "stream": "ME",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "375",
+    "year": 2022,
+    "sname": "SK REJAUL KARIM",
+    "univ_roll": "16900718060",
+    "stream": "ME",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "376",
+    "year": 2022,
+    "sname": "SOUMYAVO GHOSH",
+    "univ_roll": "16900718051",
+    "stream": "ME",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "377",
+    "year": 2022,
+    "sname": "SOURAV KARMAKAR",
+    "univ_roll": "16900719010",
+    "stream": "ME",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "378",
+    "year": 2022,
+    "sname": "SUBHADEEP BASAK",
+    "univ_roll": "16900718047",
+    "stream": "ME",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "379",
+    "year": 2022,
+    "sname": "SUMAN GOSWAMI",
+    "univ_roll": "16900718038",
+    "stream": "ME",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "380",
+    "year": 2022,
+    "sname": "SUMIT KUMAR ROY",
+    "univ_roll": "16900718036",
+    "stream": "ME",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "381",
+    "year": 2022,
+    "sname": "TIRTHANKAR PAL",
+    "univ_roll": "16900718031",
+    "stream": "ME",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "382",
+    "year": 2022,
+    "sname": "TIRTHARAJ BHOWMIK",
+    "univ_roll": "16900718030",
+    "stream": "ME",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "383",
+    "year": 2022,
+    "sname": "TRIJIT ADHIKARY",
+    "univ_roll": "16900718029",
+    "stream": "ME",
+    "company": "COGNIZANT"
+  },
+  {
+    "id": "384",
+    "year": 2022,
+    "sname": "SOHAN SARKAR",
+    "univ_roll": "16900318042",
+    "stream": "ECE",
+    "company": "DELOITTE"
+  },
+  {
+    "id": "385",
+    "year": 2022,
+    "sname": "MOHANA CHAKRABORTY",
+    "univ_roll": "16900118098",
+    "stream": "CSE",
+    "company": "DELOITTE"
+  },
+  {
+    "id": "386",
+    "year": 2022,
+    "sname": "PRASHANT JHA",
+    "univ_roll": "16900118089",
+    "stream": "CSE",
+    "company": "EPAM"
+  },
+  {
+    "id": "387",
+    "year": 2022,
+    "sname": "SIDDHANT SHARMA",
+    "univ_roll": "16900118055",
+    "stream": "CSE",
+    "company": "EPAM"
+  },
+  {
+    "id": "388",
+    "year": 2022,
+    "sname": "SHIVANI SINGH",
+    "univ_roll": "16900318049",
+    "stream": "ECE",
+    "company": "EPAM"
+  },
+  {
+    "id": "389",
+    "year": 2022,
+    "sname": "ATUL KUMAR SINHA",
+    "univ_roll": "16900218056",
+    "stream": "IT",
+    "company": "EPAM"
+  },
+  {
+    "id": "390",
+    "year": 2022,
+    "sname": "SUJOY NANDI",
+    "univ_roll": "16900718041",
+    "stream": "ME",
+    "company": "EPAM"
+  },
+  {
+    "id": "391",
+    "year": 2022,
+    "sname": "SAGUN JAISWAL",
+    "univ_roll": "16900218023",
+    "stream": "IT",
+    "company": "EPAM"
+  },
+  {
+    "id": "392",
+    "year": 2022,
+    "sname": "SUBHADIP CHOWDHURY",
+    "univ_roll": "16900218018",
+    "stream": "IT",
+    "company": "EPAM"
+  },
+  {
+    "id": "393",
+    "year": 2022,
+    "sname": "AKASH MALICK",
+    "univ_roll": "16901019024",
+    "stream": "MCA",
+    "company": "EUPHORIA GENX T- WEB EXPONENT"
+  },
+  {
+    "id": "394",
+    "year": 2022,
+    "sname": "TAPENDU BAKULI",
+    "univ_roll": "16901019012",
+    "stream": "MCA",
+    "company": "EUPHORIA GENX T- WEB EXPONENT"
+  },
+  {
+    "id": "395",
+    "year": 2022,
+    "sname": "SAKIL AHAMMAD LASKAR",
+    "univ_roll": "16900118076",
+    "stream": "CSE",
+    "company": "Global IDS"
+  },
+  {
+    "id": "396",
+    "year": 2022,
+    "sname": "SUDIPTA NAR",
+    "univ_roll": "16900318027",
+    "stream": "ECE",
+    "company": "Global IDS"
+  },
+  {
+    "id": "397",
+    "year": 2022,
+    "sname": "DEBOPAM GHOSH",
+    "univ_roll": "16900218048",
+    "stream": "IT",
+    "company": "Global IDS"
+  },
+  {
+    "id": "398",
+    "year": 2022,
+    "sname": "SAGNIK ROY",
+    "univ_roll": "16900718072",
+    "stream": "ME",
+    "company": "GRIND MASTER MACHINES"
+  },
+  {
+    "id": "399",
+    "year": 2022,
+    "sname": "MOHANA CHAKRABORTY",
+    "univ_roll": "16900118098",
+    "stream": "CSE",
+    "company": "HARMAN KARDON."
+  },
+  {
+    "id": "400",
+    "year": 2022,
+    "sname": "DEBJIT PURKAITE",
+    "univ_roll": "16900318110",
+    "stream": "ECE",
+    "company": "HCL"
+  },
+  {
+    "id": "401",
+    "year": 2022,
+    "sname": "MANAMI CHAKRABORTY",
+    "univ_roll": "16901618102",
+    "stream": "EE",
+    "company": "HCL TECHNOLOGIES"
+  },
+  {
+    "id": "402",
+    "year": 2022,
+    "sname": "MOUSAM ALI SK",
+    "univ_roll": "16901618099",
+    "stream": "EE",
+    "company": "HCL TECHNOLOGIES"
+  },
+  {
+    "id": "403",
+    "year": 2022,
+    "sname": "SREEPARNA CHATTOPADHYAY",
+    "univ_roll": "16901618048",
+    "stream": "EE",
+    "company": "HCL TECHNOLOGIES"
+  },
+  {
+    "id": "404",
+    "year": 2022,
+    "sname": "SRIPARNO SEN",
+    "univ_roll": "16901618046",
+    "stream": "EE",
+    "company": "HCL TECHNOLOGIES"
+  },
+  {
+    "id": "405",
+    "year": 2022,
+    "sname": "ROHIT ROY CHOWDHURY",
+    "univ_roll": "16900218024",
+    "stream": "IT",
+    "company": "Hexaware Technologies"
+  },
+  {
+    "id": "406",
+    "year": 2022,
+    "sname": "AQSA SAMEEN",
+    "univ_roll": "16905518049",
+    "stream": "AEIE",
+    "company": "Hexaware Technologies"
+  },
+  {
+    "id": "407",
+    "year": 2022,
+    "sname": "ARATRIKA BISWAS",
+    "univ_roll": "16905518048",
+    "stream": "AEIE",
+    "company": "Hexaware Technologies"
+  },
+  {
+    "id": "408",
+    "year": 2022,
+    "sname": "ARNAB SAHA",
+    "univ_roll": "16905518046",
+    "stream": "AEIE",
+    "company": "Hexaware Technologies"
+  },
+  {
+    "id": "409",
+    "year": 2022,
+    "sname": "NEHA KUMARI",
+    "univ_roll": "16905518023",
+    "stream": "AEIE",
+    "company": "Hexaware Technologies"
+  },
+  {
+    "id": "410",
+    "year": 2022,
+    "sname": "PRITAMA DUTTA",
+    "univ_roll": "16905518015",
+    "stream": "AEIE",
+    "company": "Hexaware Technologies"
+  },
+  {
+    "id": "411",
+    "year": 2022,
+    "sname": "RISHIKESH BHARTI",
+    "univ_roll": "16900118079",
+    "stream": "CSE",
+    "company": "Hexaware Technologies"
+  },
+  {
+    "id": "412",
+    "year": 2022,
+    "sname": "SANJIVAN MUKHERJEE",
+    "univ_roll": "16900118072",
+    "stream": "CSE",
+    "company": "Hexaware Technologies"
+  },
+  {
+    "id": "413",
+    "year": 2022,
+    "sname": "SIMANTINI CHAKRABARTI",
+    "univ_roll": "16901618064",
+    "stream": "EE",
+    "company": "Hexaware Technologies"
+  },
+  {
+    "id": "414",
+    "year": 2022,
+    "sname": "ADARSH CHOWDHARY",
+    "univ_roll": "16900218065",
+    "stream": "IT",
+    "company": "Hexaware Technologies"
+  },
+  {
+    "id": "415",
+    "year": 2022,
+    "sname": "SHASHWAT SAHAY",
+    "univ_roll": "16900218020",
+    "stream": "IT",
+    "company": "HITACHI GLOBLAL LOGIC"
+  },
+  {
+    "id": "416",
+    "year": 2022,
+    "sname": "RAHUL SINGH",
+    "univ_roll": "16900119009",
+    "stream": "CSE",
+    "company": "IBM INDIA"
+  },
+  {
+    "id": "417",
+    "year": 2022,
+    "sname": "ABHISHEK MISHRA",
+    "univ_roll": "16900118145",
+    "stream": "CSE",
+    "company": "INFOSYS"
+  },
+  {
+    "id": "418",
+    "year": 2022,
+    "sname": "ADITYA VERMA",
+    "univ_roll": "16900118142",
+    "stream": "CSE",
+    "company": "INFOSYS"
+  },
+  {
+    "id": "419",
+    "year": 2022,
+    "sname": "AKASH BHARGAV",
+    "univ_roll": "16900118139",
+    "stream": "CSE",
+    "company": "INFOSYS"
+  },
+  {
+    "id": "420",
+    "year": 2022,
+    "sname": "AYUSH PANDEY",
+    "univ_roll": "1690011817",
+    "stream": "CSE",
+    "company": "INFOSYS"
+  },
+  {
+    "id": "421",
+    "year": 2022,
+    "sname": "DEBDUT GOSWAMI",
+    "univ_roll": "16900118114",
+    "stream": "CSE",
+    "company": "INFOSYS"
+  },
+  {
+    "id": "422",
+    "year": 2022,
+    "sname": "JATIN SINGHI",
+    "univ_roll": "16900118106",
+    "stream": "CSE",
+    "company": "INFOSYS"
+  },
+  {
+    "id": "423",
+    "year": 2022,
+    "sname": "RAHUL KUMAR GUPTA",
+    "univ_roll": "16900118083",
+    "stream": "CSE",
+    "company": "INFOSYS"
+  },
+  {
+    "id": "424",
+    "year": 2022,
+    "sname": "SUBHAM SINGH",
+    "univ_roll": "16900118043",
+    "stream": "CSE",
+    "company": "INFOSYS"
+  },
+  {
+    "id": "425",
+    "year": 2022,
+    "sname": "YOGESH YOGENDRA",
+    "univ_roll": "16900118025",
+    "stream": "CSE",
+    "company": "INFOSYS"
+  },
+  {
+    "id": "426",
+    "year": 2022,
+    "sname": "AMLAN CHINYA",
+    "univ_roll": "16900318136",
+    "stream": "ECE",
+    "company": "INFOSYS"
+  },
+  {
+    "id": "427",
+    "year": 2022,
+    "sname": "SOUMYADEEP MANDAL",
+    "univ_roll": "16901618055",
+    "stream": "EE",
+    "company": "INFOSYS"
+  },
+  {
+    "id": "428",
+    "year": 2022,
+    "sname": "TIRTHENDU CHAKRABORTY",
+    "univ_roll": "16901618028",
+    "stream": "EE",
+    "company": "INFOSYS"
+  },
+  {
+    "id": "429",
+    "year": 2022,
+    "sname": "GOVIND KUMAR CHOUDHARY",
+    "univ_roll": "16900218045",
+    "stream": "IT",
+    "company": "INFOSYS"
+  },
+  {
+    "id": "430",
+    "year": 2022,
+    "sname": "RAHUL KUMAR SINGH",
+    "univ_roll": "16900218030",
+    "stream": "IT",
+    "company": "INFOSYS"
+  },
+  {
+    "id": "431",
+    "year": 2022,
+    "sname": "SANKALP",
+    "univ_roll": "16900218022",
+    "stream": "IT",
+    "company": "INFOSYS"
+  },
+  {
+    "id": "432",
+    "year": 2022,
+    "sname": "SWANMOY NAG",
+    "univ_roll": "16900218013",
+    "stream": "IT",
+    "company": "INFOSYS"
+  },
+  {
+    "id": "433",
+    "year": 2022,
+    "sname": "VISHAL MUNDHRA",
+    "univ_roll": "16900218008",
+    "stream": "IT",
+    "company": "INFOSYS"
+  },
+  {
+    "id": "434",
+    "year": 2022,
+    "sname": "MONIKA SINGH",
+    "univ_roll": "16900218038",
+    "stream": "IT",
+    "company": "INFOSYS"
+  },
+  {
+    "id": "435",
+    "year": 2022,
+    "sname": "SANDIPAN GHOSHAL",
+    "univ_roll": "16900718071",
+    "stream": "ME",
+    "company": "INFOSYS"
+  },
+  {
+    "id": "436",
+    "year": 2022,
+    "sname": "KUSOL BANERJI",
+    "univ_roll": "16900318088",
+    "stream": "ECE",
+    "company": "INFOSYS"
+  },
+  {
+    "id": "437",
+    "year": 2022,
+    "sname": "MOUSAM MALLICK",
+    "univ_roll": "16900318083",
+    "stream": "ECE",
+    "company": "INFOSYS"
+  },
+  {
+    "id": "438",
+    "year": 2022,
+    "sname": "SANDEEP KUMAR",
+    "univ_roll": "16900118074",
+    "stream": "CSE",
+    "company": "INFOSYS"
+  },
+  {
+    "id": "439",
+    "year": 2022,
+    "sname": "PRATYUSHA JHA",
+    "univ_roll": "16900319002",
+    "stream": "ECE",
+    "company": "INFOSYS"
+  },
+  {
+    "id": "440",
+    "year": 2022,
+    "sname": "NAYNA GUHA",
+    "univ_roll": "16900119007",
+    "stream": "CSE",
+    "company": "INFOSYS"
+  },
+  {
+    "id": "441",
+    "year": 2022,
+    "sname": "SWAGATA ROY",
+    "univ_roll": "16901618034",
+    "stream": "EE",
+    "company": "INFOSYS"
+  },
+  {
+    "id": "442",
+    "year": 2022,
+    "sname": "SUMAN DAS",
+    "univ_roll": "16901618039",
+    "stream": "EE",
+    "company": "INFOSYS"
+  },
+  {
+    "id": "443",
+    "year": 2022,
+    "sname": "RUDRADEEP PAUL",
+    "univ_roll": "16901618079",
+    "stream": "EE",
+    "company": "INFOSYS"
+  },
+  {
+    "id": "444",
+    "year": 2022,
+    "sname": "ABHISHEK KUMAR",
+    "univ_roll": "16900118146",
+    "stream": "CSE",
+    "company": "INFOSYS"
+  },
+  {
+    "id": "445",
+    "year": 2022,
+    "sname": "ABHIJIT MITRA",
+    "univ_roll": "16900218068",
+    "stream": "IT",
+    "company": "INFOSYS"
+  },
+  {
+    "id": "446",
+    "year": 2022,
+    "sname": "DIYA SAHA",
+    "univ_roll": "16905518038",
+    "stream": "AEIE",
+    "company": "INFOSYS"
+  },
+  {
+    "id": "447",
+    "year": 2022,
+    "sname": "INDRANI SARKAR",
+    "univ_roll": "16905518035",
+    "stream": "AEIE",
+    "company": "INFOSYS"
+  },
+  {
+    "id": "448",
+    "year": 2022,
+    "sname": "SARADINDU BAIRAGI",
+    "univ_roll": "16900119136",
+    "stream": "CSE",
+    "company": "INFOSYS"
+  },
+  {
+    "id": "449",
+    "year": 2022,
+    "sname": "SAYAN PRAMANICK",
+    "univ_roll": "16900119012",
+    "stream": "CSE",
+    "company": "INFOSYS"
+  },
+  {
+    "id": "450",
+    "year": 2022,
+    "sname": "RITISHA SRIVASTAVA",
+    "univ_roll": "16900219055",
+    "stream": "IT",
+    "company": "INFOSYS"
+  },
+  {
+    "id": "451",
+    "year": 2022,
+    "sname": "ARIJIT SADHUKHAN",
+    "univ_roll": "16900718129",
+    "stream": "ME",
+    "company": "INFOSYS"
+  },
+  {
+    "id": "452",
+    "year": 2022,
+    "sname": "ARYA SARKAR",
+    "univ_roll": "16900718122",
+    "stream": "ME",
+    "company": "INFOSYS"
+  },
+  {
+    "id": "453",
+    "year": 2022,
+    "sname": "MUKHARJEE MANDAL",
+    "univ_roll": "16900718092",
+    "stream": "ME",
+    "company": "INFOSYS"
+  },
+  {
+    "id": "454",
+    "year": 2022,
+    "sname": "VISHAL KUNDU",
+    "univ_roll": "16900718028",
+    "stream": "ME",
+    "company": "INFOSYS"
+  },
+  {
+    "id": "455",
+    "year": 2022,
+    "sname": "SUBHOJIT MONDAL",
+    "univ_roll": "16901618043",
+    "stream": "EE",
+    "company": "INFOSYS"
+  },
+  {
+    "id": "456",
+    "year": 2022,
+    "sname": "ARKA PATHAK",
+    "univ_roll": "16900718127",
+    "stream": "ME",
+    "company": "INSOSYS"
+  },
+  {
+    "id": "457",
+    "year": 2022,
+    "sname": "ARNAB KUMAR DAS",
+    "univ_roll": "16900719014",
+    "stream": "ME",
+    "company": "IPSEN TECHNOLOGIES"
+  },
+  {
+    "id": "458",
+    "year": 2022,
+    "sname": "ARITRA KUNDU",
+    "univ_roll": "16905518047",
+    "stream": "AEIE",
+    "company": "ITC INFOTECH"
+  },
+  {
+    "id": "459",
+    "year": 2022,
+    "sname": "NISHA SHAW",
+    "univ_roll": "16905518020",
+    "stream": "AEIE",
+    "company": "ITC INFOTECH"
+  },
+  {
+    "id": "460",
+    "year": 2022,
+    "sname": "AKASH LAL DUTTA",
+    "univ_roll": "16900118136",
+    "stream": "CSE",
+    "company": "ITC INFOTECH"
+  },
+  {
+    "id": "461",
+    "year": 2022,
+    "sname": "NISHAN MAL",
+    "univ_roll": "16900119005",
+    "stream": "CSE",
+    "company": "ITC INFOTECH"
+  },
+  {
+    "id": "462",
+    "year": 2022,
+    "sname": "RAHUL PRASAD YADAV",
+    "univ_roll": "16900118082",
+    "stream": "CSE",
+    "company": "ITC INFOTECH"
+  },
+  {
+    "id": "463",
+    "year": 2022,
+    "sname": "ABHIMANYU KUMAR ROY",
+    "univ_roll": "16900318142",
+    "stream": "ECE",
+    "company": "ITC INFOTECH"
+  },
+  {
+    "id": "464",
+    "year": 2022,
+    "sname": "SHYAMSUNDAR DE",
+    "univ_roll": "16900318044",
+    "stream": "ECE",
+    "company": "ITC INFOTECH"
+  },
+  {
+    "id": "465",
+    "year": 2022,
+    "sname": "SUBHADEEP DEY",
+    "univ_roll": "16900318031",
+    "stream": "ECE",
+    "company": "ITC INFOTECH"
+  },
+  {
+    "id": "466",
+    "year": 2022,
+    "sname": "MAYUKH SADHU",
+    "univ_roll": "16901618100",
+    "stream": "EE",
+    "company": "ITC INFOTECH"
+  },
+  {
+    "id": "467",
+    "year": 2022,
+    "sname": "PROBAHA SINGHAROY",
+    "univ_roll": "16901618089",
+    "stream": "EE",
+    "company": "ITC INFOTECH"
+  },
+  {
+    "id": "468",
+    "year": 2022,
+    "sname": "SOUVIK MUKHERJEE",
+    "univ_roll": "16901618049",
+    "stream": "EE",
+    "company": "ITC INFOTECH"
+  },
+  {
+    "id": "469",
+    "year": 2022,
+    "sname": "SRIPARNO SEN",
+    "univ_roll": "16901618046",
+    "stream": "EE",
+    "company": "ITC INFOTECH"
+  },
+  {
+    "id": "470",
+    "year": 2022,
+    "sname": "SUMAN DAS",
+    "univ_roll": "16901618039",
+    "stream": "EE",
+    "company": "ITC INFOTECH"
+  },
+  {
+    "id": "471",
+    "year": 2022,
+    "sname": "SWAGATA ROY",
+    "univ_roll": "16901618034",
+    "stream": "EE",
+    "company": "ITC INFOTECH"
+  },
+  {
+    "id": "472",
+    "year": 2022,
+    "sname": "ARNAB KUMAR DAS",
+    "univ_roll": "16900719014",
+    "stream": "ME",
+    "company": "KHARAGPUR METAL REFORMING INDUSTRIES"
+  },
+  {
+    "id": "473",
+    "year": 2022,
+    "sname": "ARNAB SAMANTA",
+    "univ_roll": "16900718125",
+    "stream": "ME",
+    "company": "KHARAGPUR METAL REFORMING INDUSTRIES"
+  },
+  {
+    "id": "474",
+    "year": 2022,
+    "sname": "AVIJIT RAM",
+    "univ_roll": "16900718120",
+    "stream": "ME",
+    "company": "KHARAGPUR METAL REFORMING INDUSTRIES"
+  },
+  {
+    "id": "475",
+    "year": 2022,
+    "sname": "DEBOJEET GHOSH",
+    "univ_roll": "16900719001",
+    "stream": "ME",
+    "company": "KHARAGPUR METAL REFORMING INDUSTRIES"
+  },
+  {
+    "id": "476",
+    "year": 2022,
+    "sname": "MANAS CHAKRABORTY",
+    "univ_roll": "16900719008",
+    "stream": "ME",
+    "company": "KHARAGPUR METAL REFORMING INDUSTRIES"
+  },
+  {
+    "id": "477",
+    "year": 2022,
+    "sname": "SOUMYADEEP MANNA",
+    "univ_roll": "1690718053",
+    "stream": "ME",
+    "company": "KHARAGPUR METAL REFORMING INDUSTRIES"
+  },
+  {
+    "id": "478",
+    "year": 2022,
+    "sname": "SOUPTIK SINGHA",
+    "univ_roll": "16900719006",
+    "stream": "ME",
+    "company": "KHARAGPUR METAL REFORMING INDUSTRIES"
+  },
+  {
+    "id": "479",
+    "year": 2022,
+    "sname": "SUBHAM GHOSH",
+    "univ_roll": "16900718045",
+    "stream": "ME",
+    "company": "KHARAGPUR METAL REFORMING INDUSTRIES"
+  },
+  {
+    "id": "480",
+    "year": 2022,
+    "sname": "YUHAN KHAN",
+    "univ_roll": "16900718027",
+    "stream": "ME",
+    "company": "KHARAGPUR METAL REFORMING INDUSTRIES"
+  },
+  {
+    "id": "481",
+    "year": 2022,
+    "sname": "SUBHAJIT KAR",
+    "univ_roll": "16900118044",
+    "stream": "CSE",
+    "company": "KPIT LPD."
+  },
+  {
+    "id": "482",
+    "year": 2022,
+    "sname": "AYANAVA KARMAKAR",
+    "univ_roll": "16901618126",
+    "stream": "EE",
+    "company": "KPIT LTD"
+  },
+  {
+    "id": "483",
+    "year": 2022,
+    "sname": "BRATATI ROUT",
+    "univ_roll": "16905518043",
+    "stream": "AEIE",
+    "company": "KPIT LTD."
+  },
+  {
+    "id": "484",
+    "year": 2022,
+    "sname": "NIRMALYA MAITY",
+    "univ_roll": "16905518021",
+    "stream": "AEIE",
+    "company": "KPIT LTD."
+  },
+  {
+    "id": "485",
+    "year": 2022,
+    "sname": "SUBHADEEP DAS",
+    "univ_roll": "16905518007",
+    "stream": "AEIE",
+    "company": "KPIT LTD."
+  },
+  {
+    "id": "486",
+    "year": 2022,
+    "sname": "TAMALIKA KARFA",
+    "univ_roll": "16905518003",
+    "stream": "AEIE",
+    "company": "KPIT LTD."
+  },
+  {
+    "id": "487",
+    "year": 2022,
+    "sname": "ABHILASH GHOSH",
+    "univ_roll": "16900118147",
+    "stream": "CSE",
+    "company": "KPIT LTD."
+  },
+  {
+    "id": "488",
+    "year": 2022,
+    "sname": "ABHISHEK SHARMA",
+    "univ_roll": "16900118144",
+    "stream": "CSE",
+    "company": "KPIT LTD."
+  },
+  {
+    "id": "489",
+    "year": 2022,
+    "sname": "PARNA PRATIM MITRA",
+    "univ_roll": "16900118092",
+    "stream": "CSE",
+    "company": "KPIT LTD."
+  },
+  {
+    "id": "490",
+    "year": 2022,
+    "sname": "SHANKAR KUMAR KUSHWAHA",
+    "univ_roll": "16900118065",
+    "stream": "CSE",
+    "company": "KPIT LTD."
+  },
+  {
+    "id": "491",
+    "year": 2022,
+    "sname": "SHREYA BHATTACHARYYA",
+    "univ_roll": "16900118060",
+    "stream": "CSE",
+    "company": "KPIT LTD."
+  },
+  {
+    "id": "492",
+    "year": 2022,
+    "sname": "SHUBHENDU NATH",
+    "univ_roll": "16900118056",
+    "stream": "CSE",
+    "company": "KPIT LTD."
+  },
+  {
+    "id": "493",
+    "year": 2022,
+    "sname": "SUBHADIP GHOSH",
+    "univ_roll": "16900118046",
+    "stream": "CSE",
+    "company": "KPIT LTD."
+  },
+  {
+    "id": "494",
+    "year": 2022,
+    "sname": "ABHINABA DATTA",
+    "univ_roll": "16900318141",
+    "stream": "ECE",
+    "company": "KPIT LTD."
+  },
+  {
+    "id": "495",
+    "year": 2022,
+    "sname": "DIPANJAN DAS",
+    "univ_roll": "16900318105",
+    "stream": "ECE",
+    "company": "KPIT LTD."
+  },
+  {
+    "id": "496",
+    "year": 2022,
+    "sname": "KANKANA DAS",
+    "univ_roll": "16900318093",
+    "stream": "ECE",
+    "company": "KPIT LTD."
+  },
+  {
+    "id": "497",
+    "year": 2022,
+    "sname": "RISHAB SINHA",
+    "univ_roll": "16900318064",
+    "stream": "ECE",
+    "company": "KPIT LTD."
+  },
+  {
+    "id": "498",
+    "year": 2022,
+    "sname": "SOUPARNA CHOWDHURY",
+    "univ_roll": "16900318034",
+    "stream": "ECE",
+    "company": "KPIT LTD."
+  },
+  {
+    "id": "499",
+    "year": 2022,
+    "sname": "DIPTESH MUKHERJEE",
+    "univ_roll": "16901618111",
+    "stream": "EE",
+    "company": "KPIT LTD."
+  },
+  {
+    "id": "500",
+    "year": 2022,
+    "sname": "SOHINI BHATTACHARYA",
+    "univ_roll": "16901618059",
+    "stream": "EE",
+    "company": "KPIT LTD."
+  },
+  {
+    "id": "501",
+    "year": 2022,
+    "sname": "ANJANI KUMAR RAY",
+    "univ_roll": "16900218060",
+    "stream": "IT",
+    "company": "KPIT LTD."
+  },
+  {
+    "id": "502",
+    "year": 2022,
+    "sname": "ARKA PATHAK",
+    "univ_roll": "16900718127",
+    "stream": "ME",
+    "company": "KPIT LTD."
+  },
+  {
+    "id": "503",
+    "year": 2022,
+    "sname": "BHASKAR CHATTERJEE",
+    "univ_roll": "16900718115",
+    "stream": "ME",
+    "company": "KPIT LTD."
+  },
+  {
+    "id": "504",
+    "year": 2022,
+    "sname": "MUKHARJEE MANDAL",
+    "univ_roll": "16900718092",
+    "stream": "ME",
+    "company": "KPIT LTD."
+  },
+  {
+    "id": "505",
+    "year": 2022,
+    "sname": "SUJOY NANDI",
+    "univ_roll": "16900718041",
+    "stream": "ME",
+    "company": "KPIT LTD."
+  },
+  {
+    "id": "506",
+    "year": 2022,
+    "sname": "ROHIT SHAW",
+    "univ_roll": "16900118078",
+    "stream": "CSE",
+    "company": "KREETI TECHNOLOGIES"
+  },
+  {
+    "id": "507",
+    "year": 2022,
+    "sname": "GOVIND KUMAR CHOUDHARY",
+    "univ_roll": "16900218045",
+    "stream": "IT",
+    "company": "L&T INFOTECH"
+  },
+  {
+    "id": "508",
+    "year": 2022,
+    "sname": "NISHAN MAL",
+    "univ_roll": "16900119005",
+    "stream": "CSE",
+    "company": "MINDTECK"
+  },
+  {
+    "id": "509",
+    "year": 2022,
+    "sname": "POULAMI DHAR",
+    "univ_roll": "16900119004",
+    "stream": "CSE",
+    "company": "MINDTECK"
+  },
+  {
+    "id": "510",
+    "year": 2022,
+    "sname": "TANIA GHOSH",
+    "univ_roll": "16900118036",
+    "stream": "CSE",
+    "company": "MINDTECK"
+  },
+  {
+    "id": "511",
+    "year": 2022,
+    "sname": "DEBJIT PURKAITE",
+    "univ_roll": "16900318110",
+    "stream": "ECE",
+    "company": "MINDTECK"
+  },
+  {
+    "id": "512",
+    "year": 2022,
+    "sname": "SHYAMSUNDAR DE",
+    "univ_roll": "16900318044",
+    "stream": "ECE",
+    "company": "MINDTECK"
+  },
+  {
+    "id": "513",
+    "year": 2022,
+    "sname": "SOUMENDRA CHAKRABORTY",
+    "univ_roll": "16900318037",
+    "stream": "ECE",
+    "company": "MINDTECK"
+  },
+  {
+    "id": "514",
+    "year": 2022,
+    "sname": "SUBHADEEP DEY",
+    "univ_roll": "16900318031",
+    "stream": "ECE",
+    "company": "MINDTECK"
+  },
+  {
+    "id": "515",
+    "year": 2022,
+    "sname": "SOUVIK GHOSH",
+    "univ_roll": "16900218019",
+    "stream": "IT",
+    "company": "MINDTECK"
+  },
+  {
+    "id": "516",
+    "year": 2022,
+    "sname": "NAYNA GUHA",
+    "univ_roll": "16900119007",
+    "stream": "CSE",
+    "company": "MINDTREE"
+  },
+  {
+    "id": "517",
+    "year": 2022,
+    "sname": "DEBJIT PURKAITE",
+    "univ_roll": "16900318110",
+    "stream": "ECE",
+    "company": "MINDTREE"
+  },
+  {
+    "id": "518",
+    "year": 2022,
+    "sname": "SHYAMSUNDAR DE",
+    "univ_roll": "16900318044",
+    "stream": "ECE",
+    "company": "MINDTREE"
+  },
+  {
+    "id": "519",
+    "year": 2022,
+    "sname": "SOHAN SARKAR",
+    "univ_roll": "16900318042",
+    "stream": "ECE",
+    "company": "MINDTREE"
+  },
+  {
+    "id": "520",
+    "year": 2022,
+    "sname": "ARKAPRAVO RAY",
+    "univ_roll": "16901618134",
+    "stream": "EE",
+    "company": "MINDTREE"
+  },
+  {
+    "id": "521",
+    "year": 2022,
+    "sname": "PRINCE KUMAR",
+    "univ_roll": "16900118088",
+    "stream": "CSE",
+    "company": "MINDTREE"
+  },
+  {
+    "id": "522",
+    "year": 2022,
+    "sname": "PRASHANT JHA",
+    "univ_roll": "16900118089",
+    "stream": "CSE",
+    "company": "MINDTREE"
+  },
+  {
+    "id": "523",
+    "year": 2022,
+    "sname": "SOHINI BHATTACHARYA",
+    "univ_roll": "16901618059",
+    "stream": "EE",
+    "company": "MINDTREE"
+  },
+  {
+    "id": "524",
+    "year": 2022,
+    "sname": "NILOY KUMAR DEY",
+    "univ_roll": "16900318080",
+    "stream": "ECE",
+    "company": "MINDTREE"
+  },
+  {
+    "id": "525",
+    "year": 2022,
+    "sname": "ANUBHAB BISWAS",
+    "univ_roll": "16901618141",
+    "stream": "EE",
+    "company": "MINDTREE"
+  },
+  {
+    "id": "526",
+    "year": 2022,
+    "sname": "GOVIND KUMAR CHOUDHARY",
+    "univ_roll": "16900218045",
+    "stream": "IT",
+    "company": "MINDTREE"
+  },
+  {
+    "id": "527",
+    "year": 2022,
+    "sname": "NAYNA GUHA",
+    "univ_roll": "16900119007",
+    "stream": "CSE",
+    "company": "NIHILENT"
+  },
+  {
+    "id": "528",
+    "year": 2022,
+    "sname": "SHARMILI PAKIRA",
+    "univ_roll": "16900319001",
+    "stream": "ECE",
+    "company": "NIHILENT"
+  },
+  {
+    "id": "529",
+    "year": 2022,
+    "sname": "RITISHA SRIVASTAVA",
+    "univ_roll": "16900219055",
+    "stream": "IT",
+    "company": "NIHILENT"
+  },
+  {
+    "id": "530",
+    "year": 2022,
+    "sname": "SWAGATO PATRA",
+    "univ_roll": "16900218014",
+    "stream": "IT",
+    "company": "NIHILENT"
+  },
+  {
+    "id": "531",
+    "year": 2022,
+    "sname": "ARUMITA MITRA",
+    "univ_roll": "16901019011",
+    "stream": "MCA",
+    "company": "NIHILENT"
+  },
+  {
+    "id": "532",
+    "year": 2022,
+    "sname": "ABHISHEK MAZUMDER",
+    "univ_roll": "16905518059",
+    "stream": "AEIE",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "533",
+    "year": 2022,
+    "sname": "ANGANA MUKHERJEE",
+    "univ_roll": "16905518055",
+    "stream": "AEIE",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "534",
+    "year": 2022,
+    "sname": "ANIKET KUMAR",
+    "univ_roll": "16905518054",
+    "stream": "AEIE",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "535",
+    "year": 2022,
+    "sname": "ANUSREE MUKHERJEE",
+    "univ_roll": "16905518050",
+    "stream": "AEIE",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "536",
+    "year": 2022,
+    "sname": "PIAL ROY",
+    "univ_roll": "16905518018",
+    "stream": "AEIE",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "537",
+    "year": 2022,
+    "sname": "PRIYANSHU BANDYOPADHYAY",
+    "univ_roll": "16905518014",
+    "stream": "AEIE",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "538",
+    "year": 2022,
+    "sname": "SNEHASISH MALIK",
+    "univ_roll": "16905518011",
+    "stream": "AEIE",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "539",
+    "year": 2022,
+    "sname": "SOUMALYA SEN",
+    "univ_roll": "16905518010",
+    "stream": "AEIE",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "540",
+    "year": 2022,
+    "sname": "AASHIS KUMAR GUPTA",
+    "univ_roll": "16900118148",
+    "stream": "CSE",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "541",
+    "year": 2022,
+    "sname": "ABHISHEK MISHRA",
+    "univ_roll": "16900118145",
+    "stream": "CSE",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "542",
+    "year": 2022,
+    "sname": "ADITYA KUMAR SINGH",
+    "univ_roll": "16900118143",
+    "stream": "CSE",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "543",
+    "year": 2022,
+    "sname": "ADITYA VERMA",
+    "univ_roll": "16900118142",
+    "stream": "CSE",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "544",
+    "year": 2022,
+    "sname": "AISHIK GHOSH",
+    "univ_roll": "16900118140",
+    "stream": "CSE",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "545",
+    "year": 2022,
+    "sname": "AKASH BHARGAV",
+    "univ_roll": "16900118139",
+    "stream": "CSE",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "546",
+    "year": 2022,
+    "sname": "ANKITA MAITRA",
+    "univ_roll": "16900118130",
+    "stream": "CSE",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "547",
+    "year": 2022,
+    "sname": "ARIK RAKSHIT",
+    "univ_roll": "16900118126",
+    "stream": "CSE",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "548",
+    "year": 2022,
+    "sname": "ASHUTOSH KUMAR",
+    "univ_roll": "16900118123",
+    "stream": "CSE",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "549",
+    "year": 2022,
+    "sname": "AYAN CHATTOPADHYAY",
+    "univ_roll": "16900118121",
+    "stream": "CSE",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "550",
+    "year": 2022,
+    "sname": "AYAN ROY",
+    "univ_roll": "16900118120",
+    "stream": "CSE",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "551",
+    "year": 2022,
+    "sname": "AYANTIKA DATTA",
+    "univ_roll": "16900118119",
+    "stream": "CSE",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "552",
+    "year": 2022,
+    "sname": "AYUSH DHAR",
+    "univ_roll": "16900118118",
+    "stream": "CSE",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "553",
+    "year": 2022,
+    "sname": "AYUSH PANDEY",
+    "univ_roll": "1690011817",
+    "stream": "CSE",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "554",
+    "year": 2022,
+    "sname": "BIJAYA SHALINI",
+    "univ_roll": "16900118116",
+    "stream": "CSE",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "555",
+    "year": 2022,
+    "sname": "CHANDRACHUR CHATTERJEE",
+    "univ_roll": "16900118115",
+    "stream": "CSE",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "556",
+    "year": 2022,
+    "sname": "DEBDUT GOSWAMI",
+    "univ_roll": "16900118114",
+    "stream": "CSE",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "557",
+    "year": 2022,
+    "sname": "DEBOJITA DEY",
+    "univ_roll": "16900118113",
+    "stream": "CSE",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "558",
+    "year": 2022,
+    "sname": "DEEPIKA SINGH",
+    "univ_roll": "16900118111",
+    "stream": "CSE",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "559",
+    "year": 2022,
+    "sname": "DILIP BASAK",
+    "univ_roll": "16900118110",
+    "stream": "CSE",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "560",
+    "year": 2022,
+    "sname": "DIPTADIP DEY",
+    "univ_roll": "16900118109",
+    "stream": "CSE",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "561",
+    "year": 2022,
+    "sname": "GOURAV SARKAR",
+    "univ_roll": "16900118108",
+    "stream": "CSE",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "562",
+    "year": 2022,
+    "sname": "HIMANSHU GUPTA",
+    "univ_roll": "16900118107",
+    "stream": "CSE",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "563",
+    "year": 2022,
+    "sname": "JATIN SINGHI",
+    "univ_roll": "16900118106",
+    "stream": "CSE",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "564",
+    "year": 2022,
+    "sname": "KUMARI NISHITA",
+    "univ_roll": "16900118102",
+    "stream": "CSE",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "565",
+    "year": 2022,
+    "sname": "MD ABRAR HUSSAIN",
+    "univ_roll": "16900118100",
+    "stream": "CSE",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "566",
+    "year": 2022,
+    "sname": "MOHANA CHAKRABORTY",
+    "univ_roll": "16900118098",
+    "stream": "CSE",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "567",
+    "year": 2022,
+    "sname": "NIVEDITA SINGH",
+    "univ_roll": "16900118094",
+    "stream": "CSE",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "568",
+    "year": 2022,
+    "sname": "PALASH KUNDU",
+    "univ_roll": "16900718089",
+    "stream": "CSE",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "569",
+    "year": 2022,
+    "sname": "PARAJ BHATTACHARJEE",
+    "univ_roll": "16900118093",
+    "stream": "CSE",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "570",
+    "year": 2022,
+    "sname": "POULAMI GHOSH",
+    "univ_roll": "16900118091",
+    "stream": "CSE",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "571",
+    "year": 2022,
+    "sname": "PRABOR MUKHERJEE",
+    "univ_roll": "16900118090",
+    "stream": "CSE",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "572",
+    "year": 2022,
+    "sname": "PRITHWISH SAMANTA",
+    "univ_roll": "16900118086",
+    "stream": "CSE",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "573",
+    "year": 2022,
+    "sname": "PRIYANKA INDRA",
+    "univ_roll": "16900118084",
+    "stream": "CSE",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "574",
+    "year": 2022,
+    "sname": "RAMA SEN",
+    "univ_roll": "16900119010",
+    "stream": "CSE",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "575",
+    "year": 2022,
+    "sname": "SAYAN KUNDU",
+    "univ_roll": "16900118067",
+    "stream": "CSE",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "576",
+    "year": 2022,
+    "sname": "SHIVAM KUMAR",
+    "univ_roll": "16900118062",
+    "stream": "CSE",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "577",
+    "year": 2022,
+    "sname": "SHREYA BHATTACHARYYA",
+    "univ_roll": "16900118060",
+    "stream": "CSE",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "578",
+    "year": 2022,
+    "sname": "SHREYA RAI",
+    "univ_roll": "16900118059",
+    "stream": "CSE",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "579",
+    "year": 2022,
+    "sname": "SK ANIRUDDHA HOSSEN",
+    "univ_roll": "16900118054",
+    "stream": "CSE",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "580",
+    "year": 2022,
+    "sname": "SOUMYADIP GHOSH",
+    "univ_roll": "16900118051",
+    "stream": "CSE",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "581",
+    "year": 2022,
+    "sname": "SOUMYADIP PAL",
+    "univ_roll": "16900118050",
+    "stream": "CSE",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "582",
+    "year": 2022,
+    "sname": "SOURISH KUMAR JANA",
+    "univ_roll": "16900118047",
+    "stream": "CSE",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "583",
+    "year": 2022,
+    "sname": "SUBHADIP GHOSH",
+    "univ_roll": "16900118046",
+    "stream": "CSE",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "584",
+    "year": 2022,
+    "sname": "SUBHAJIT KAR",
+    "univ_roll": "16900118044",
+    "stream": "CSE",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "585",
+    "year": 2022,
+    "sname": "SUBHAM SINGH",
+    "univ_roll": "16900118043",
+    "stream": "CSE",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "586",
+    "year": 2022,
+    "sname": "SUDIP PAL",
+    "univ_roll": "16900118042",
+    "stream": "CSE",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "587",
+    "year": 2022,
+    "sname": "SWARNAVA SINHA",
+    "univ_roll": "16900118039",
+    "stream": "CSE",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "588",
+    "year": 2022,
+    "sname": "SWETA MISHRA",
+    "univ_roll": "16900118038",
+    "stream": "CSE",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "589",
+    "year": 2022,
+    "sname": "SWETA PATRA",
+    "univ_roll": "16900118037",
+    "stream": "CSE",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "590",
+    "year": 2022,
+    "sname": "TANISHA SINHA",
+    "univ_roll": "16900118035",
+    "stream": "CSE",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "591",
+    "year": 2022,
+    "sname": "TRINANJAN NANDI",
+    "univ_roll": "16900118033",
+    "stream": "CSE",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "592",
+    "year": 2022,
+    "sname": "TRIPARNA GANGULY",
+    "univ_roll": "16900118032",
+    "stream": "CSE",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "593",
+    "year": 2022,
+    "sname": "TRISHA CHATTERJEE",
+    "univ_roll": "16900118031",
+    "stream": "CSE",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "594",
+    "year": 2022,
+    "sname": "TUHIN BANERJEE",
+    "univ_roll": "16900118030",
+    "stream": "CSE",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "595",
+    "year": 2022,
+    "sname": "VIVEK AGARWALLA",
+    "univ_roll": "16900118026",
+    "stream": "CSE",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "596",
+    "year": 2022,
+    "sname": "ABHIDIPTA DATTA",
+    "univ_roll": "16905518061",
+    "stream": "ECE",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "597",
+    "year": 2022,
+    "sname": "ABHISEK DAS",
+    "univ_roll": "16901618147",
+    "stream": "ECE",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "598",
+    "year": 2022,
+    "sname": "ABHISEK SHARMA",
+    "univ_roll": "16900318139",
+    "stream": "ECE",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "599",
+    "year": 2022,
+    "sname": "ADRISH LAHIRI",
+    "univ_roll": "16900318137",
+    "stream": "ECE",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "600",
+    "year": 2022,
+    "sname": "ANIK ROY",
+    "univ_roll": "16900318134",
+    "stream": "ECE",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "601",
+    "year": 2022,
+    "sname": "ANJALI SHAW",
+    "univ_roll": "16900318129",
+    "stream": "ECE",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "602",
+    "year": 2022,
+    "sname": "ANKUSH FARMANIA",
+    "univ_roll": "16900318125",
+    "stream": "ECE",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "603",
+    "year": 2022,
+    "sname": "ANURUPA GHOSH",
+    "univ_roll": "16900318123",
+    "stream": "ECE",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "604",
+    "year": 2022,
+    "sname": "ARCHIT GUPTA",
+    "univ_roll": "16900318122",
+    "stream": "ECE",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "605",
+    "year": 2022,
+    "sname": "ARNAB PAUL",
+    "univ_roll": "16900318121",
+    "stream": "ECE",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "606",
+    "year": 2022,
+    "sname": "ARNITA DUTTA",
+    "univ_roll": "16900318120",
+    "stream": "ECE",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "607",
+    "year": 2022,
+    "sname": "ARYADEEP SADHUKHAN",
+    "univ_roll": "16900318119",
+    "stream": "ECE",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "608",
+    "year": 2022,
+    "sname": "BISHAL HALDER",
+    "univ_roll": "16900318116",
+    "stream": "ECE",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "609",
+    "year": 2022,
+    "sname": "DEBARGHA CHOUDHURI",
+    "univ_roll": "16900318114",
+    "stream": "ECE",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "610",
+    "year": 2022,
+    "sname": "DEBASMITA SEAL",
+    "univ_roll": "16901618117",
+    "stream": "ECE",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "611",
+    "year": 2022,
+    "sname": "DEBMALYA DUTTA",
+    "univ_roll": "16900318109",
+    "stream": "ECE",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "612",
+    "year": 2022,
+    "sname": "DEEPSHIKHA DAS",
+    "univ_roll": "16900318106",
+    "stream": "ECE",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "613",
+    "year": 2022,
+    "sname": "DIPESH PAL",
+    "univ_roll": "16900318104",
+    "stream": "ECE",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "614",
+    "year": 2022,
+    "sname": "KINSHUK KUMAR DUBEY",
+    "univ_roll": "16900318091",
+    "stream": "ECE",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "615",
+    "year": 2022,
+    "sname": "KUSHOLI RAHA",
+    "univ_roll": "16900318089",
+    "stream": "ECE",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "616",
+    "year": 2022,
+    "sname": "KUSOL BANERJI",
+    "univ_roll": "16900318088",
+    "stream": "ECE",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "617",
+    "year": 2022,
+    "sname": "LOKESWAR RAO",
+    "univ_roll": "16900318087",
+    "stream": "ECE",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "618",
+    "year": 2022,
+    "sname": "NEHA TIWARI",
+    "univ_roll": "16900318081",
+    "stream": "ECE",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "619",
+    "year": 2022,
+    "sname": "PIJUSH BASAK",
+    "univ_roll": "16900318078",
+    "stream": "ECE",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "620",
+    "year": 2022,
+    "sname": "PIYUSH SHARMA",
+    "univ_roll": "16900318076",
+    "stream": "ECE",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "621",
+    "year": 2022,
+    "sname": "PROTYUSHA BISWAS",
+    "univ_roll": "16900318071",
+    "stream": "ECE",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "622",
+    "year": 2022,
+    "sname": "PURBAYAN SARKAR",
+    "univ_roll": "16900318070",
+    "stream": "ECE",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "623",
+    "year": 2022,
+    "sname": "RAJDEEP BASAK",
+    "univ_roll": "16900318068",
+    "stream": "ECE",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "624",
+    "year": 2022,
+    "sname": "RAJESH PANDIT",
+    "univ_roll": "16900318067",
+    "stream": "ECE",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "625",
+    "year": 2022,
+    "sname": "RAKTIMA KARMAKAR",
+    "univ_roll": "16900318066",
+    "stream": "ECE",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "626",
+    "year": 2022,
+    "sname": "RISHAB SINHA",
+    "univ_roll": "16900318064",
+    "stream": "ECE",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "627",
+    "year": 2022,
+    "sname": "SAGNIK GANGULY",
+    "univ_roll": "16900318061",
+    "stream": "ECE",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "628",
+    "year": 2022,
+    "sname": "SAIBAL MAITI",
+    "univ_roll": "16900318060",
+    "stream": "ECE",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "629",
+    "year": 2022,
+    "sname": "SAIF ALI",
+    "univ_roll": "16900318059",
+    "stream": "ECE",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "630",
+    "year": 2022,
+    "sname": "SARTHAK CHAKRABORTY",
+    "univ_roll": "16900318055",
+    "stream": "ECE",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "631",
+    "year": 2022,
+    "sname": "SAYAN MAJHI",
+    "univ_roll": "16900318054",
+    "stream": "ECE",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "632",
+    "year": 2022,
+    "sname": "SAYAN NANDY",
+    "univ_roll": "16900318053",
+    "stream": "ECE",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "633",
+    "year": 2022,
+    "sname": "SENJUTI HALDER",
+    "univ_roll": "16900318051",
+    "stream": "ECE",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "634",
+    "year": 2022,
+    "sname": "SHUVOTTAM SARKAR",
+    "univ_roll": "16900318046",
+    "stream": "ECE",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "635",
+    "year": 2022,
+    "sname": "SHYAM SUNDAR GHOSH",
+    "univ_roll": "16900318045",
+    "stream": "ECE",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "636",
+    "year": 2022,
+    "sname": "SNEHENDU BISWAS",
+    "univ_roll": "16900318043",
+    "stream": "ECE",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "637",
+    "year": 2022,
+    "sname": "SOHAN SARKAR",
+    "univ_roll": "16900318042",
+    "stream": "ECE",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "638",
+    "year": 2022,
+    "sname": "SOUPARNA CHOWDHURY",
+    "univ_roll": "16900318034",
+    "stream": "ECE",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "639",
+    "year": 2022,
+    "sname": "SRINJIT BHATTACHARYYA",
+    "univ_roll": "16900318032",
+    "stream": "ECE",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "640",
+    "year": 2022,
+    "sname": "SUBHAM SARKAR",
+    "univ_roll": "16900318029",
+    "stream": "ECE",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "641",
+    "year": 2022,
+    "sname": "TANOY SAHA",
+    "univ_roll": "16900318024",
+    "stream": "ECE",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "642",
+    "year": 2022,
+    "sname": "TATHAGATA NANDI",
+    "univ_roll": "16900318023",
+    "stream": "ECE",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "643",
+    "year": 2022,
+    "sname": "TIASA DAS",
+    "univ_roll": "16900318022",
+    "stream": "ECE",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "644",
+    "year": 2022,
+    "sname": "AISHIK DEWANJI",
+    "univ_roll": "16901618144",
+    "stream": "EE",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "645",
+    "year": 2022,
+    "sname": "ANIMESH MITRA",
+    "univ_roll": "16901618143",
+    "stream": "EE",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "646",
+    "year": 2022,
+    "sname": "ANUPAM SAMUI",
+    "univ_roll": "16901618140",
+    "stream": "EE",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "647",
+    "year": 2022,
+    "sname": "ARGHYA CHATTAPADHYAY",
+    "univ_roll": "16901618137",
+    "stream": "EE",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "648",
+    "year": 2022,
+    "sname": "ARINDAM SAHA",
+    "univ_roll": "16901618136",
+    "stream": "EE",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "649",
+    "year": 2022,
+    "sname": "ARITRA KHAN",
+    "univ_roll": "16901618135",
+    "stream": "EE",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "650",
+    "year": 2022,
+    "sname": "ARNAB DAS",
+    "univ_roll": "16901618133",
+    "stream": "EE",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "651",
+    "year": 2022,
+    "sname": "JOYDEEP RANA",
+    "univ_roll": "16901618106",
+    "stream": "EE",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "652",
+    "year": 2022,
+    "sname": "NAYAN MAHATA",
+    "univ_roll": "16901618098",
+    "stream": "EE",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "653",
+    "year": 2022,
+    "sname": "PANKAJ KUMAR ROY",
+    "univ_roll": "16901618095",
+    "stream": "EE",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "654",
+    "year": 2022,
+    "sname": "PRITAM KARMAKAR",
+    "univ_roll": "16901618090",
+    "stream": "EE",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "655",
+    "year": 2022,
+    "sname": "RIMPA MUKHERJEE",
+    "univ_roll": "16901618083",
+    "stream": "EE",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "656",
+    "year": 2022,
+    "sname": "SANKHA SUBHRA MONDAL",
+    "univ_roll": "16901618073",
+    "stream": "EE",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "657",
+    "year": 2022,
+    "sname": "SATYAKI MANDAL",
+    "univ_roll": "16901618071",
+    "stream": "EE",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "658",
+    "year": 2022,
+    "sname": "SAYAN CHAKRABORTY",
+    "univ_roll": "16901618070",
+    "stream": "EE",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "659",
+    "year": 2022,
+    "sname": "SHANTANU DAS",
+    "univ_roll": "16901618066",
+    "stream": "EE",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "660",
+    "year": 2022,
+    "sname": "SOHINI BANDYOPADHYAY",
+    "univ_roll": "16901618060",
+    "stream": "EE",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "661",
+    "year": 2022,
+    "sname": "SUTANU DAS",
+    "univ_roll": "16901618036",
+    "stream": "EE",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "662",
+    "year": 2022,
+    "sname": "SWAGNIK CHAKRABORTY",
+    "univ_roll": "16901618033",
+    "stream": "EE",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "663",
+    "year": 2022,
+    "sname": "TAPABRATA PAL",
+    "univ_roll": "16901618029",
+    "stream": "EE",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "664",
+    "year": 2022,
+    "sname": "ANIRUDDHA NAYEK",
+    "univ_roll": "16900218061",
+    "stream": "IT",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "665",
+    "year": 2022,
+    "sname": "ARIJIT CHANDRA",
+    "univ_roll": "16900218059",
+    "stream": "IT",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "666",
+    "year": 2022,
+    "sname": "ASHUTOSH UPADHYAY",
+    "univ_roll": "16900218057",
+    "stream": "IT",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "667",
+    "year": 2022,
+    "sname": "AVISHAKE MAJI",
+    "univ_roll": "16900218054",
+    "stream": "IT",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "668",
+    "year": 2022,
+    "sname": "CHINMOYEE DASH",
+    "univ_roll": "16900218050",
+    "stream": "IT",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "669",
+    "year": 2022,
+    "sname": "DEBJIT CHATTERJEE",
+    "univ_roll": "16900218049",
+    "stream": "IT",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "670",
+    "year": 2022,
+    "sname": "MONIKA",
+    "univ_roll": "16900218039",
+    "stream": "IT",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "671",
+    "year": 2022,
+    "sname": "NISHA SHAW",
+    "univ_roll": "16900218037",
+    "stream": "IT",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "672",
+    "year": 2022,
+    "sname": "PALLAV PUSHPARAJ",
+    "univ_roll": "16900218036",
+    "stream": "IT",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "673",
+    "year": 2022,
+    "sname": "PRABHA SINGH",
+    "univ_roll": "16900218035",
+    "stream": "IT",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "674",
+    "year": 2022,
+    "sname": "PRONAY GUHA",
+    "univ_roll": "16900218033",
+    "stream": "IT",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "675",
+    "year": 2022,
+    "sname": "RAIHAN RAZA",
+    "univ_roll": "16900218029",
+    "stream": "IT",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "676",
+    "year": 2022,
+    "sname": "RAJDEEP GANGULY",
+    "univ_roll": "16900218028",
+    "stream": "IT",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "677",
+    "year": 2022,
+    "sname": "RAJEEV KUMAR",
+    "univ_roll": "16900218027",
+    "stream": "IT",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "678",
+    "year": 2022,
+    "sname": "RAJEEV KUMAR",
+    "univ_roll": "16900218027",
+    "stream": "IT",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "679",
+    "year": 2022,
+    "sname": "SAGUN JAISWAL",
+    "univ_roll": "16900218023",
+    "stream": "IT",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "680",
+    "year": 2022,
+    "sname": "SANKALP",
+    "univ_roll": "16900218022",
+    "stream": "IT",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "681",
+    "year": 2022,
+    "sname": "SUBHADIP CHOWDHURY",
+    "univ_roll": "16900218018",
+    "stream": "IT",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "682",
+    "year": 2022,
+    "sname": "SUDHANSHU KUMAR BHAGAT",
+    "univ_roll": "16900218015",
+    "stream": "IT",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "683",
+    "year": 2022,
+    "sname": "SWANMOY NAG",
+    "univ_roll": "16900218013",
+    "stream": "IT",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "684",
+    "year": 2022,
+    "sname": "SWAPNANIL DUTTA",
+    "univ_roll": "16900218012",
+    "stream": "IT",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "685",
+    "year": 2022,
+    "sname": "SWARNASEKHAR DUTTA",
+    "univ_roll": "16900218011",
+    "stream": "IT",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "686",
+    "year": 2022,
+    "sname": "TANIYA CHANDA",
+    "univ_roll": "16900218010",
+    "stream": "IT",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "687",
+    "year": 2022,
+    "sname": "VIKASH SHAW",
+    "univ_roll": "16900218009",
+    "stream": "IT",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "688",
+    "year": 2022,
+    "sname": "VISHAL MUNDHRA",
+    "univ_roll": "16900218008",
+    "stream": "IT",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "689",
+    "year": 2022,
+    "sname": "VISHAL SINGH",
+    "univ_roll": "16900218007",
+    "stream": "IT",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "690",
+    "year": 2022,
+    "sname": "YASHRAJ RATAWA",
+    "univ_roll": "16900218006",
+    "stream": "IT",
+    "company": "PERSISTENT SYSTEMS"
+  },
+  {
+    "id": "691",
+    "year": 2022,
+    "sname": "PREETAM HALDER",
+    "univ_roll": "16900718085",
+    "stream": "ME",
+    "company": "QUALICOM SOLUTIONS"
+  },
+  {
+    "id": "692",
+    "year": 2022,
+    "sname": "KUMAR ATHARV",
+    "univ_roll": "16905518029",
+    "stream": "AEIE",
+    "company": "QUALTECH CONSULTANTS"
+  },
+  {
+    "id": "693",
+    "year": 2022,
+    "sname": "SULAGNA PAL",
+    "univ_roll": "16905518004",
+    "stream": "AEIE",
+    "company": "QUALTECH CONSULTANTS"
+  },
+  {
+    "id": "694",
+    "year": 2022,
+    "sname": "NAYNA GUHA",
+    "univ_roll": "16900119007",
+    "stream": "CSE",
+    "company": "QUALTECH CONSULTANTS"
+  },
+  {
+    "id": "695",
+    "year": 2022,
+    "sname": "SANDEEP KUMAR",
+    "univ_roll": "16900118074",
+    "stream": "CSE",
+    "company": "QUALTECH CONSULTANTS"
+  },
+  {
+    "id": "696",
+    "year": 2022,
+    "sname": "SHARMILI PAKIRA",
+    "univ_roll": "16900319001",
+    "stream": "ECE",
+    "company": "QUALTECH CONSULTANTS"
+  },
+  {
+    "id": "697",
+    "year": 2022,
+    "sname": "TIRTHENDU CHAKRABORTY",
+    "univ_roll": "16901618028",
+    "stream": "EE",
+    "company": "QUALTECH CONSULTANTS"
+  },
+  {
+    "id": "698",
+    "year": 2022,
+    "sname": "K PUSHPAK",
+    "univ_roll": "16900718102",
+    "stream": "ME",
+    "company": "QUALTECH CONSULTANTS"
+  },
+  {
+    "id": "699",
+    "year": 2022,
+    "sname": "KUNTAL CHAKRABORTY",
+    "univ_roll": "16900718098",
+    "stream": "ME",
+    "company": "QUALTECH CONSULTANTS"
+  },
+  {
+    "id": "700",
+    "year": 2022,
+    "sname": "MANOJ MAHAPATRA",
+    "univ_roll": "16900718094",
+    "stream": "ME",
+    "company": "QUALTECH CONSULTANTS"
+  },
+  {
+    "id": "701",
+    "year": 2022,
+    "sname": "TANMOY JANA",
+    "univ_roll": "16900718032",
+    "stream": "ME",
+    "company": "QUALTECH CONSULTANTS"
+  },
+  {
+    "id": "702",
+    "year": 2022,
+    "sname": "TIRTHENDU CHAKRABORTY",
+    "univ_roll": "16901618028",
+    "stream": "EE",
+    "company": "REVATURE"
+  },
+  {
+    "id": "703",
+    "year": 2022,
+    "sname": "ARUMITA MITRA",
+    "univ_roll": "16901019011",
+    "stream": "MCA",
+    "company": "SEARS HOLDINGS INDIA."
+  },
+  {
+    "id": "704",
+    "year": 2022,
+    "sname": "RAKESH MONDAL",
+    "univ_roll": "16901019004",
+    "stream": "MCA",
+    "company": "SEARS HOLDINGS INDIA."
+  },
+  {
+    "id": "705",
+    "year": 2022,
+    "sname": "GOVIND KUMAR CHOUDHARY",
+    "univ_roll": "16900218045",
+    "stream": "IT",
+    "company": "SOPRA STERIA "
+  },
+  {
+    "id": "706",
+    "year": 2022,
+    "sname": "ANIRBAN PAUL",
+    "univ_roll": "16900318132",
+    "stream": "ECE",
+    "company": "STERLITE TECHNOLOGIES"
+  },
+  {
+    "id": "707",
+    "year": 2022,
+    "sname": "SOUMYAJIT GHOSH",
+    "univ_roll": "16900118048",
+    "stream": "CSE",
+    "company": "STERLITE TECHNOLOGIES"
+  },
+  {
+    "id": "708",
+    "year": 2022,
+    "sname": "SAUMOJIT GOSWAMI",
+    "univ_roll": "16900317071",
+    "stream": "ECE",
+    "company": "STERLITE TECHNOLOGIES"
+  },
+  {
+    "id": "709",
+    "year": 2022,
+    "sname": "SOUVIK MUKHERJEE",
+    "univ_roll": "16901618049",
+    "stream": "EE",
+    "company": "TATA POWER"
+  },
+  {
+    "id": "710",
+    "year": 2022,
+    "sname": "SOURAV BIT",
+    "univ_roll": "16901618052",
+    "stream": "EE",
+    "company": "TCG DIGITAL"
+  },
+  {
+    "id": "711",
+    "year": 2022,
+    "sname": "YUVRAJ KUMAR SRIVASTAVA",
+    "univ_roll": "16901618024",
+    "stream": "EE",
+    "company": "TCG DIGITAL"
+  },
+  {
+    "id": "712",
+    "year": 2022,
+    "sname": "SAYAN HAZRA",
+    "univ_roll": "16900718065",
+    "stream": "ME",
+    "company": "TCG DIGITAL"
+  },
+  {
+    "id": "713",
+    "year": 2022,
+    "sname": "ABHIT SINGH",
+    "univ_roll": "16905518058",
+    "stream": "AEIE",
+    "company": "TCS"
+  },
+  {
+    "id": "714",
+    "year": 2022,
+    "sname": "AHANA DAS",
+    "univ_roll": "16905518057",
+    "stream": "AEIE",
+    "company": "TCS"
+  },
+  {
+    "id": "715",
+    "year": 2022,
+    "sname": "HIRAK DAS",
+    "univ_roll": "16905518036",
+    "stream": "AEIE",
+    "company": "TCS"
+  },
+  {
+    "id": "716",
+    "year": 2022,
+    "sname": "JAYA BHARTI",
+    "univ_roll": "16905518033",
+    "stream": "AEIE",
+    "company": "TCS"
+  },
+  {
+    "id": "717",
+    "year": 2022,
+    "sname": "JEET KUMAR PAL",
+    "univ_roll": "16905518032",
+    "stream": "AEIE",
+    "company": "TCS"
+  },
+  {
+    "id": "718",
+    "year": 2022,
+    "sname": "NEHA KUMARI",
+    "univ_roll": "16905518023",
+    "stream": "AEIE",
+    "company": "TCS"
+  },
+  {
+    "id": "719",
+    "year": 2022,
+    "sname": "PIAL ROY",
+    "univ_roll": "16905518018",
+    "stream": "AEIE",
+    "company": "TCS"
+  },
+  {
+    "id": "720",
+    "year": 2022,
+    "sname": "SUBHRAJYOTI SEN GUPTA",
+    "univ_roll": "16905518005",
+    "stream": "AEIE",
+    "company": "TCS"
+  },
+  {
+    "id": "721",
+    "year": 2022,
+    "sname": "TAMALIKA KARFA",
+    "univ_roll": "16905518003",
+    "stream": "AEIE",
+    "company": "TCS"
+  },
+  {
+    "id": "722",
+    "year": 2022,
+    "sname": "UTSHA DASGUPTA",
+    "univ_roll": "16905518002",
+    "stream": "AEIE",
+    "company": "TCS"
+  },
+  {
+    "id": "723",
+    "year": 2022,
+    "sname": "ABHISHEK KUMAR",
+    "univ_roll": "16900118146",
+    "stream": "CSE",
+    "company": "TCS"
+  },
+  {
+    "id": "724",
+    "year": 2022,
+    "sname": "ADITYA VERMA",
+    "univ_roll": "16900118142",
+    "stream": "CSE",
+    "company": "TCS"
+  },
+  {
+    "id": "725",
+    "year": 2022,
+    "sname": "ANIKET MITRA",
+    "univ_roll": "16900118133",
+    "stream": "CSE",
+    "company": "TCS"
+  },
+  {
+    "id": "726",
+    "year": 2022,
+    "sname": "ANKITA MAITRA",
+    "univ_roll": "16900118130",
+    "stream": "CSE",
+    "company": "TCS"
+  },
+  {
+    "id": "727",
+    "year": 2022,
+    "sname": "AYANTIKA DATTA",
+    "univ_roll": "16900118119",
+    "stream": "CSE",
+    "company": "TCS"
+  },
+  {
+    "id": "728",
+    "year": 2022,
+    "sname": "KRISHNENDU KUNDU",
+    "univ_roll": "16900118103",
+    "stream": "CSE",
+    "company": "TCS"
+  },
+  {
+    "id": "729",
+    "year": 2022,
+    "sname": "MD MOZAMMIL HUSSAIN",
+    "univ_roll": "16900118099",
+    "stream": "CSE",
+    "company": "TCS"
+  },
+  {
+    "id": "730",
+    "year": 2022,
+    "sname": "NIVEDITA SINGH",
+    "univ_roll": "16900118094",
+    "stream": "CSE",
+    "company": "TCS"
+  },
+  {
+    "id": "731",
+    "year": 2022,
+    "sname": "PALASH KUNDU",
+    "univ_roll": "16900718089",
+    "stream": "CSE",
+    "company": "TCS"
+  },
+  {
+    "id": "732",
+    "year": 2022,
+    "sname": "POULAMI GHOSH",
+    "univ_roll": "16900118091",
+    "stream": "CSE",
+    "company": "TCS"
+  },
+  {
+    "id": "733",
+    "year": 2022,
+    "sname": "PRIYANK DEY",
+    "univ_roll": "16900118085",
+    "stream": "CSE",
+    "company": "TCS"
+  },
+  {
+    "id": "734",
+    "year": 2022,
+    "sname": "PRIYANKA INDRA",
+    "univ_roll": "16900118084",
+    "stream": "CSE",
+    "company": "TCS"
+  },
+  {
+    "id": "735",
+    "year": 2022,
+    "sname": "RAHUL KUMAR GUPTA",
+    "univ_roll": "16900118083",
+    "stream": "CSE",
+    "company": "TCS"
+  },
+  {
+    "id": "736",
+    "year": 2022,
+    "sname": "RAJARSHI MITRA",
+    "univ_roll": "16900118081",
+    "stream": "CSE",
+    "company": "TCS"
+  },
+  {
+    "id": "737",
+    "year": 2022,
+    "sname": "RIDDHI CHAKRABORTY",
+    "univ_roll": "16900118080",
+    "stream": "CSE",
+    "company": "TCS"
+  },
+  {
+    "id": "738",
+    "year": 2022,
+    "sname": "RISHIKESH BHARTI",
+    "univ_roll": "16900118079",
+    "stream": "CSE",
+    "company": "TCS"
+  },
+  {
+    "id": "739",
+    "year": 2022,
+    "sname": "SAMADRITA GHOSH",
+    "univ_roll": "16900118075",
+    "stream": "CSE",
+    "company": "TCS"
+  },
+  {
+    "id": "740",
+    "year": 2022,
+    "sname": "SANDIPAN DEY",
+    "univ_roll": "16900118073",
+    "stream": "CSE",
+    "company": "TCS"
+  },
+  {
+    "id": "741",
+    "year": 2022,
+    "sname": "SAYAN KUNDU",
+    "univ_roll": "16900118067",
+    "stream": "CSE",
+    "company": "TCS DIGITAL"
+  },
+  {
+    "id": "742",
+    "year": 2022,
+    "sname": "SOUMYAJIT DAS",
+    "univ_roll": "16900118049",
+    "stream": "CSE",
+    "company": "TCS"
+  },
+  {
+    "id": "743",
+    "year": 2022,
+    "sname": "SUBHADIP GHOSH",
+    "univ_roll": "16900118046",
+    "stream": "CSE",
+    "company": "TCS DIGITAL"
+  },
+  {
+    "id": "744",
+    "year": 2022,
+    "sname": "SUBHAM SINGH",
+    "univ_roll": "16900118043",
+    "stream": "CSE",
+    "company": "TCS DIGITAL"
+  },
+  {
+    "id": "745",
+    "year": 2022,
+    "sname": "SUMEDHA MUKHERJEE",
+    "univ_roll": "16900118040",
+    "stream": "CSE",
+    "company": "TCS"
+  },
+  {
+    "id": "746",
+    "year": 2022,
+    "sname": "TANISHA SINHA",
+    "univ_roll": "16900118035",
+    "stream": "CSE",
+    "company": "TCS"
+  },
+  {
+    "id": "747",
+    "year": 2022,
+    "sname": "TISHANT KUMAR",
+    "univ_roll": "16900118034",
+    "stream": "CSE",
+    "company": "TCS"
+  },
+  {
+    "id": "748",
+    "year": 2022,
+    "sname": "TRIPARNA GANGULY",
+    "univ_roll": "16900118032",
+    "stream": "CSE",
+    "company": "TCS"
+  },
+  {
+    "id": "749",
+    "year": 2022,
+    "sname": "TRISHA CHATTERJEE",
+    "univ_roll": "16900118031",
+    "stream": "CSE",
+    "company": "TCS"
+  },
+  {
+    "id": "750",
+    "year": 2022,
+    "sname": "TUHIN BANERJEE",
+    "univ_roll": "16900118030",
+    "stream": "CSE",
+    "company": "TCS"
+  },
+  {
+    "id": "751",
+    "year": 2022,
+    "sname": "ABHISEK DAS",
+    "univ_roll": "16901618147",
+    "stream": "ECE",
+    "company": "TCS"
+  },
+  {
+    "id": "752",
+    "year": 2022,
+    "sname": "ANISHA MUKHOPADHYAY",
+    "univ_roll": "16900318130",
+    "stream": "ECE",
+    "company": "TCS"
+  },
+  {
+    "id": "753",
+    "year": 2022,
+    "sname": "ANKIT ANAND",
+    "univ_roll": "16900318128",
+    "stream": "ECE",
+    "company": "TCS"
+  },
+  {
+    "id": "754",
+    "year": 2022,
+    "sname": "ANKUR GHOSH",
+    "univ_roll": "16900318126",
+    "stream": "ECE",
+    "company": "TCS"
+  },
+  {
+    "id": "755",
+    "year": 2022,
+    "sname": "ARYADEEP SADHUKHAN",
+    "univ_roll": "16900318119",
+    "stream": "ECE",
+    "company": "TCS"
+  },
+  {
+    "id": "756",
+    "year": 2022,
+    "sname": "AYUSH MUKHOPADHAYAY",
+    "univ_roll": "16900318117",
+    "stream": "ECE",
+    "company": "TCS"
+  },
+  {
+    "id": "757",
+    "year": 2022,
+    "sname": "BISHAL HALDER",
+    "univ_roll": "16900318116",
+    "stream": "ECE",
+    "company": "TCS"
+  },
+  {
+    "id": "758",
+    "year": 2022,
+    "sname": "CHAYAN LASKAR",
+    "univ_roll": "16900318115",
+    "stream": "ECE",
+    "company": "TCS"
+  },
+  {
+    "id": "759",
+    "year": 2022,
+    "sname": "DEBARGHA CHOUDHURI",
+    "univ_roll": "16900318114",
+    "stream": "ECE",
+    "company": "TCS"
+  },
+  {
+    "id": "760",
+    "year": 2022,
+    "sname": "DIPANJAN DAS",
+    "univ_roll": "16900318105",
+    "stream": "ECE",
+    "company": "TCS"
+  },
+  {
+    "id": "761",
+    "year": 2022,
+    "sname": "DIPESH PAL",
+    "univ_roll": "16900318104",
+    "stream": "ECE",
+    "company": "TCS"
+  },
+  {
+    "id": "762",
+    "year": 2022,
+    "sname": "DIPTOPRAVA JANA",
+    "univ_roll": "16901618110",
+    "stream": "ECE",
+    "company": "TCS"
+  },
+  {
+    "id": "763",
+    "year": 2022,
+    "sname": "ELLINA MUKHERJEE",
+    "univ_roll": "16900318102",
+    "stream": "ECE",
+    "company": "TCS"
+  },
+  {
+    "id": "764",
+    "year": 2022,
+    "sname": "KANKANA DAS",
+    "univ_roll": "16900318093",
+    "stream": "ECE",
+    "company": "TCS"
+  },
+  {
+    "id": "765",
+    "year": 2022,
+    "sname": "KARTICK BASAK",
+    "univ_roll": "16900318092",
+    "stream": "ECE",
+    "company": "TCS"
+  },
+  {
+    "id": "766",
+    "year": 2022,
+    "sname": "KINSHUK KUMAR DUBEY",
+    "univ_roll": "16900318091",
+    "stream": "ECE",
+    "company": "TCS DIGITAL"
+  },
+  {
+    "id": "767",
+    "year": 2022,
+    "sname": "LOKESWAR RAO",
+    "univ_roll": "16900318087",
+    "stream": "ECE",
+    "company": "TCS"
+  },
+  {
+    "id": "768",
+    "year": 2022,
+    "sname": "MAINAK PURKAIT",
+    "univ_roll": "16900318086",
+    "stream": "ECE",
+    "company": "TCS"
+  },
+  {
+    "id": "769",
+    "year": 2022,
+    "sname": "REETADEEP DUTTA",
+    "univ_roll": "16900318065",
+    "stream": "ECE",
+    "company": "TCS"
+  },
+  {
+    "id": "770",
+    "year": 2022,
+    "sname": "SAGNIK GANGULY",
+    "univ_roll": "16900318061",
+    "stream": "ECE",
+    "company": "TCS DIGITAL"
+  },
+  {
+    "id": "771",
+    "year": 2022,
+    "sname": "SAYANTAN DAS",
+    "univ_roll": "16900318052",
+    "stream": "ECE",
+    "company": "TCS"
+  },
+  {
+    "id": "772",
+    "year": 2022,
+    "sname": "SOMALI SARKAR",
+    "univ_roll": "16900318040",
+    "stream": "ECE",
+    "company": "TCS"
+  },
+  {
+    "id": "773",
+    "year": 2022,
+    "sname": "SOUMYAJIT DHANG",
+    "univ_roll": "16900318035",
+    "stream": "ECE",
+    "company": "TCS"
+  },
+  {
+    "id": "774",
+    "year": 2022,
+    "sname": "SRINJIT BHATTACHARYYA",
+    "univ_roll": "16900318032",
+    "stream": "ECE",
+    "company": "TCS"
+  },
+  {
+    "id": "775",
+    "year": 2022,
+    "sname": "SUBHAM CHAKRABORTY",
+    "univ_roll": "16900318030",
+    "stream": "ECE",
+    "company": "TCS"
+  },
+  {
+    "id": "776",
+    "year": 2022,
+    "sname": "TANOY SAHA",
+    "univ_roll": "16900318024",
+    "stream": "ECE",
+    "company": "TCS"
+  },
+  {
+    "id": "777",
+    "year": 2022,
+    "sname": "TATHAGATA NANDI",
+    "univ_roll": "16900318023",
+    "stream": "ECE",
+    "company": "TCS"
+  },
+  {
+    "id": "778",
+    "year": 2022,
+    "sname": "TIRTHANKAR NATH",
+    "univ_roll": "16900318021",
+    "stream": "ECE",
+    "company": "TCS"
+  },
+  {
+    "id": "779",
+    "year": 2022,
+    "sname": "WRITOSREE BATABYAL",
+    "univ_roll": "16900318019",
+    "stream": "ECE",
+    "company": "TCS"
+  },
+  {
+    "id": "780",
+    "year": 2022,
+    "sname": "ANUBHAB BISWAS",
+    "univ_roll": "16901618141",
+    "stream": "EE",
+    "company": "TCS"
+  },
+  {
+    "id": "781",
+    "year": 2022,
+    "sname": "ANUPAM SAMUI",
+    "univ_roll": "16901618140",
+    "stream": "EE",
+    "company": "TCS"
+  },
+  {
+    "id": "782",
+    "year": 2022,
+    "sname": "ARNAB DAS",
+    "univ_roll": "16901618133",
+    "stream": "EE",
+    "company": "TCS"
+  },
+  {
+    "id": "783",
+    "year": 2022,
+    "sname": "BIPASHA DEY",
+    "univ_roll": "16901618123",
+    "stream": "EE",
+    "company": "TCS"
+  },
+  {
+    "id": "784",
+    "year": 2022,
+    "sname": "JOYDEEP RANA",
+    "univ_roll": "16901618106",
+    "stream": "EE",
+    "company": "TCS"
+  },
+  {
+    "id": "785",
+    "year": 2022,
+    "sname": "MAYUK MUKHERJEE",
+    "univ_roll": "16901618101",
+    "stream": "EE",
+    "company": "TCS"
+  },
+  {
+    "id": "786",
+    "year": 2022,
+    "sname": "RAJDEEP DAS",
+    "univ_roll": "16901618088",
+    "stream": "EE",
+    "company": "TCS"
+  },
+  {
+    "id": "787",
+    "year": 2022,
+    "sname": "RATUL GHOSH",
+    "univ_roll": "16901618084",
+    "stream": "EE",
+    "company": "TCS"
+  },
+  {
+    "id": "788",
+    "year": 2022,
+    "sname": "RIMPA MUKHERJEE",
+    "univ_roll": "16901618083",
+    "stream": "EE",
+    "company": "TCS"
+  },
+  {
+    "id": "789",
+    "year": 2022,
+    "sname": "SAMYAJIT GHOSH",
+    "univ_roll": "16901618077",
+    "stream": "EE",
+    "company": "TCS"
+  },
+  {
+    "id": "790",
+    "year": 2022,
+    "sname": "SAYAN CHAKRABORTY",
+    "univ_roll": "16901618070",
+    "stream": "EE",
+    "company": "TCS"
+  },
+  {
+    "id": "791",
+    "year": 2022,
+    "sname": "SAYANDEEP MAITRA",
+    "univ_roll": "16901618069",
+    "stream": "EE",
+    "company": "TCS"
+  },
+  {
+    "id": "792",
+    "year": 2022,
+    "sname": "SIMANTINI CHAKRABARTI",
+    "univ_roll": "16901618064",
+    "stream": "EE",
+    "company": "TCS"
+  },
+  {
+    "id": "793",
+    "year": 2022,
+    "sname": "SIRSHAK DASGUPTA",
+    "univ_roll": "16901618063",
+    "stream": "EE",
+    "company": "TCS"
+  },
+  {
+    "id": "794",
+    "year": 2022,
+    "sname": "SOHAM ROY",
+    "univ_roll": "16901618061",
+    "stream": "EE",
+    "company": "TCS"
+  },
+  {
+    "id": "795",
+    "year": 2022,
+    "sname": "SOUMAVA CHAKRABORTY",
+    "univ_roll": "16901618057",
+    "stream": "EE",
+    "company": "TCS"
+  },
+  {
+    "id": "796",
+    "year": 2022,
+    "sname": "SOUMYAJYOTI KUMAR",
+    "univ_roll": "16901618053",
+    "stream": "EE",
+    "company": "TCS"
+  },
+  {
+    "id": "797",
+    "year": 2022,
+    "sname": "SOURIN GHOSH",
+    "univ_roll": "16901618051",
+    "stream": "EE",
+    "company": "TCS"
+  },
+  {
+    "id": "798",
+    "year": 2022,
+    "sname": "SOURYA SHOME",
+    "univ_roll": "16901618050",
+    "stream": "EE",
+    "company": "TCS"
+  },
+  {
+    "id": "799",
+    "year": 2022,
+    "sname": "SUJOY DATTA",
+    "univ_roll": "16901618040",
+    "stream": "EE",
+    "company": "TCS DIGITAL"
+  },
+  {
+    "id": "800",
+    "year": 2022,
+    "sname": "SUTANU DAS",
+    "univ_roll": "16901618036",
+    "stream": "EE",
+    "company": "TCS"
+  },
+  {
+    "id": "801",
+    "year": 2022,
+    "sname": "SWARNAVA SARKAR",
+    "univ_roll": "16901618031",
+    "stream": "EE",
+    "company": "TCS"
+  },
+  {
+    "id": "802",
+    "year": 2022,
+    "sname": "ADITYA NANDY",
+    "univ_roll": "16900218064",
+    "stream": "IT",
+    "company": "TCS"
+  },
+  {
+    "id": "803",
+    "year": 2022,
+    "sname": "ANIRUDDHA NAYEK",
+    "univ_roll": "16900218061",
+    "stream": "IT",
+    "company": "TCS"
+  },
+  {
+    "id": "804",
+    "year": 2022,
+    "sname": "AVISHAKE MAJI",
+    "univ_roll": "16900218054",
+    "stream": "IT",
+    "company": "TCS DIGITAL"
+  },
+  {
+    "id": "805",
+    "year": 2022,
+    "sname": "BIHAN CHAKRABARTI",
+    "univ_roll": "16900218052",
+    "stream": "IT",
+    "company": "TCS DIGITAL"
+  },
+  {
+    "id": "806",
+    "year": 2022,
+    "sname": "GOVIND KUMAR CHOUDHARY",
+    "univ_roll": "16900218045",
+    "stream": "IT",
+    "company": "TCS"
+  },
+  {
+    "id": "807",
+    "year": 2022,
+    "sname": "ISHITA KUMARI",
+    "univ_roll": "16900218044",
+    "stream": "IT",
+    "company": "TCS"
+  },
+  {
+    "id": "808",
+    "year": 2022,
+    "sname": "LOKESH OJHA",
+    "univ_roll": "16900218043",
+    "stream": "IT",
+    "company": "TCS DIGITAL"
+  },
+  {
+    "id": "809",
+    "year": 2022,
+    "sname": "MONIKA SINGH",
+    "univ_roll": "16900218038",
+    "stream": "IT",
+    "company": "TCS"
+  },
+  {
+    "id": "810",
+    "year": 2022,
+    "sname": "SAGUN JAISWAL",
+    "univ_roll": "16900218023",
+    "stream": "IT",
+    "company": "TCS"
+  },
+  {
+    "id": "811",
+    "year": 2022,
+    "sname": "SUBHADIP CHOWDHURY",
+    "univ_roll": "16900218018",
+    "stream": "IT",
+    "company": "TCS"
+  },
+  {
+    "id": "812",
+    "year": 2022,
+    "sname": "SWANMOY NAG",
+    "univ_roll": "16900218013",
+    "stream": "IT",
+    "company": "TCS"
+  },
+  {
+    "id": "813",
+    "year": 2022,
+    "sname": "SWAPNANIL DUTTA",
+    "univ_roll": "16900218012",
+    "stream": "IT",
+    "company": "TCS"
+  },
+  {
+    "id": "814",
+    "year": 2022,
+    "sname": "SWARNASEKHAR DUTTA",
+    "univ_roll": "16900218011",
+    "stream": "IT",
+    "company": "TCS"
+  },
+  {
+    "id": "815",
+    "year": 2022,
+    "sname": "VIKASH SHAW",
+    "univ_roll": "16900218009",
+    "stream": "IT",
+    "company": "TCS"
+  },
+  {
+    "id": "816",
+    "year": 2022,
+    "sname": "JITENDRA NATH PARAMANICK",
+    "univ_roll": "16901019009",
+    "stream": "MCA",
+    "company": "TCS"
+  },
+  {
+    "id": "817",
+    "year": 2022,
+    "sname": "ABIR MUKHERJEE",
+    "univ_roll": "16900718144",
+    "stream": "ME",
+    "company": "TCS"
+  },
+  {
+    "id": "818",
+    "year": 2022,
+    "sname": "ANUP BISWAS",
+    "univ_roll": "16900718133",
+    "stream": "ME",
+    "company": "TCS"
+  },
+  {
+    "id": "819",
+    "year": 2022,
+    "sname": "ARIJIT SADHUKHAN",
+    "univ_roll": "16900718129",
+    "stream": "ME",
+    "company": "TCS"
+  },
+  {
+    "id": "820",
+    "year": 2022,
+    "sname": "ARYA SARKAR",
+    "univ_roll": "16900718122",
+    "stream": "ME",
+    "company": "TCS"
+  },
+  {
+    "id": "821",
+    "year": 2022,
+    "sname": "BHASKAR CHATTERJEE",
+    "univ_roll": "16900718115",
+    "stream": "ME",
+    "company": "TCS"
+  },
+  {
+    "id": "822",
+    "year": 2022,
+    "sname": "BIPRODIP SADHUKHAN",
+    "univ_roll": "16900718114",
+    "stream": "ME",
+    "company": "TCS"
+  },
+  {
+    "id": "823",
+    "year": 2022,
+    "sname": "DEBADREE BHATTACHARYA",
+    "univ_roll": "16900718112",
+    "stream": "ME",
+    "company": "TCS"
+  },
+  {
+    "id": "824",
+    "year": 2022,
+    "sname": "HARSH JAISWAL",
+    "univ_roll": "16900718106",
+    "stream": "ME",
+    "company": "TCS"
+  },
+  {
+    "id": "825",
+    "year": 2022,
+    "sname": "HILLOLE BHATTACHARYYA",
+    "univ_roll": "16900718105",
+    "stream": "ME",
+    "company": "TCS"
+  },
+  {
+    "id": "826",
+    "year": 2022,
+    "sname": "HRIKTIK KHAN",
+    "univ_roll": "16900718103",
+    "stream": "ME",
+    "company": "TCS"
+  },
+  {
+    "id": "827",
+    "year": 2022,
+    "sname": "KOUSHIK GHOSH",
+    "univ_roll": "16900718100",
+    "stream": "ME",
+    "company": "TCS"
+  },
+  {
+    "id": "828",
+    "year": 2022,
+    "sname": "KUNTAL BASU ROY CHAUDHURY",
+    "univ_roll": "16900718099",
+    "stream": "ME",
+    "company": "TCS"
+  },
+  {
+    "id": "829",
+    "year": 2022,
+    "sname": "NILAVA SARKAR",
+    "univ_roll": "16900718091",
+    "stream": "ME",
+    "company": "TCS"
+  },
+  {
+    "id": "830",
+    "year": 2022,
+    "sname": "REBANTA GHOSH",
+    "univ_roll": "16900718079",
+    "stream": "ME",
+    "company": "TCS"
+  },
+  {
+    "id": "831",
+    "year": 2022,
+    "sname": "REBANTA GHOSH",
+    "univ_roll": "16900718079",
+    "stream": "ME",
+    "company": "TCS"
+  },
+  {
+    "id": "832",
+    "year": 2022,
+    "sname": "SK REJAUL KARIM",
+    "univ_roll": "16900718060",
+    "stream": "ME",
+    "company": "TCS"
+  },
+  {
+    "id": "833",
+    "year": 2022,
+    "sname": "SOHAN PAL",
+    "univ_roll": "16900718057",
+    "stream": "ME",
+    "company": "TCS"
+  },
+  {
+    "id": "834",
+    "year": 2022,
+    "sname": "SUJOY NANDI",
+    "univ_roll": "16900718041",
+    "stream": "ME",
+    "company": "TCS"
+  },
+  {
+    "id": "835",
+    "year": 2022,
+    "sname": "SUMANTA MISTRI",
+    "univ_roll": "16900718037",
+    "stream": "ME",
+    "company": "TCS"
+  },
+  {
+    "id": "836",
+    "year": 2022,
+    "sname": "TIRTHARAJ BHOWMIK",
+    "univ_roll": "16900718030",
+    "stream": "ME",
+    "company": "TCS"
+  },
+  {
+    "id": "837",
+    "year": 2022,
+    "sname": "SOUMYAJIT GHOSH",
+    "univ_roll": "16900118048",
+    "stream": "CSE",
+    "company": "TECH MAHINDRA"
+  },
+  {
+    "id": "838",
+    "year": 2022,
+    "sname": "UPONITA BANERJEE",
+    "univ_roll": "16900118027",
+    "stream": "CSE",
+    "company": "TECH MAHINDRA"
+  },
+  {
+    "id": "839",
+    "year": 2022,
+    "sname": "ANANYA PAUL",
+    "univ_roll": "16900318135",
+    "stream": "ECE",
+    "company": "TECH MAHINDRA"
+  },
+  {
+    "id": "840",
+    "year": 2022,
+    "sname": "ANIRBAN PAUL",
+    "univ_roll": "16900318132",
+    "stream": "ECE",
+    "company": "TECH MAHINDRA"
+  },
+  {
+    "id": "841",
+    "year": 2022,
+    "sname": "DEBASMIT RAY",
+    "univ_roll": "16900318113",
+    "stream": "ECE",
+    "company": "TECH MAHINDRA"
+  },
+  {
+    "id": "842",
+    "year": 2022,
+    "sname": "SUBHAM DUBEY",
+    "univ_roll": "16900218017",
+    "stream": "IT",
+    "company": "TECH MAHINDRA"
+  },
+  {
+    "id": "843",
+    "year": 2022,
+    "sname": "ABHISHEK MAZUMDER",
+    "univ_roll": "16905518059",
+    "stream": "AEIE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "844",
+    "year": 2022,
+    "sname": "ABHIT SINGH",
+    "univ_roll": "16905518058",
+    "stream": "AEIE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "845",
+    "year": 2022,
+    "sname": "AHANA DAS",
+    "univ_roll": "16905518057",
+    "stream": "AEIE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "846",
+    "year": 2022,
+    "sname": "ANISH GHORUI",
+    "univ_roll": "16905518053",
+    "stream": "AEIE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "847",
+    "year": 2022,
+    "sname": "ARATRIKA BISWAS",
+    "univ_roll": "16905518048",
+    "stream": "AEIE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "848",
+    "year": 2022,
+    "sname": "BRATATI ROUT",
+    "univ_roll": "16905518043",
+    "stream": "AEIE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "849",
+    "year": 2022,
+    "sname": "DEBANJAN CHAKRABORTY",
+    "univ_roll": "16905518042",
+    "stream": "AEIE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "850",
+    "year": 2022,
+    "sname": "DEBAPRIYA BOSE",
+    "univ_roll": "16905518041",
+    "stream": "AEIE",
+    "company": "WIPRO TECHNOLOGY"
+  },
+  {
+    "id": "851",
+    "year": 2022,
+    "sname": "HIRAK DAS",
+    "univ_roll": "16905518036",
+    "stream": "AEIE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "852",
+    "year": 2022,
+    "sname": "KIRTI DAS",
+    "univ_roll": "16905518030",
+    "stream": "AEIE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "853",
+    "year": 2022,
+    "sname": "MOUSUMI ADHIKARI",
+    "univ_roll": "16905518025",
+    "stream": "AEIE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "854",
+    "year": 2022,
+    "sname": "NIRMALYA MAITY",
+    "univ_roll": "16905518021",
+    "stream": "AEIE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "855",
+    "year": 2022,
+    "sname": "PIAL ROY",
+    "univ_roll": "16905518018",
+    "stream": "AEIE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "856",
+    "year": 2022,
+    "sname": "POULAMI JASH",
+    "univ_roll": "16905518017",
+    "stream": "AEIE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "857",
+    "year": 2022,
+    "sname": "PRIYANSHU BANDYOPADHYAY",
+    "univ_roll": "16905518014",
+    "stream": "AEIE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "858",
+    "year": 2022,
+    "sname": "SARTHAK MUKHERJEE",
+    "univ_roll": "16905518013",
+    "stream": "AEIE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "859",
+    "year": 2022,
+    "sname": "SOUMALYA SEN",
+    "univ_roll": "16905518010",
+    "stream": "AEIE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "860",
+    "year": 2022,
+    "sname": "SUBHRAJYOTI SEN GUPTA",
+    "univ_roll": "16905518005",
+    "stream": "AEIE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "861",
+    "year": 2022,
+    "sname": "TAMALIKA KARFA",
+    "univ_roll": "16905518003",
+    "stream": "AEIE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "862",
+    "year": 2022,
+    "sname": "UTSHA DASGUPTA",
+    "univ_roll": "16905518002",
+    "stream": "AEIE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "863",
+    "year": 2022,
+    "sname": "ABHISHEK KUMAR",
+    "univ_roll": "16900118146",
+    "stream": "CSE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "864",
+    "year": 2022,
+    "sname": "ABHISHEK SHARMA",
+    "univ_roll": "16900118144",
+    "stream": "CSE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "865",
+    "year": 2022,
+    "sname": "ADITYA KUMAR SINGH",
+    "univ_roll": "16900118143",
+    "stream": "CSE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "866",
+    "year": 2022,
+    "sname": "AHERI SAHA",
+    "univ_roll": "16900118141",
+    "stream": "CSE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "867",
+    "year": 2022,
+    "sname": "AISHIK GHOSH",
+    "univ_roll": "16900118140",
+    "stream": "CSE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "868",
+    "year": 2022,
+    "sname": "AKASH CHANDRA SAHU",
+    "univ_roll": "16900118137",
+    "stream": "CSE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "869",
+    "year": 2022,
+    "sname": "AKASH PAUL",
+    "univ_roll": "16900118135",
+    "stream": "CSE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "870",
+    "year": 2022,
+    "sname": "ANKITA MAITRA",
+    "univ_roll": "16900118130",
+    "stream": "CSE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "871",
+    "year": 2022,
+    "sname": "ARIK RAKSHIT",
+    "univ_roll": "16900118126",
+    "stream": "CSE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "872",
+    "year": 2022,
+    "sname": "AVIRUPA CHAKRABORTY",
+    "univ_roll": "16900118122",
+    "stream": "CSE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "873",
+    "year": 2022,
+    "sname": "AYAN ROY",
+    "univ_roll": "16900118120",
+    "stream": "CSE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "874",
+    "year": 2022,
+    "sname": "AYANTIKA DATTA",
+    "univ_roll": "16900118119",
+    "stream": "CSE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "875",
+    "year": 2022,
+    "sname": "BISHAL PRASAD",
+    "univ_roll": "16900119003",
+    "stream": "CSE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "876",
+    "year": 2022,
+    "sname": "DEBOJITA DEY",
+    "univ_roll": "16900118113",
+    "stream": "CSE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "877",
+    "year": 2022,
+    "sname": "DILIP BASAK",
+    "univ_roll": "16900118110",
+    "stream": "CSE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "878",
+    "year": 2022,
+    "sname": "KAUSTAV MUKHERJEE",
+    "univ_roll": "16900118104",
+    "stream": "CSE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "879",
+    "year": 2022,
+    "sname": "KRISHNENDU KUNDU",
+    "univ_roll": "16900118103",
+    "stream": "CSE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "880",
+    "year": 2022,
+    "sname": "KUMARI NISHITA",
+    "univ_roll": "16900118102",
+    "stream": "CSE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "881",
+    "year": 2022,
+    "sname": "MD MOZAMMIL HUSSAIN",
+    "univ_roll": "16900118099",
+    "stream": "CSE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "882",
+    "year": 2022,
+    "sname": "MOHANA CHAKRABORTY",
+    "univ_roll": "16900118098",
+    "stream": "CSE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "883",
+    "year": 2022,
+    "sname": "NEEL KAMAL",
+    "univ_roll": "16900118096",
+    "stream": "CSE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "884",
+    "year": 2022,
+    "sname": "NIVEDITA SINGH",
+    "univ_roll": "16900118094",
+    "stream": "CSE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "885",
+    "year": 2022,
+    "sname": "PALASH KUNDU",
+    "univ_roll": "16900718089",
+    "stream": "CSE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "886",
+    "year": 2022,
+    "sname": "PARAJ BHATTACHARJEE",
+    "univ_roll": "16900118093",
+    "stream": "CSE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "887",
+    "year": 2022,
+    "sname": "PARNA PRATIM MITRA",
+    "univ_roll": "16900118092",
+    "stream": "CSE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "888",
+    "year": 2022,
+    "sname": "POULAMI GHOSH",
+    "univ_roll": "16900118091",
+    "stream": "CSE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "889",
+    "year": 2022,
+    "sname": "PRABOR MUKHERJEE",
+    "univ_roll": "16900118090",
+    "stream": "CSE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "890",
+    "year": 2022,
+    "sname": "PRASHANT JHA",
+    "univ_roll": "16900118089",
+    "stream": "CSE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "891",
+    "year": 2022,
+    "sname": "PRINCE KUMAR",
+    "univ_roll": "16900118088",
+    "stream": "CSE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "892",
+    "year": 2022,
+    "sname": "PRITHWISH SAMANTA",
+    "univ_roll": "16900118086",
+    "stream": "CSE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "893",
+    "year": 2022,
+    "sname": "RIDDHI CHAKRABORTY",
+    "univ_roll": "16900118080",
+    "stream": "CSE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "894",
+    "year": 2022,
+    "sname": "ROHIT SHAW",
+    "univ_roll": "16900118078",
+    "stream": "CSE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "895",
+    "year": 2022,
+    "sname": "SAGNIC DAS",
+    "univ_roll": "16900118077",
+    "stream": "CSE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "896",
+    "year": 2022,
+    "sname": "SAMADRITA GHOSH",
+    "univ_roll": "16900118075",
+    "stream": "CSE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "897",
+    "year": 2022,
+    "sname": "SANDIPAN DEY",
+    "univ_roll": "16900118073",
+    "stream": "CSE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "898",
+    "year": 2022,
+    "sname": "SAYAN KUNDU",
+    "univ_roll": "16900118067",
+    "stream": "CSE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "899",
+    "year": 2022,
+    "sname": "SAYAN PRAMANICK",
+    "univ_roll": "16900119012",
+    "stream": "CSE",
+    "company": "TEOCO CORPORATION"
+  },
+  {
+    "id": "900",
+    "year": 2022,
+    "sname": "SHANKAR KUMAR KUSHWAHA",
+    "univ_roll": "16900118065",
+    "stream": "CSE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "901",
+    "year": 2022,
+    "sname": "SHIVAM KUMAR",
+    "univ_roll": "16900118062",
+    "stream": "CSE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "902",
+    "year": 2022,
+    "sname": "SHREYA BHATTACHARYYA",
+    "univ_roll": "16900118060",
+    "stream": "CSE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "903",
+    "year": 2022,
+    "sname": "SHREYEE HALDER",
+    "univ_roll": "16900118058",
+    "stream": "CSE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "904",
+    "year": 2022,
+    "sname": "SHUBHAJIT SETH",
+    "univ_roll": "16900118057",
+    "stream": "CSE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "905",
+    "year": 2022,
+    "sname": "SIDDHANT SHARMA",
+    "univ_roll": "16900118055",
+    "stream": "CSE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "906",
+    "year": 2022,
+    "sname": "SOUMABHA MAJUMDAR",
+    "univ_roll": "16900118052",
+    "stream": "CSE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "907",
+    "year": 2022,
+    "sname": "SOUMYADIP PAL",
+    "univ_roll": "16900118050",
+    "stream": "CSE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "908",
+    "year": 2022,
+    "sname": "SOUMYAJIT DAS",
+    "univ_roll": "16900118049",
+    "stream": "CSE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "909",
+    "year": 2022,
+    "sname": "SUBHAJIT KAR",
+    "univ_roll": "16900118044",
+    "stream": "CSE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "910",
+    "year": 2022,
+    "sname": "SUDIP PAL",
+    "univ_roll": "16900118042",
+    "stream": "CSE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "911",
+    "year": 2022,
+    "sname": "SWARNAVA SINHA",
+    "univ_roll": "16900118039",
+    "stream": "CSE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "912",
+    "year": 2022,
+    "sname": "TANISHA SINHA",
+    "univ_roll": "16900118035",
+    "stream": "CSE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "913",
+    "year": 2022,
+    "sname": "TISHANT KUMAR",
+    "univ_roll": "16900118034",
+    "stream": "CSE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "914",
+    "year": 2022,
+    "sname": "TRINANJAN NANDI",
+    "univ_roll": "16900118033",
+    "stream": "CSE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "915",
+    "year": 2022,
+    "sname": "TRIPARNA GANGULY",
+    "univ_roll": "16900118032",
+    "stream": "CSE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "916",
+    "year": 2022,
+    "sname": "TRISHA CHATTERJEE",
+    "univ_roll": "16900118031",
+    "stream": "CSE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "917",
+    "year": 2022,
+    "sname": "ABHIDIPTA DATTA",
+    "univ_roll": "16905518061",
+    "stream": "ECE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "918",
+    "year": 2022,
+    "sname": "ABHINABA DATTA",
+    "univ_roll": "16900318141",
+    "stream": "ECE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "919",
+    "year": 2022,
+    "sname": "ABHINAV DEBNATH",
+    "univ_roll": "16900318140",
+    "stream": "ECE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "920",
+    "year": 2022,
+    "sname": "ABHISEK DAS",
+    "univ_roll": "16901618147",
+    "stream": "ECE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "921",
+    "year": 2022,
+    "sname": "ADARSH KUMAR JHA",
+    "univ_roll": "16900318138",
+    "stream": "ECE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "922",
+    "year": 2022,
+    "sname": "ADRISH LAHIRI",
+    "univ_roll": "16900318137",
+    "stream": "ECE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "923",
+    "year": 2022,
+    "sname": "ANIK ROY",
+    "univ_roll": "16900318134",
+    "stream": "ECE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "924",
+    "year": 2022,
+    "sname": "ANIRBAN DATTA",
+    "univ_roll": "16900318133",
+    "stream": "ECE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "925",
+    "year": 2022,
+    "sname": "ANIRBAN SHAW",
+    "univ_roll": "16900318131",
+    "stream": "ECE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "926",
+    "year": 2022,
+    "sname": "ANISHA MUKHOPADHYAY",
+    "univ_roll": "16900318130",
+    "stream": "ECE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "927",
+    "year": 2022,
+    "sname": "ANKIT ANAND",
+    "univ_roll": "16900318128",
+    "stream": "ECE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "928",
+    "year": 2022,
+    "sname": "ANKUSH FARMANIA",
+    "univ_roll": "16900318125",
+    "stream": "ECE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "929",
+    "year": 2022,
+    "sname": "ANURUPA GHOSH",
+    "univ_roll": "16900318123",
+    "stream": "ECE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "930",
+    "year": 2022,
+    "sname": "ARNITA DUTTA",
+    "univ_roll": "16900318120",
+    "stream": "ECE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "931",
+    "year": 2022,
+    "sname": "ARYADEEP SADHUKHAN",
+    "univ_roll": "16900318119",
+    "stream": "ECE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "932",
+    "year": 2022,
+    "sname": "BISHAL HALDER",
+    "univ_roll": "16900318116",
+    "stream": "ECE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "933",
+    "year": 2022,
+    "sname": "DEBARGHA CHOUDHURI",
+    "univ_roll": "16900318114",
+    "stream": "ECE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "934",
+    "year": 2022,
+    "sname": "DEBAYAN GHOSH",
+    "univ_roll": "16900318112",
+    "stream": "ECE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "935",
+    "year": 2022,
+    "sname": "DEBMALYA DUTTA",
+    "univ_roll": "16900318109",
+    "stream": "ECE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "936",
+    "year": 2022,
+    "sname": "DEBOJYOTI GHOSH",
+    "univ_roll": "16900318108",
+    "stream": "ECE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "937",
+    "year": 2022,
+    "sname": "DEEPSHIKHA DAS",
+    "univ_roll": "16900318106",
+    "stream": "ECE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "938",
+    "year": 2022,
+    "sname": "DIPESH PAL",
+    "univ_roll": "16900318104",
+    "stream": "ECE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "939",
+    "year": 2022,
+    "sname": "DIPTOPRAVA JANA",
+    "univ_roll": "16901618110",
+    "stream": "ECE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "940",
+    "year": 2022,
+    "sname": "DRISTIDIP MAJUMDER",
+    "univ_roll": "16900318103",
+    "stream": "ECE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "941",
+    "year": 2022,
+    "sname": "ELLINA MUKHERJEE",
+    "univ_roll": "16900318102",
+    "stream": "ECE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "942",
+    "year": 2022,
+    "sname": "ENAKSHI GHOSH",
+    "univ_roll": "16900318101",
+    "stream": "ECE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "943",
+    "year": 2022,
+    "sname": "HRIPARNO DASGUPTA",
+    "univ_roll": "16900318099",
+    "stream": "ECE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "944",
+    "year": 2022,
+    "sname": "JAGRITI NAHATA",
+    "univ_roll": "16900318096",
+    "stream": "ECE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "945",
+    "year": 2022,
+    "sname": "JAHNABI GHOSH",
+    "univ_roll": "16900318095",
+    "stream": "ECE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "946",
+    "year": 2022,
+    "sname": "KAJAL KUMARI",
+    "univ_roll": "16900318094",
+    "stream": "ECE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "947",
+    "year": 2022,
+    "sname": "KANKANA DAS",
+    "univ_roll": "16900318093",
+    "stream": "ECE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "948",
+    "year": 2022,
+    "sname": "KUSHAL KANTA GARAI",
+    "univ_roll": "16900318090",
+    "stream": "ECE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "949",
+    "year": 2022,
+    "sname": "LOKESWAR RAO",
+    "univ_roll": "16900318087",
+    "stream": "ECE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "950",
+    "year": 2022,
+    "sname": "NEHA CHOUDHARY",
+    "univ_roll": "16900318082",
+    "stream": "ECE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "951",
+    "year": 2022,
+    "sname": "NEHA TIWARI",
+    "univ_roll": "16900318081",
+    "stream": "ECE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "952",
+    "year": 2022,
+    "sname": "NILOY KUMAR DEY",
+    "univ_roll": "16900318080",
+    "stream": "ECE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "953",
+    "year": 2022,
+    "sname": "PIJUSH BASAK",
+    "univ_roll": "16900318078",
+    "stream": "ECE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "954",
+    "year": 2022,
+    "sname": "PINAKESH BISWAS",
+    "univ_roll": "16900318077",
+    "stream": "ECE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "955",
+    "year": 2022,
+    "sname": "PRAKASH MISHRA",
+    "univ_roll": "16900318075",
+    "stream": "ECE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "956",
+    "year": 2022,
+    "sname": "PRATYAY BANERJEE",
+    "univ_roll": "16900318074",
+    "stream": "ECE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "957",
+    "year": 2022,
+    "sname": "PRATYUSHA JHA",
+    "univ_roll": "16900319002",
+    "stream": "ECE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "958",
+    "year": 2022,
+    "sname": "RAHUL BANERJEE",
+    "univ_roll": "16900318069",
+    "stream": "ECE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "959",
+    "year": 2022,
+    "sname": "RAJESH PANDIT",
+    "univ_roll": "16900318067",
+    "stream": "ECE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "960",
+    "year": 2022,
+    "sname": "RAKA BANERJEE",
+    "univ_roll": "16900319004",
+    "stream": "ECE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "961",
+    "year": 2022,
+    "sname": "RAKTIMA KARMAKAR",
+    "univ_roll": "16900318066",
+    "stream": "ECE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "962",
+    "year": 2022,
+    "sname": "RISHAB SINHA",
+    "univ_roll": "16900318064",
+    "stream": "ECE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "963",
+    "year": 2022,
+    "sname": "SAIBAL MAITI",
+    "univ_roll": "16900318060",
+    "stream": "ECE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "964",
+    "year": 2022,
+    "sname": "SANCHITA SIL",
+    "univ_roll": "16900318057",
+    "stream": "ECE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "965",
+    "year": 2022,
+    "sname": "SAPTARSHI BISWAS",
+    "univ_roll": "16900318056",
+    "stream": "ECE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "966",
+    "year": 2022,
+    "sname": "SARTHAK CHAKRABORTY",
+    "univ_roll": "16900318055",
+    "stream": "ECE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "967",
+    "year": 2022,
+    "sname": "SAYAN MAJHI",
+    "univ_roll": "16900318054",
+    "stream": "ECE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "968",
+    "year": 2022,
+    "sname": "SAYANTAN DAS",
+    "univ_roll": "16900318052",
+    "stream": "ECE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "969",
+    "year": 2022,
+    "sname": "SENJUTI HALDER",
+    "univ_roll": "16900318051",
+    "stream": "ECE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "970",
+    "year": 2022,
+    "sname": "SHEETAL PANDEY",
+    "univ_roll": "16900318050",
+    "stream": "ECE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "971",
+    "year": 2022,
+    "sname": "SHUBHAM SADHUKHAN",
+    "univ_roll": "16900318048",
+    "stream": "ECE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "972",
+    "year": 2022,
+    "sname": "SNEHENDU BISWAS",
+    "univ_roll": "16900318043",
+    "stream": "ECE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "973",
+    "year": 2022,
+    "sname": "SOHAN SARKAR",
+    "univ_roll": "16900318042",
+    "stream": "ECE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "974",
+    "year": 2022,
+    "sname": "SOUBHANIK DUTTA",
+    "univ_roll": "16900318039",
+    "stream": "ECE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "975",
+    "year": 2022,
+    "sname": "SOUMILI DE",
+    "univ_roll": "16900318036",
+    "stream": "ECE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "976",
+    "year": 2022,
+    "sname": "SOUPARNA CHOWDHURY",
+    "univ_roll": "16900318034",
+    "stream": "ECE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "977",
+    "year": 2022,
+    "sname": "SRIJITA GHOSH",
+    "univ_roll": "16900318033",
+    "stream": "ECE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "978",
+    "year": 2022,
+    "sname": "SRINJIT BHATTACHARYYA",
+    "univ_roll": "16900318032",
+    "stream": "ECE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "979",
+    "year": 2022,
+    "sname": "SUBHAM CHAKRABORTY",
+    "univ_roll": "16900318030",
+    "stream": "ECE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "980",
+    "year": 2022,
+    "sname": "SUDIPTA SADHUKHAN",
+    "univ_roll": "16900318026",
+    "stream": "ECE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "981",
+    "year": 2022,
+    "sname": "TANOY SAHA",
+    "univ_roll": "16900318024",
+    "stream": "ECE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "982",
+    "year": 2022,
+    "sname": "TIASA DAS",
+    "univ_roll": "16900318022",
+    "stream": "ECE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "983",
+    "year": 2022,
+    "sname": "TIRTHANKAR NATH",
+    "univ_roll": "16900318021",
+    "stream": "ECE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "984",
+    "year": 2022,
+    "sname": "WRITOSREE BATABYAL",
+    "univ_roll": "16900318019",
+    "stream": "ECE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "985",
+    "year": 2022,
+    "sname": "YASHANK GUPTA",
+    "univ_roll": "16900318018",
+    "stream": "ECE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "986",
+    "year": 2022,
+    "sname": "AISHIK DEWANJI",
+    "univ_roll": "16901618144",
+    "stream": "EE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "987",
+    "year": 2022,
+    "sname": "ANKUSH SEAL",
+    "univ_roll": "16901618142",
+    "stream": "EE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "988",
+    "year": 2022,
+    "sname": "ANUBHAB BISWAS",
+    "univ_roll": "16901618141",
+    "stream": "EE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "989",
+    "year": 2022,
+    "sname": "ANUPAM SAMUI",
+    "univ_roll": "16901618140",
+    "stream": "EE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "990",
+    "year": 2022,
+    "sname": "ARGHYA CHATTAPADHYAY",
+    "univ_roll": "16901618137",
+    "stream": "EE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "991",
+    "year": 2022,
+    "sname": "ARKAPRAVO RAY",
+    "univ_roll": "16901618134",
+    "stream": "EE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "992",
+    "year": 2022,
+    "sname": "ARNAB DAS",
+    "univ_roll": "16901618133",
+    "stream": "EE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "993",
+    "year": 2022,
+    "sname": "ARPA CHAKRABORTY",
+    "univ_roll": "16901618132",
+    "stream": "EE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "994",
+    "year": 2022,
+    "sname": "AYAN CHAKRABORTY",
+    "univ_roll": "16901618127",
+    "stream": "EE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "995",
+    "year": 2022,
+    "sname": "AYUSHI GUPTA",
+    "univ_roll": "16901618125",
+    "stream": "EE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "996",
+    "year": 2022,
+    "sname": "BIPASHA DEY",
+    "univ_roll": "16901618123",
+    "stream": "EE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "997",
+    "year": 2022,
+    "sname": "BISWAMITRA PAL",
+    "univ_roll": "16901618121",
+    "stream": "EE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "998",
+    "year": 2022,
+    "sname": "DEBMOY DUTTA",
+    "univ_roll": "16901618113",
+    "stream": "EE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "999",
+    "year": 2022,
+    "sname": "DIPTESH MUKHERJEE",
+    "univ_roll": "16901618111",
+    "stream": "EE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "1000",
+    "year": 2022,
+    "sname": "JOYDEEP RANA",
+    "univ_roll": "16901618106",
+    "stream": "EE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "1001",
+    "year": 2022,
+    "sname": "MANAMI CHAKRABORTY",
+    "univ_roll": "16901618102",
+    "stream": "EE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "1002",
+    "year": 2022,
+    "sname": "MOUSAM ALI SK",
+    "univ_roll": "16901618099",
+    "stream": "EE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "1003",
+    "year": 2022,
+    "sname": "NAYAN MAHATA",
+    "univ_roll": "16901618098",
+    "stream": "EE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "1004",
+    "year": 2022,
+    "sname": "NILANJAN BHATTACHARJEE",
+    "univ_roll": "16901617093",
+    "stream": "EE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "1005",
+    "year": 2022,
+    "sname": "PANKAJ KUMAR ROY",
+    "univ_roll": "16901618095",
+    "stream": "EE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "1006",
+    "year": 2022,
+    "sname": "PRABAL SAHA",
+    "univ_roll": "16901618093",
+    "stream": "EE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "1007",
+    "year": 2022,
+    "sname": "PROBAHA SINGHA ROY",
+    "univ_roll": "16901618089",
+    "stream": "EE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "1008",
+    "year": 2022,
+    "sname": "RAJDIP SANYAL",
+    "univ_roll": "16901618087",
+    "stream": "EE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "1009",
+    "year": 2022,
+    "sname": "RATUL GHOSH",
+    "univ_roll": "16901618084",
+    "stream": "EE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "1010",
+    "year": 2022,
+    "sname": "RITURAJ SAHA",
+    "univ_roll": "16901618081",
+    "stream": "EE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "1011",
+    "year": 2022,
+    "sname": "SAGNIK DAS",
+    "univ_roll": "16901618078",
+    "stream": "EE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "1012",
+    "year": 2022,
+    "sname": "SAMYAJIT GHOSH",
+    "univ_roll": "16901618077",
+    "stream": "EE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "1013",
+    "year": 2022,
+    "sname": "SANKHA SUBHRA MONDAL",
+    "univ_roll": "16901618073",
+    "stream": "EE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "1014",
+    "year": 2022,
+    "sname": "SAPRATIVO KUNDU",
+    "univ_roll": "16901618072",
+    "stream": "EE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "1015",
+    "year": 2022,
+    "sname": "SAYANDEEP MAITRA",
+    "univ_roll": "16901618069",
+    "stream": "EE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "1016",
+    "year": 2022,
+    "sname": "SAYANTAN GHOSH",
+    "univ_roll": "16901618067",
+    "stream": "EE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "1017",
+    "year": 2022,
+    "sname": "SHANTANU DAS",
+    "univ_roll": "16901618066",
+    "stream": "EE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "1018",
+    "year": 2022,
+    "sname": "SIRSHAK DASGUPTA",
+    "univ_roll": "16901618063",
+    "stream": "EE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "1019",
+    "year": 2022,
+    "sname": "SNEHASIS BARMAN",
+    "univ_roll": "16901618062",
+    "stream": "EE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "1020",
+    "year": 2022,
+    "sname": "SOHAM ROY",
+    "univ_roll": "16901618061",
+    "stream": "EE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "1021",
+    "year": 2022,
+    "sname": "SOHINI BHATTACHARYA",
+    "univ_roll": "16901618059",
+    "stream": "EE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "1022",
+    "year": 2022,
+    "sname": "SOUMAVA CHAKRABORTY",
+    "univ_roll": "16901618057",
+    "stream": "EE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "1023",
+    "year": 2022,
+    "sname": "SOURYA SHOME",
+    "univ_roll": "16901618050",
+    "stream": "EE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "1024",
+    "year": 2022,
+    "sname": "SUJOY DATTA",
+    "univ_roll": "16901618040",
+    "stream": "EE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "1025",
+    "year": 2022,
+    "sname": "SUMIT KUMAR CHAKRABORTY",
+    "univ_roll": "16901618037",
+    "stream": "EE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "1026",
+    "year": 2022,
+    "sname": "SUVAM NAG BISWAS",
+    "univ_roll": "16901618035",
+    "stream": "EE",
+    "company": "WIPRO TECHNOLOGY"
+  },
+  {
+    "id": "1027",
+    "year": 2022,
+    "sname": "SWAGNIK CHAKRABORTY",
+    "univ_roll": "16901618033",
+    "stream": "EE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "1028",
+    "year": 2022,
+    "sname": "SWARNAVA SARKAR",
+    "univ_roll": "16901618031",
+    "stream": "EE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "1029",
+    "year": 2022,
+    "sname": "TANMOY TALAPATRA",
+    "univ_roll": "16901618030",
+    "stream": "EE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "1030",
+    "year": 2022,
+    "sname": "TIRTHENDU CHAKRABORTY",
+    "univ_roll": "16901618028",
+    "stream": "EE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "1031",
+    "year": 2022,
+    "sname": "TUFAN GOSWAMI",
+    "univ_roll": "16901618027",
+    "stream": "EE",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "1032",
+    "year": 2022,
+    "sname": "ABHISHEK GUPTA",
+    "univ_roll": "16900218067",
+    "stream": "IT",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "1033",
+    "year": 2022,
+    "sname": "AMAN PRATAP SHEE",
+    "univ_roll": "16900218063",
+    "stream": "IT",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "1034",
+    "year": 2022,
+    "sname": "ANAMIKA THAKUR",
+    "univ_roll": "16900218062",
+    "stream": "IT",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "1035",
+    "year": 2022,
+    "sname": "ANIRBAN DEBROY",
+    "univ_roll": "16900219052",
+    "stream": "IT",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "1036",
+    "year": 2022,
+    "sname": "ANIRUDDHA NAYEK",
+    "univ_roll": "16900218061",
+    "stream": "IT",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "1037",
+    "year": 2022,
+    "sname": "AVINASH KUMAR MISHRA",
+    "univ_roll": "16900218055",
+    "stream": "IT",
+    "company": "TEOCO CORPORATION"
+  },
+  {
+    "id": "1038",
+    "year": 2022,
+    "sname": "AVISHAKE MAJI",
+    "univ_roll": "16900218054",
+    "stream": "IT",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "1039",
+    "year": 2022,
+    "sname": "BIHAN CHAKRABARTI",
+    "univ_roll": "16900218052",
+    "stream": "IT",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "1040",
+    "year": 2022,
+    "sname": "BIJAY SHAW",
+    "univ_roll": "16900218051",
+    "stream": "IT",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "1041",
+    "year": 2022,
+    "sname": "CHINMOYEE DASH",
+    "univ_roll": "16900218050",
+    "stream": "IT",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "1042",
+    "year": 2022,
+    "sname": "DEBJIT CHATTERJEE",
+    "univ_roll": "16900218049",
+    "stream": "IT",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "1043",
+    "year": 2022,
+    "sname": "GOURAV KUMAR SINGH",
+    "univ_roll": "16900218046",
+    "stream": "IT",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "1044",
+    "year": 2022,
+    "sname": "GOVIND KUMAR CHOUDHARY",
+    "univ_roll": "16900218045",
+    "stream": "IT",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "1045",
+    "year": 2022,
+    "sname": "LOKESH OJHA",
+    "univ_roll": "16900218043",
+    "stream": "IT",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "1046",
+    "year": 2022,
+    "sname": "MONIKA",
+    "univ_roll": "16900218039",
+    "stream": "IT",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "1047",
+    "year": 2022,
+    "sname": "MONIKA SINGH",
+    "univ_roll": "16900218038",
+    "stream": "IT",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "1048",
+    "year": 2022,
+    "sname": "MUHAMMAD FAIZ",
+    "univ_roll": "16900218040",
+    "stream": "IT",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "1049",
+    "year": 2022,
+    "sname": "PALLAV PUSHPARAJ",
+    "univ_roll": "16900218036",
+    "stream": "IT",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "1050",
+    "year": 2022,
+    "sname": "PRONAY GUHA",
+    "univ_roll": "16900218033",
+    "stream": "IT",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "1051",
+    "year": 2022,
+    "sname": "RAHUL DAS",
+    "univ_roll": "16900218032",
+    "stream": "IT",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "1052",
+    "year": 2022,
+    "sname": "RAIHAN RAZA",
+    "univ_roll": "16900218029",
+    "stream": "IT",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "1053",
+    "year": 2022,
+    "sname": "RANJAN KUMAR",
+    "univ_roll": "16900218026",
+    "stream": "IT",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "1054",
+    "year": 2022,
+    "sname": "SAGUN JAISWAL",
+    "univ_roll": "16900218023",
+    "stream": "IT",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "1055",
+    "year": 2022,
+    "sname": "SUBHADIP CHOWDHURY",
+    "univ_roll": "16900218018",
+    "stream": "IT",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "1056",
+    "year": 2022,
+    "sname": "SUCHETANA SHEET",
+    "univ_roll": "16900218016",
+    "stream": "IT",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "1057",
+    "year": 2022,
+    "sname": "SUDHANSHU KUMAR BHAGAT",
+    "univ_roll": "16900218015",
+    "stream": "IT",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "1058",
+    "year": 2022,
+    "sname": "SWAPNANIL DUTTA",
+    "univ_roll": "16900218012",
+    "stream": "IT",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "1059",
+    "year": 2022,
+    "sname": "SWARNASEKHAR DUTTA",
+    "univ_roll": "16900218011",
+    "stream": "IT",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "1060",
+    "year": 2022,
+    "sname": "VISHAL SINGH",
+    "univ_roll": "16900218007",
+    "stream": "IT",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "1061",
+    "year": 2022,
+    "sname": "YASHRAJ RATAWA",
+    "univ_roll": "16900218006",
+    "stream": "IT",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "1062",
+    "year": 2022,
+    "sname": "ARIJIT SADHUKHAN",
+    "univ_roll": "16900718129",
+    "stream": "ME",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "1063",
+    "year": 2022,
+    "sname": "ARKA PATHAK",
+    "univ_roll": "16900718127",
+    "stream": "ME",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "1064",
+    "year": 2022,
+    "sname": "ARYA SARKAR",
+    "univ_roll": "16900718122",
+    "stream": "ME",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "1065",
+    "year": 2022,
+    "sname": "DEBADREE BHATTACHARYA",
+    "univ_roll": "16900718112",
+    "stream": "ME",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "1066",
+    "year": 2022,
+    "sname": "HARSH JAISWAL",
+    "univ_roll": "16900718106",
+    "stream": "ME",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "1067",
+    "year": 2022,
+    "sname": "HRIJU DATTA",
+    "univ_roll": "16900718104",
+    "stream": "ME",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "1068",
+    "year": 2022,
+    "sname": "HRIKTIK KHAN",
+    "univ_roll": "16900718103",
+    "stream": "ME",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "1069",
+    "year": 2022,
+    "sname": "NILAVA SARKAR",
+    "univ_roll": "16900718091",
+    "stream": "ME",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "1070",
+    "year": 2022,
+    "sname": "PAWAN SHAW",
+    "univ_roll": "16900718087",
+    "stream": "ME",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "1071",
+    "year": 2022,
+    "sname": "PRABUDDHA NATH",
+    "univ_roll": "16900718086",
+    "stream": "ME",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "1072",
+    "year": 2022,
+    "sname": "REBANTA GHOSH",
+    "univ_roll": "16900718079",
+    "stream": "ME",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "1073",
+    "year": 2022,
+    "sname": "SANDIPAN GHOSHAL",
+    "univ_roll": "16900718071",
+    "stream": "ME",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "1074",
+    "year": 2022,
+    "sname": "SAYAN BANERJEE",
+    "univ_roll": "16900718067",
+    "stream": "ME",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "1075",
+    "year": 2022,
+    "sname": "SOURAV KARMAKAR",
+    "univ_roll": "16900719010",
+    "stream": "ME",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "1076",
+    "year": 2022,
+    "sname": "SUBHADEEP BASAK",
+    "univ_roll": "16900718047",
+    "stream": "ME",
+    "company": "WIPRO TECHNOLOGIES"
+  },
+  {
+    "id": "1077",
+    "year": 2022,
+    "sname": "SUBHABRATA DAS",
+    "univ_roll": "16905518008",
+    "stream": "AEIE",
+    "company": "ZENSAR TECHNOLOGIES"
+  },
+  {
+    "id": "1078",
+    "year": 2022,
+    "sname": "TIRTHENDU CHAKRABORTY",
+    "univ_roll": "16901618028",
+    "stream": "EE",
+    "company": "ZENSAR TECHNOLOGIES"
+  },
+  {
+    "id": "1079",
+    "year": 2022,
+    "sname": "YOGESH YOGENDRA",
+    "univ_roll": "16900118025",
+    "stream": "CSE",
+    "company": "ZEOTAP"
+  },
+  {
+    "id": "1080",
+    "year": 2022,
+    "sname": "MAYUKH SADHU",
+    "univ_roll": "16901618100",
+    "stream": "EE",
+    "company": "HCL TECHNOLOGIES"
+  }
+]
