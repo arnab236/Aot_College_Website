@@ -273,7 +273,8 @@ opacity: 0.85;
   width: 92%;
 }
 footer{
-    background-image: url('./assets/footergbg.jpg');
+    background-image: url('./assets/footergbg.jpg') no-repeat center center;
+     background-size: cover;
 }
 
 .tablebody {}
