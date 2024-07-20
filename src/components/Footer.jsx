@@ -6,9 +6,7 @@ import "../index.css"
 
 const Footer = () => {
   return (
-    // <footer className=' h-[100px] font-[para]'>
-{/*       <img src={FooterBg} className="w-full h-[36%] z-0 absolute bg-[linear-gradient(to_right_bottom,rgba(45,38,83,0.3),rgba(65,54,255,0.6))]  z-1 bg-cover" /> */}
-    <footer className="bg-cover">
+  <footer className="bg-cover">
     <div className=" bg-[linear-gradient(to_right_bottom,rgba(45,38,83,0.3),rgba(65,54,255,0.6))] py-12">
       <div className="container mx-auto flex justify-center">
         <div className="footer-content w-full md:w-1/3 text-center">
