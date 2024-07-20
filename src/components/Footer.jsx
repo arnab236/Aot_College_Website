@@ -3,12 +3,15 @@ import { NavLink } from 'react-router-dom';
 import { GrFacebookOption, GrInstagram, GrLinkedin, GrYoutube } from "react-icons/gr";
 import footerIcon from "../assets/AOT-Footer-Logo.png";
 import "../index.css"
+import FooterBg from "../assets/footergbg.jpg"
 
 const Footer = () => {
   return (
-    <footer className="bg-[linear-gradient(to_right_bottom,rgba(45,38,83,0.3),rgba(65,54,255,0.6)),url('../assets/footergbg.jpg')]  bg-center bg-cover font-['para'] " >
-    <div className="bg-[rgba(0,0,0,0.2)] py-12">
-      <div className="container mx-auto flex justify-center">
+    <footer className=' h-[100px] font-[para]'>
+      <img src={FooterBg} className="w-full h-[36%] z-0 absolute bg-[linear-gradient(to_right_bottom,rgba(45,38,83,0.3),rgba(65,54,255,0.6))]  z-1 bg-cover " />
+      <div className='w-full h-[36%] absolute z-5 bg-[linear-gradient(to_right_bottom,rgba(45,38,83,0.3),rgba(65,54,255,0.6))] '></div>
+    <div className="bg-[rgba(0,0,0,0.2)] py-12 z-10 relative">
+      <div className="container mx-auto flex justify-center ">
         <div className="footer-content w-full md:w-1/3 text-center">
           
           <div className=' flex flex-col items-center ml-5'>
