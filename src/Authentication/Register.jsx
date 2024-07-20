@@ -42,7 +42,7 @@ function Register() {
     <div className=' flex flex-col gap-5 justify-center items-center border-2 rounded-xl border-black bg-white p-5 mx-1 md:mx-0'>
         <img src={aotLogo} alt="aotlogo"  className='w-1/3'/>
         <div className=' font-semibold text-2xl font-[headline] uppercase'> Registration</div>
-        <form onSubmit={handleSubmit} className=' flex flex-col justify-between items-center' >
+        <form  className=' flex flex-col justify-between items-center' >
             <div class="input-container">
               <input placeholder="Enter your Name" className="input-field form-control font-[para]" type="text" onChange={handleInput} required/>
               <label htmlFor="name" for="input-field" class="input-label">
