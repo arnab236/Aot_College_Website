@@ -37,7 +37,6 @@ function Signup() {
             sign In
           </div>
           <form
-{/*             onSubmit={handleSubmit} */}
             className=" flex flex-col justify-between items-center"
           >
             <div class="input-container">
