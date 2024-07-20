@@ -12,7 +12,7 @@ const Footer = () => {
     <footer className="relative h-[100px]">   
     <img 
         src={FooterBg} 
-        className="w-full h-full object-cover absolute top-0 left-0 z-0" 
+        className="w-full h-full object-cover absolute top-0 left-0 z-0 bottom-0" 
         alt="Footer Background" 
       />
       <div className='w-full h-[36%] absolute z-5 bg-[linear-gradient(to_right_bottom,rgba(45,38,83,0.3),rgba(65,54,255,0.6))] '></div>
