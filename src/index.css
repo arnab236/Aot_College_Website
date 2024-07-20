@@ -272,6 +272,8 @@ opacity: 0.85;
 .input-field:focus + .input-label + .input-highlight {
   width: 92%;
 }
-
+footer{
+    background-image: url('footergbg.jpg');
+}
 
 .tablebody {}
