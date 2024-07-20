@@ -17,12 +17,12 @@ function Register() {
 
     })
 
-    const handleInput = (event) => {
-        setVal(prev => ({...prev,[event.target.name]:[event.target.value]}))
-        // const name = event.target.name;
-        // const value = event.target.value;
-        // setVal(values => ({...values, [name]:value}))
-    } 
+    // const handleInput = (event) => {
+    //     setVal(prev => ({...prev,[event.target.name]:[event.target.value]}))
+    //     // const name = event.target.name;
+    //     // const value = event.target.value;
+    //     // setVal(values => ({...values, [name]:value}))
+    // } 
     const navigate = useNavigate();
 
     // const handleSubmit = async(event) => {
@@ -44,49 +44,49 @@ function Register() {
         <div className=' font-semibold text-2xl font-[headline] uppercase'> Registration</div>
         <form  className=' flex flex-col justify-between items-center' >
             <div class="input-container">
-              <input placeholder="Enter your Name" className="input-field form-control font-[para]" type="text" onChange={handleInput} required/>
+              <input placeholder="Enter your Name" className="input-field form-control font-[para]" type="text"  required/>
               <label htmlFor="name" for="input-field" class="input-label">
                 Name
               </label>
               <span class="input-highlight"></span>
             </div>
             <div class="input-container">
-              <input placeholder="Enter your email" className="input-field form-control font-[para]" type="email" onChange={handleInput} required/>
+              <input placeholder="Enter your email" className="input-field form-control font-[para]" type="email"  required/>
               <label htmlFor="email" for="input-field" class="input-label">
                 Email
               </label>
               <span class="input-highlight"></span>
             </div>
             <div class="input-container">
-              <input placeholder="Enter your password" className="input-field form-control font-[para]" type="text" onChange={handleInput} required/>
+              <input placeholder="Enter your password" className="input-field form-control font-[para]" type="text"  required/>
               <label htmlFor="password" for="input-field" class="input-label">
                 Your Password
               </label>
               <span class="input-highlight"></span>
             </div>
             <div class="input-container">
-              <input placeholder="Enter your phone no." className="input-field form-control font-[para]" type="number" onChange={handleInput} required/>
+              <input placeholder="Enter your phone no." className="input-field form-control font-[para]" type="number"  required/>
               <label htmlFor='phone' for="input-field" class="input-label">
                 Phone No.
               </label>
               <span class="input-highlight"></span>
             </div>
             <div class="input-container">
-              <input placeholder="Enter your stream" className="input-field form-control font-[para]" type="text" onChange={handleInput} required/>
+              <input placeholder="Enter your stream" className="input-field form-control font-[para]" type="text"  required/>
               <label htmlFor='stream' for="input-field" class="input-label">
                 Stream
               </label>
               <span class="input-highlight"></span>
             </div>
             <div class="input-container">
-              <input placeholder="Enter your roll no." className="input-field form-control font-[para]" type="number" onChange={handleInput} required/>
+              <input placeholder="Enter your roll no." className="input-field form-control font-[para]" type="number"  required/>
               <label htmlFor='roll' for="input-field" class="input-label">
                 Roll no.
               </label>
               <span class="input-highlight"></span>
             </div>
             <div class="input-container">
-              <input placeholder="Enter your registration no." className="input-field form-control font-[para]" type="number" onChange={handleInput} required/>
+              <input placeholder="Enter your registration no." className="input-field form-control font-[para]" type="number"  required/>
               <label htmlFor='regostration' for="input-field" class="input-label">
                 Registration
               </label>
