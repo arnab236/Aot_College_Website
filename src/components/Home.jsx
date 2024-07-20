@@ -13,7 +13,7 @@ import Cse from './Cse'
 import Placement from './Placement'
 import Library from './Library'
 import NSS from './NSS'
-import Dashboard from '../Authentication/Dashboard'
+// import Dashboard from '../Authentication/Dashboard'
 import Register from '../Authentication/Register'
 import Signup from '../Authentication/Signup'
 
