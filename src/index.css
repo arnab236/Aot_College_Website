@@ -273,7 +273,7 @@ opacity: 0.85;
   width: 92%;
 }
 footer{
-    background-image: url('footergbg.jpg');
+    background-image: url('./assets/footergbg.jpg');
 }
 
 .tablebody {}
