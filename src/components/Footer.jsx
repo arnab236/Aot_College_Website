@@ -3,7 +3,6 @@ import { NavLink } from 'react-router-dom';
 import { GrFacebookOption, GrInstagram, GrLinkedin, GrYoutube } from "react-icons/gr";
 import footerIcon from "../assets/AOT-Footer-Logo.png";
 import "../index.css"
-import FooterBg from "../assets/footergbg.jpg"
 
 const Footer = () => {
   return (
